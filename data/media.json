@@ -1,0 +1,7042 @@
+[
+  {
+    "title": "Far from the tree",
+    "category": "book",
+    "status": "queued",
+    "author": "Andrew solomen"
+  },
+  {
+    "title": "Spirit that catches you, The",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Heather Rivers"
+    ],
+    "tags": [
+      "Health",
+      "drugs"
+    ]
+  },
+  {
+    "title": "Daemon",
+    "category": "book",
+    "status": "queued",
+    "author": "Daniel swarez"
+  },
+  {
+    "title": "Jonathan's space report",
+    "category": "topic",
+    "status": "done"
+  },
+  {
+    "title": "Brad nealy professor brothers",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "History of western philosophy",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Mr robot",
+    "category": "tv",
+    "status": "done",
+    "rating": 2
+  },
+  {
+    "title": "Baba is you",
+    "category": "game",
+    "status": "done",
+    "rating": 5
+  },
+  {
+    "title": "Island",
+    "category": "book",
+    "status": "queued",
+    "author": "Huxley",
+    "recommended_by": [
+      "Schlomo"
+    ]
+  },
+  {
+    "title": "Flowers for algernon",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Faulkner",
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Locked in Scalzi",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Blood music",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Alex Braun"
+    ]
+  },
+  {
+    "title": "Fez",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Hyperlight drifter",
+    "category": "game",
+    "status": "queued"
+  },
+  {
+    "title": "Zelda: breath of the wild",
+    "status": "done",
+    "rating": 5
+  },
+  {
+    "title": "The Mastermind Paul leroeiou, Evan ratliffe",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Megan/Alex"
+    ]
+  },
+  {
+    "title": "Kevin from wired the inevitable book",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Generations",
+    "category": "book",
+    "status": "queued",
+    "author": "William Strauss"
+  },
+  {
+    "title": "Laundry Files, The",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Last Time Machine, The (Old and New)",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Feather Thief, The",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Perfume",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "The Stanley parable",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Zach"
+    ]
+  },
+  {
+    "title": "Outer wilds, The",
+    "category": "game",
+    "status": "done",
+    "rating": 5,
+    "recommended_by": [
+      "Anselm"
+    ],
+    "tags": [
+      "space"
+    ]
+  },
+  {
+    "title": "Prestidge, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "WilKZ"
+    ]
+  },
+  {
+    "title": "The amazon way",
+    "status": "done",
+    "recommended_by": [
+      "Mark Emery"
+    ],
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "Fifth coulumn",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Amadeus",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Dali Disney short",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Where the Crawdads sing",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Let Sleeping Dogs Lie",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Stalker",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "AC"
+    ]
+  },
+  {
+    "title": "Lynchpin",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Bravest warriors",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "9",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Ghost map, The",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "The book theif",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Mindless eating",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Molly Maloof"
+    ]
+  },
+  {
+    "title": "Ascension",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Conspiracy book about Peter thiel",
+    "category": "topic",
+    "status": "queued"
+  },
+  {
+    "title": "Puppy cat and bee",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Sinews of Power: The Politics of the State Grid Corporation of China",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AC"
+    ]
+  },
+  {
+    "title": "Wonder Stuck",
+    "category": "book",
+    "status": "queued",
+    "author": "Selznick"
+  },
+  {
+    "title": "Behave",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Mark Emery",
+      "Mccoy",
+      "Schlomo",
+      "WKZ"
+    ]
+  },
+  {
+    "title": "Open society and its enemies, The",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Ancillary justice",
+    "category": "book",
+    "status": "queued",
+    "author": "Anne lackie",
+    "recommended_by": [
+      "Anselm",
+      "Kenan",
+      "Sara"
+    ]
+  },
+  {
+    "title": "Flow",
+    "category": "book",
+    "status": "done",
+    "rating": 3,
+    "recommended_by": [
+      "Mark Emery"
+    ],
+    "tags": [
+      "Leadership",
+      "work"
+    ]
+  },
+  {
+    "title": "Little bets",
+    "category": "book",
+    "status": "queued",
+    "author": "Peter Sims",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Under the banner of heaven",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Heather Rivers"
+    ]
+  },
+  {
+    "title": "People's history of the United States",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AC"
+    ]
+  },
+  {
+    "title": "Fast, cheap, and out of control",
+    "category": "movie",
+    "status": "done",
+    "recommended_by": [
+      "David Origin",
+      "DougieFresh"
+    ]
+  },
+  {
+    "title": "Live Brian image ng via ultrasound",
+    "category": "topic",
+    "status": "queued"
+  },
+  {
+    "title": "Atomic wrt. To habits",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Elementary particles",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Schlomo"
+    ]
+  },
+  {
+    "title": "Reading Rilke",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Icelandic penis museum documentary",
+    "category": "tv",
+    "status": "queued"
+  },
+  {
+    "title": "Bastion",
+    "category": "game",
+    "status": "queued"
+  },
+  {
+    "title": "Crow, The",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Sapiens a brief history of humankind",
+    "status": "done",
+    "rating": 3,
+    "recommended_by": [
+      "AMC"
+    ]
+  },
+  {
+    "title": "Make pritcher",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Name of the wind, The",
+    "category": "book",
+    "status": "done",
+    "rating": 3,
+    "tags": [
+      "fantasy",
+      "magic"
+    ]
+  },
+  {
+    "title": "Dark crystal",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Heather Rivers"
+    ]
+  },
+  {
+    "title": "Jummy corregan chris ware",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Reinventing the Sacred",
+    "status": "done",
+    "author": "Stuart Kauffman",
+    "rating": 4
+  },
+  {
+    "title": "Alif the unseen",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Gentleman jack",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AC"
+    ]
+  },
+  {
+    "title": "Gotteman conflict resolution styles",
+    "category": "topic",
+    "status": "queued"
+  },
+  {
+    "title": "Story of Luke, The",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Artemis",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AC"
+    ]
+  },
+  {
+    "title": "Only the strong",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Its your ship",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Mark Emery"
+    ],
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "Borksigan saga",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AC"
+    ]
+  },
+  {
+    "title": "History of the United States (Howard Zen)",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "zorba the Greek",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Faulkner"
+    ]
+  },
+  {
+    "title": "Factoria",
+    "category": "game",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Gerald"
+    ]
+  },
+  {
+    "title": "Conflict is not abuse",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Sara"
+    ]
+  },
+  {
+    "title": "They Live",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Altered carbon",
+    "status": "done",
+    "rating": 4
+  },
+  {
+    "title": "Grace and Frankie",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "B"
+    ]
+  },
+  {
+    "title": "Changing planes",
+    "category": "book",
+    "status": "done",
+    "author": "Ursula K leguin",
+    "rating": 4,
+    "recommended_by": [
+      "AC"
+    ]
+  },
+  {
+    "title": "Dirty rotten scoundrels",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Jitterbug perfume",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Crash course in world history",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Marcus Johnson",
+    "category": "book",
+    "status": "queued",
+    "notes": "https://en.wikipedia.org/wiki/Marcus_Johnson_(jazz_musician)"
+  },
+  {
+    "title": "Vital question, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Schlomo"
+    ]
+  },
+  {
+    "title": "Lou Harrison composer",
+    "category": "music",
+    "status": "queued",
+    "notes": "https://en.wikipedia.org/wiki/Lou_Harrison"
+  },
+  {
+    "title": "Freejack",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Fire upon the deep",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Anna Marie",
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Visions",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Genius Plague, The",
+    "category": "book",
+    "status": "done",
+    "tags": [
+      "mycology"
+    ]
+  },
+  {
+    "title": "Log mountain soon",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Heather Rivers"
+    ]
+  },
+  {
+    "title": "Hyper normalization",
+    "category": "movie",
+    "status": "queued",
+    "author": "Adam Curtis",
+    "recommended_by": [
+      "AlexNeumann",
+      "AndrewRostaing"
+    ]
+  },
+  {
+    "title": "Otherland",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Managing generation x",
+    "status": "done",
+    "rating": 4
+  },
+  {
+    "title": "Drive",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Mark Emery"
+    ],
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "Microman regarding arm amd acorn",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "MarcM"
+    ]
+  },
+  {
+    "title": "Stories of Your Life and Others",
+    "category": "book",
+    "status": "done",
+    "rating": 5,
+    "recommended_by": [
+      "AC"
+    ]
+  },
+  {
+    "title": "Manage the unmanageable",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Degenrate art",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Start with Why",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Mark Emery"
+    ]
+  },
+  {
+    "title": "Girl with drangon tattoo series",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "Swordfish",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Quest For Fire",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "South park quad copter episode",
+    "category": "tv",
+    "status": "queued"
+  },
+  {
+    "title": "The favourite",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh"
+    ]
+  },
+  {
+    "title": "Hard thing About Hard Things, The",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Florida project, The",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Slickrick",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Seeing like a state",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Maryanna",
+      "Megan/Alex",
+      "Sara"
+    ]
+  },
+  {
+    "title": "Electric koolaide acid test",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Difficult conversation",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Lost connections",
+    "category": "book",
+    "status": "queued",
+    "author": "Yohan hari",
+    "recommended_by": [
+      "Becca"
+    ]
+  },
+  {
+    "title": "Mary gaitskil",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AC"
+    ]
+  },
+  {
+    "title": "Mists of Avalon",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Witness, The",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm",
+      "George"
+    ]
+  },
+  {
+    "title": "Reactor idle",
+    "category": "game",
+    "status": "queued"
+  },
+  {
+    "title": "Space Opera",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Emma Persky"
+    ]
+  },
+  {
+    "title": "Lab girl",
+    "status": "done",
+    "rating": 3,
+    "recommended_by": [
+      "Jane Wang"
+    ]
+  },
+  {
+    "title": "Ignition!",
+    "status": "done",
+    "recommended_by": [
+      "Jane"
+    ],
+    "tags": [
+      "Rockets"
+    ]
+  },
+  {
+    "title": "Body keeps the score, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AC",
+      "Jason Porath"
+    ]
+  },
+  {
+    "title": "xenogenesis",
+    "status": "done",
+    "recommended_by": [
+      "AC"
+    ],
+    "tags": [
+      "Gender/Race"
+    ]
+  },
+  {
+    "title": "How not to be wrong",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Napoleans Buttons",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Getting to yes",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anna Marie"
+    ]
+  },
+  {
+    "title": "Long now talk on point cloud extraction in astronomy: Mary Lou jepsen (jepson)",
+    "category": "topic",
+    "status": "queued",
+    "recommended_by": [
+      "Neal S"
+    ]
+  },
+  {
+    "title": "Parable of the polygons",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Old mans war",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Lcd soundststem",
+    "category": "music",
+    "status": "done"
+  },
+  {
+    "title": "Religion of Technology",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Radioactive",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Transpocalypse",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "In Bruges (movie)",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh"
+    ]
+  },
+  {
+    "title": "Conversation",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Closterman short stories)",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Jonathan"
+    ]
+  },
+  {
+    "title": "life of david gale",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Leather math",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "When Harry met Sally",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Horizon zero dawn",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "AC",
+      "Anselm",
+      "Bump"
+    ]
+  },
+  {
+    "title": "Slate star codex on ketamine",
+    "category": "article",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "Qualafied small business stock...",
+    "category": "topic",
+    "status": "done"
+  },
+  {
+    "title": "Queen of Versailles, The",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Animal Crossing",
+    "category": "game",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "AC"
+    ]
+  },
+  {
+    "title": "Transmetropolitan",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "I contain multitudes",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Annie hall",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Psychology of writing, The",
+    "category": "book",
+    "status": "queued",
+    "author": "Kellog",
+    "recommended_by": [
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Transistor",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "DonE"
+    ]
+  },
+  {
+    "title": "World of the Tears",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "The 100",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Sure Thing",
+    "category": "book",
+    "status": "queued",
+    "author": "David ives"
+  },
+  {
+    "title": "Waking the tiger",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "West wing season one episode 3",
+    "category": "tv",
+    "status": "queued"
+  },
+  {
+    "title": "Other life",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "The feminine mystique",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Kitt Watkins",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Joe Abercrombie first law trilogy",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Golden witchbreed",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "A cats tale",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Paul Bohm"
+    ]
+  },
+  {
+    "title": "Invisible planet",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Unknown"
+    ]
+  },
+  {
+    "title": "How the Sun Got its Spots",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Gerals"
+    ]
+  },
+  {
+    "title": "Its ok to be the boss",
+    "category": "book",
+    "status": "queued",
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "Notational velocity",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Principles",
+    "category": "book",
+    "status": "queued",
+    "author": "Ray Daylio",
+    "recommended_by": [
+      "Sean K"
+    ],
+    "notes": "https://drive.google.com/drive/folders/0B9z7M9tZnFufYTdqQThvaFozOGc"
+  },
+  {
+    "title": "After on",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AMC"
+    ]
+  },
+  {
+    "title": "Celeste",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Space engineers",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Ancillary guesses",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Parable of the Sewer",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Anselm",
+      "Matt Faulkner"
+    ],
+    "tags": [
+      "dystopia"
+    ]
+  },
+  {
+    "title": "Now this war has two sides",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Derek Jensen",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Endgame Del",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Music Man, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Crutcher"
+    ]
+  },
+  {
+    "title": "The Zookeepers Wife",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Mortal engines",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Galaxy Quest",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Jay P"
+    ]
+  },
+  {
+    "title": "King of kong",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Burn after Reading",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Lala Land",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "David K"
+    ]
+  },
+  {
+    "title": "Dune",
+    "category": "movie",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "Till Human Voices Wake Us",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "World of the Tears",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "The Triplets of Bellvue",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Sugarfish",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Scott N"
+    ]
+  },
+  {
+    "title": "Lisa Randall",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Overstory, The",
+    "category": "book",
+    "status": "done",
+    "rating": 5,
+    "recommended_by": [
+      "Megan/Alex"
+    ],
+    "tags": [
+      "DefiesCategoy"
+    ]
+  },
+  {
+    "title": "Wheat Belly",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Molly Maloof"
+    ],
+    "tags": [
+      "Diet"
+    ]
+  },
+  {
+    "title": "Turings Cathedral",
+    "status": "done",
+    "recommended_by": [
+      "CodyDaniel"
+    ],
+    "tags": [
+      "software"
+    ]
+  },
+  {
+    "title": "Rework",
+    "status": "done",
+    "rating": 3,
+    "recommended_by": [
+      "Russ Smith"
+    ]
+  },
+  {
+    "title": "Company of One",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Unknown"
+    ],
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "Against Method",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "The High Frontier: human colonies in space",
+    "status": "done",
+    "recommended_by": [
+      "MartineR"
+    ]
+  },
+  {
+    "title": "Remote",
+    "status": "done",
+    "author": "37 signals group",
+    "rating": 3,
+    "recommended_by": [
+      "Russ Smith"
+    ]
+  },
+  {
+    "title": "Deception",
+    "status": "done",
+    "rating": 2,
+    "recommended_by": [
+      "Alex Jacobson"
+    ]
+  },
+  {
+    "title": "Beginning Illumination: Learning the Ancient Art, Step by Step",
+    "status": "done"
+  },
+  {
+    "title": "Designa",
+    "status": "done",
+    "rating": 4,
+    "tags": [
+      "Art"
+    ]
+  },
+  {
+    "title": "Fall or Dodge in Hell",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Andy Lee"
+    ]
+  },
+  {
+    "title": "Drugs 2.0",
+    "status": "done",
+    "tags": [
+      "drugs"
+    ]
+  },
+  {
+    "title": "PIHKAL",
+    "status": "done",
+    "rating": 4,
+    "tags": [
+      "drugs"
+    ]
+  },
+  {
+    "title": "TIHKAL",
+    "status": "done",
+    "recommended_by": [
+      "Jane Wang"
+    ],
+    "tags": [
+      "drugs"
+    ]
+  },
+  {
+    "title": "Code complete",
+    "status": "done",
+    "rating": 4,
+    "tags": [
+      "software"
+    ]
+  },
+  {
+    "title": "Purpose driven church, The",
+    "status": "done",
+    "recommended_by": [
+      "OtherBook"
+    ]
+  },
+  {
+    "title": "How to change your mind",
+    "status": "queued",
+    "recommended_by": [
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Ultrahigh voltage ac/dc grids",
+    "status": "done",
+    "tags": [
+      "e-"
+    ]
+  },
+  {
+    "title": "The symmetries of things",
+    "status": "done",
+    "recommended_by": [
+      "Anna Marie"
+    ]
+  },
+  {
+    "title": "Clean code",
+    "status": "done",
+    "rating": 3,
+    "recommended_by": [
+      "Ted B"
+    ],
+    "tags": [
+      "software"
+    ]
+  },
+  {
+    "title": "Clean coder",
+    "status": "done",
+    "rating": 3,
+    "tags": [
+      "software"
+    ]
+  },
+  {
+    "title": "Clean architectures",
+    "status": "done",
+    "rating": 3,
+    "recommended_by": [
+      "Ted B"
+    ],
+    "tags": [
+      "software"
+    ]
+  },
+  {
+    "title": "Divine time management",
+    "status": "queued",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "title": "Deep sky imaging primer",
+    "status": "done",
+    "rating": 4
+  },
+  {
+    "title": "Orbital mechanics for engineering systems",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "Quiet: the secret power of introverts",
+    "status": "done",
+    "rating": 4
+  },
+  {
+    "title": "Leonardo's lost robots",
+    "category": "book",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "Toyota way, The",
+    "category": "book",
+    "status": "done"
+  },
+  {
+    "title": "The first 90 Days",
+    "category": "book",
+    "status": "done",
+    "rating": 4
+  },
+  {
+    "title": "Steppenwolf",
+    "status": "queued"
+  },
+  {
+    "title": "The mathematician's shiva",
+    "status": "queued"
+  },
+  {
+    "title": "Perfect union of contrary things, The",
+    "status": "queued",
+    "recommended_by": [
+      "Randall Leeds"
+    ]
+  },
+  {
+    "title": "The Challenger sale",
+    "status": "queued"
+  },
+  {
+    "title": "Shadows of the mind",
+    "status": "done",
+    "author": "Penrose",
+    "rating": 1
+  },
+  {
+    "title": "Rejected princesses",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Jason Porath"
+    ]
+  },
+  {
+    "title": "On the origin of objects",
+    "status": "queued",
+    "recommended_by": [
+      "Randall Leeds"
+    ]
+  },
+  {
+    "title": "Lean In",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "Let It Go",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "The framework of plasma physics",
+    "status": "done",
+    "rating": 4
+  },
+  {
+    "title": "Introduction to Plasma Physics",
+    "category": "book",
+    "status": "done",
+    "rating": 4
+  },
+  {
+    "title": "Unincorporated Man, The",
+    "category": "book",
+    "status": "done",
+    "rating": 5,
+    "tags": [
+      "H+"
+    ]
+  },
+  {
+    "title": "The Three Body Problem: Trilogy",
+    "status": "done",
+    "rating": 5
+  },
+  {
+    "title": "Ball Lightning",
+    "status": "done",
+    "author": "Stenhoff",
+    "rating": 3
+  },
+  {
+    "title": "The Great Joseki Debates",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "Immorality",
+    "status": "done",
+    "author": "Steven Cave",
+    "rating": 3,
+    "tags": [
+      "H+"
+    ]
+  },
+  {
+    "title": "Mushroom Cultivator, The",
+    "status": "done",
+    "author": "Stamets",
+    "tags": [
+      "drugs"
+    ]
+  },
+  {
+    "title": "Mycelium Running",
+    "status": "done",
+    "rating": 5
+  },
+  {
+    "title": "House of Leaves",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "PeterV"
+    ]
+  },
+  {
+    "title": "Creativity Inc",
+    "status": "done",
+    "rating": 5,
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "Relentless Forward Progress",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Cosmic Evoloution",
+    "status": "done",
+    "author": "Chiasson",
+    "rating": 4
+  },
+  {
+    "title": "Our Mathematical Universe",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "One Minute Manager",
+    "status": "done",
+    "rating": 2,
+    "recommended_by": [
+      "Tom Goodman"
+    ],
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "The Circle",
+    "status": "done",
+    "rating": 4
+  },
+  {
+    "title": "Game of Thrones",
+    "category": "book",
+    "status": "done"
+  },
+  {
+    "title": "Matter",
+    "status": "queued",
+    "author": "Banks"
+  },
+  {
+    "title": "Look to Windward",
+    "status": "done",
+    "author": "Banks",
+    "rating": 4
+  },
+  {
+    "title": "Excession",
+    "status": "done",
+    "author": "Banks",
+    "rating": 5
+  },
+  {
+    "title": "Crossing the Chasm",
+    "status": "done"
+  },
+  {
+    "title": "Anathem",
+    "status": "done",
+    "author": "Stevenson",
+    "rating": 5
+  },
+  {
+    "title": "Exploding the Phone",
+    "status": "done",
+    "author": "Lapsley",
+    "rating": 5
+  },
+  {
+    "title": "Hallucinations",
+    "status": "done",
+    "author": "Sacks",
+    "rating": 4
+  },
+  {
+    "title": "Nexus",
+    "status": "done",
+    "author": "Naam",
+    "rating": 3
+  },
+  {
+    "title": "Cabinet of Natural Curiosities",
+    "status": "done",
+    "rating": 5
+  },
+  {
+    "title": "Signal and the Noise, The",
+    "status": "done",
+    "rating": 4
+  },
+  {
+    "title": "Killing eve",
+    "status": "queued"
+  },
+  {
+    "title": "Democracy in Chains",
+    "status": "queued",
+    "author": "Nancy McClain"
+  },
+  {
+    "title": "Kids these Days",
+    "status": "queued",
+    "author": "Malcom harris",
+    "recommended_by": [
+      "Heather browning"
+    ]
+  },
+  {
+    "title": "Throwing rocks at the Google bus",
+    "status": "queued"
+  },
+  {
+    "title": "The Secret History of Western Esotericism Podcast (SHWEP) – Exploring the forgotten and rejected story of Western thought",
+    "status": "queued",
+    "url": "https://shwep.net/"
+  },
+  {
+    "title": "bell hooks - Wikipedia",
+    "status": "done",
+    "recommended_by": [
+      "Zarinah"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Bell_hooks"
+  },
+  {
+    "title": "The Android's dream",
+    "status": "queued",
+    "author": "John scalazi",
+    "recommended_by": [
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Witcher series",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Camilla T"
+    ]
+  },
+  {
+    "title": "The will to change",
+    "status": "queued",
+    "author": "Bell hooks",
+    "recommended_by": [
+      "Zarinah"
+    ]
+  },
+  {
+    "title": "Art and fear",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Shrzd",
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Box",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "AMC",
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "Red Dwarf",
+    "status": "queued"
+  },
+  {
+    "title": "Into the spiderverse",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "AMC"
+    ]
+  },
+  {
+    "title": "Structured procrastination",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Cybernetics",
+    "category": "book",
+    "status": "queued",
+    "author": "Weiner",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Communication",
+    "category": "book",
+    "status": "queued",
+    "author": "Arthur c clarke"
+  },
+  {
+    "title": "No small matter",
+    "category": "book",
+    "status": "queued",
+    "author": "Karen barad",
+    "recommended_by": [
+      "Maryanna",
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Drama of the Gifted Child",
+    "category": "book",
+    "status": "done",
+    "rating": 3,
+    "recommended_by": [
+      "Michael Brodheim"
+    ]
+  },
+  {
+    "title": "Father Ted",
+    "category": "movie",
+    "status": "done",
+    "recommended_by": [
+      "Steve England"
+    ]
+  },
+  {
+    "title": "Foundation triliogy",
+    "category": "book",
+    "status": "done",
+    "author": "Assimov",
+    "rating": 4,
+    "recommended_by": [
+      "Navid"
+    ]
+  },
+  {
+    "title": "Merma dog",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Maps",
+    "category": "book",
+    "status": "queued",
+    "author": "Simon ward",
+    "recommended_by": [
+      "Alex Jacobson"
+    ]
+  },
+  {
+    "title": "Unk",
+    "category": "book",
+    "status": "queued",
+    "author": "Fiona rabbi & Toby dinn",
+    "recommended_by": [
+      "Shrzd"
+    ]
+  },
+  {
+    "title": "Light artist",
+    "category": "other",
+    "status": "queued",
+    "author": "Bruce monroe"
+  },
+  {
+    "title": "Righteous mind, The",
+    "category": "book",
+    "status": "queued",
+    "author": "Jonathan haight"
+  },
+  {
+    "title": "Jh Ted talk",
+    "category": "tv",
+    "status": "queued",
+    "author": "Jonathan haidt"
+  },
+  {
+    "title": "You are Not a Gadget",
+    "category": "article",
+    "status": "queued",
+    "author": "Jaron Lanier",
+    "recommended_by": [
+      "WKZ"
+    ]
+  },
+  {
+    "title": "Abundance",
+    "status": "done",
+    "recommended_by": [
+      "Larry Peck"
+    ]
+  },
+  {
+    "title": "Older than Dirt",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "WKZ"
+    ]
+  },
+  {
+    "title": "Propoganda",
+    "status": "queued",
+    "recommended_by": [
+      "Alex Jacobson"
+    ]
+  },
+  {
+    "title": "Winners Take All",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Neal",
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Never Let me Go",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Amy",
+      "FrancesW"
+    ]
+  },
+  {
+    "title": "Player of Games",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Lyra",
+      "Nic Scott"
+    ],
+    "tags": [
+      "games"
+    ]
+  },
+  {
+    "title": "Golden Age, The",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra",
+      "Nic Scott"
+    ]
+  },
+  {
+    "title": "Steel Beach",
+    "status": "queued",
+    "author": "John Varley",
+    "recommended_by": [
+      "Lyra",
+      "Nic Scott"
+    ]
+  },
+  {
+    "title": "Progress",
+    "category": "book",
+    "status": "queued",
+    "author": "Jordan Norburg"
+  },
+  {
+    "title": "The pitchforks are coming",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Sean K"
+    ],
+    "url": "https://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014"
+  },
+  {
+    "title": "The Lawfare Podcast: Andrew Bacevich on 'The Age of Illusions: How America Squandered Its Cold War Victory' - Lawfare",
+    "status": "queued",
+    "url": "https://www.lawfareblog.com/lawfare-podcast-andrew-bacevich-age-illusions-how-america-squandered-its-cold-war-victory"
+  },
+  {
+    "title": "Heathers",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Carmak on Problem Solving",
+    "category": "tv",
+    "status": "done",
+    "rating": 4,
+    "url": "https://youtu.be/dSCBCk4xVa0"
+  },
+  {
+    "title": "032 - High Molarity Rants · UREP",
+    "status": "queued",
+    "url": "https://unnamedre.com/episode/32"
+  },
+  {
+    "title": "Six feet under",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "B"
+    ]
+  },
+  {
+    "title": "Reality is Broken",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "You shall know our velocity",
+    "status": "done",
+    "author": "Eggers",
+    "rating": 4
+  },
+  {
+    "title": "Sex at Dawn",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "Lovely Bones, The",
+    "status": "done"
+  },
+  {
+    "title": "How to Create a Mind",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "West's Respiratory Physiology",
+    "status": "done",
+    "tags": [
+      "Textbook"
+    ]
+  },
+  {
+    "title": "Zero",
+    "status": "done",
+    "tags": [
+      "math"
+    ]
+  },
+  {
+    "title": "Enders Game",
+    "status": "done",
+    "rating": 5
+  },
+  {
+    "title": "Speaker for the Dead",
+    "status": "done",
+    "author": "Orson Scott Card",
+    "rating": 4
+  },
+  {
+    "title": "Growing Gourmet and Medicinal Mushrooms",
+    "status": "done"
+  },
+  {
+    "title": "The Attention Economy",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "The Sparrow",
+    "status": "done",
+    "rating": 5,
+    "recommended_by": [
+      "Sqrl"
+    ],
+    "tags": [
+      "Mormans",
+      "Rockets"
+    ]
+  },
+  {
+    "title": "Overcomplicated",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "Treason",
+    "status": "done",
+    "author": "Orson Scott Card",
+    "tags": [
+      "Materials"
+    ]
+  },
+  {
+    "title": "The culture cycle",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "What if",
+    "status": "done"
+  },
+  {
+    "title": "Hackers delight",
+    "status": "done"
+  },
+  {
+    "title": "Xenocide",
+    "status": "done"
+  },
+  {
+    "title": "Cheaper by the Dozen",
+    "status": "done"
+  },
+  {
+    "title": "Toyota Kata",
+    "status": "done",
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "Leadership is Art",
+    "status": "done",
+    "author": "DuPree",
+    "rating": 4,
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "Alchemist, The",
+    "status": "done",
+    "recommended_by": [
+      "JP"
+    ]
+  },
+  {
+    "title": "The Field Guide to Human Centered Design",
+    "status": "done",
+    "rating": 3,
+    "recommended_by": [
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Bicycling Science",
+    "status": "done",
+    "rating": 5
+  },
+  {
+    "title": "Have Fun Inventing",
+    "status": "done",
+    "rating": 5,
+    "tags": [
+      "Art"
+    ]
+  },
+  {
+    "title": "How to solve It",
+    "status": "done",
+    "author": "Polya",
+    "rating": 5
+  },
+  {
+    "title": "Critical Path",
+    "status": "done",
+    "author": "Fuller"
+  },
+  {
+    "title": "The Computer and the Brain",
+    "status": "done",
+    "author": "Von Neumann",
+    "rating": 3
+  },
+  {
+    "title": "Sources of Power: How People Make Decisions",
+    "status": "queued",
+    "url": "https://www.amazon.com/Sources-Power-People-Make-Decisions/dp/0262611465"
+  },
+  {
+    "title": "Maria Goeppert Mayer - Biographical",
+    "status": "queued",
+    "url": "https://www.nobelprize.org/prizes/physics/1963/mayer/biographical/"
+  },
+  {
+    "title": "What Caused The Explosion That Crippled Apollo 13?",
+    "status": "queued",
+    "url": "https://youtu.be/eO19LTJZM6c"
+  },
+  {
+    "title": "Astro tools",
+    "status": "queued",
+    "url": "https://twitter.com/daraobriain/status/1249440589327798272?s=09"
+  },
+  {
+    "title": "Harry potter and the methods of Rationality",
+    "status": "queued",
+    "recommended_by": [
+      "Jonah",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "16 ways to defend a walled city",
+    "status": "done",
+    "recommended_by": [
+      "Jonah"
+    ]
+  },
+  {
+    "title": "Scrapeme-Andressen",
+    "status": "queued",
+    "url": "https://twitter.com/pmarca/status/1251634412334141440?s=09"
+  },
+  {
+    "title": "The Checklist Manifesto",
+    "status": "queued",
+    "author": "David Thomas",
+    "url": "https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000"
+  },
+  {
+    "title": "Uncharted: Game",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "DonE"
+    ],
+    "url": "https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection-ps4/"
+  },
+  {
+    "title": "Moby Dick",
+    "status": "done",
+    "rating": 5,
+    "recommended_by": [
+      "Brady"
+    ]
+  },
+  {
+    "title": "Nihilism and Technology",
+    "status": "queued",
+    "author": "Nolen Gertz",
+    "recommended_by": [
+      "Navid"
+    ]
+  },
+  {
+    "title": "Hudsucker Proxy",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Jonah"
+    ]
+  },
+  {
+    "title": "I don't know, Timmy, being God is a big responsibility @ Things Of Interest",
+    "status": "done",
+    "rating": 5,
+    "url": "https://qntm.org/responsibility"
+  },
+  {
+    "title": "Ra @ Things Of Interest",
+    "status": "queued",
+    "url": "https://qntm.org/ra"
+  },
+  {
+    "title": "Top Secret",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Brady"
+    ]
+  },
+  {
+    "title": "Antarctica, a year on ice",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Tom Goodman"
+    ]
+  },
+  {
+    "title": "It Can't Happen Here",
+    "status": "queued",
+    "recommended_by": [
+      "Neal"
+    ],
+    "url": "https://www.amazon.com/dp/B00DGZKU88/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+  },
+  {
+    "title": "scrapeme - Thread by @rohit_jindal29: An exhaustive list of @naval's reading recommendations Non-fiction, fiction, short stories, graphic novels and blogs [THREAD] J. Krishnamurt…",
+    "status": "done",
+    "url": "https://threadreaderapp.com/thread/1267752788504776705.html"
+  },
+  {
+    "title": "The Observer Effect – Marc Andreessen",
+    "status": "queued",
+    "url": "https://www.theobservereffect.org/marc.html"
+  },
+  {
+    "title": "Program for the International Assessment of Adult Competencies (PIAAC) U.S. 2017 Sample Public-use File (PUF)",
+    "status": "queued",
+    "url": "https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2020222"
+  },
+  {
+    "title": "FS – SEDScast – SEDS USA",
+    "status": "queued",
+    "url": "https://seds.org/fs-sedscast/"
+  },
+  {
+    "title": "Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.",
+    "status": "queued",
+    "url": "http://gigamonkeys.com/flowers/"
+  },
+  {
+    "title": "ASAT Tests Reading",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ],
+    "url": "https://twitter.com/brianweeden/status/1276127060268810241?s=09"
+  },
+  {
+    "title": "How to 3D Model a Lego Brick - Learn Autodesk Fusion 360 in 30 Days: Day #1",
+    "status": "queued",
+    "url": "https://youtu.be/6yPKMSb6ja8"
+  },
+  {
+    "title": "War in Space",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ],
+    "url": "https://twitter.com/bleddb/status/1277889227070623744?s=09"
+  },
+  {
+    "title": "open satellite",
+    "status": "queued",
+    "url": "https://twitter.com/ea4gpz/status/1279163481539952642?s=09"
+  },
+  {
+    "title": "Space Telescope Patent",
+    "status": "done",
+    "url": "https://patentimages.storage.googleapis.com/64/88/5b/2030b26bc1a048/US7428098.pdf"
+  },
+  {
+    "title": "3blue1brown streaming notes",
+    "status": "queued",
+    "url": "https://twitter.com/3blue1brown/status/1280992732345806848?s=09"
+  },
+  {
+    "title": "Charlie Songhurst – Lessons from Investing in 483 Companies – [Invest Like the Best, EP.181]",
+    "status": "queued",
+    "url": "http://investorfieldguide.com/songhurst/"
+  },
+  {
+    "title": "Midnight gospel",
+    "category": "tv",
+    "status": "done",
+    "rating": 5,
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Nyt on lithium",
+    "status": "queued"
+  },
+  {
+    "title": "The good ancestor",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Video Games and the Future of Education",
+    "status": "queued",
+    "url": "https://youtu.be/qWFScmtiC44"
+  },
+  {
+    "title": "Two years before the mast",
+    "status": "queued",
+    "recommended_by": [
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "Kiss quotient",
+    "status": "queued",
+    "recommended_by": [
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "Too much, never enough",
+    "status": "done"
+  },
+  {
+    "title": "The Bit Player",
+    "status": "queued",
+    "url": "https://www.amazon.com/Bit-Player-John-Hutton/dp/B08D291YQS"
+  },
+  {
+    "title": "The Under Presents — Tender Claws",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "AMC"
+    ],
+    "url": "https://tenderclaws.com/theunderpresents"
+  },
+  {
+    "title": "Neal Stephenson at The Interval at Long Now | San Francisco",
+    "status": "queued",
+    "url": "https://theinterval.org/salon-talks/02019/jun/06/neal-stephenson-fall"
+  },
+  {
+    "title": "Knowlwdge Fight",
+    "category": "podcast",
+    "status": "queued",
+    "recommended_by": [
+      "MattM"
+    ]
+  },
+  {
+    "title": "Bundiville",
+    "status": "queued"
+  },
+  {
+    "title": "astrophoto tools set",
+    "status": "queued",
+    "url": "https://twitter.com/AJamesMcCarthy/status/1299052245175001088?s=09"
+  },
+  {
+    "title": "Anima",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Chico"
+    ]
+  },
+  {
+    "title": "Happy People",
+    "category": "movie",
+    "status": "done",
+    "author": "Hertzog",
+    "rating": 5,
+    "recommended_by": [
+      "DanAinge"
+    ]
+  },
+  {
+    "title": "Knives out",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "EmmaAinge"
+    ]
+  },
+  {
+    "title": "Monsters exhibition",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Jonathanblow"
+    ]
+  },
+  {
+    "title": "Ascent of Money",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Verbal"
+    ]
+  },
+  {
+    "title": "The Medici - Godfathers of the Renaissance 1/4 BG sub",
+    "status": "queued",
+    "recommended_by": [
+      "Sean K"
+    ],
+    "url": "https://youtu.be/GOAVRcI6mFU"
+  },
+  {
+    "title": "All the birds in the skay",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Anya",
+      "Mikem",
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "Dune",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "Idaho nuclear reactor tour",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "The storm before the calm",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Julie"
+    ]
+  },
+  {
+    "title": "Get Together",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ],
+    "url": "https://twitter.com/ljxie/status/1313265177647742978?s=09"
+  },
+  {
+    "title": "High-resolution solar imaging for citizen science | EPJ Web of Conferences",
+    "status": "queued",
+    "url": "https://www.epj-conferences.org/articles/epjconf/abs/2020/16/epjconf_seaan2020_01002/epjconf_seaan2020_01002.html"
+  },
+  {
+    "title": "Thinking in Bets",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ],
+    "url": "https://twitter.com/interplanetary/status/1313312376138076163?s=09"
+  },
+  {
+    "title": "Lighthouse, The",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Brady"
+    ]
+  },
+  {
+    "title": "Witch, The",
+    "status": "queued",
+    "recommended_by": [
+      "Brady"
+    ]
+  },
+  {
+    "title": "Adult children of emotionally immature parents",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Bump",
+      "John Welsh",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Contortionist handbook",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Shary"
+    ]
+  },
+  {
+    "title": "Dakandqueitskies",
+    "category": "movie",
+    "status": "queued",
+    "url": "https://www.youtube.com/playlist?list=PLaOqa4cng0GFqc1epTy3XTInKqoLjVqlS"
+  },
+  {
+    "title": "Satellite Webinar?",
+    "status": "queued",
+    "url": "https://ibs.itu.int/arch/ITU-R/2020SatelileWebinars/vr-20201007-1500-fl.mp4"
+  },
+  {
+    "title": "Steve Jurvetson Talk on Satellite Innovation",
+    "status": "done",
+    "url": "https://vimeo.com/465512979/ed18ea2087?s=09"
+  },
+  {
+    "title": "Crime pays, botany doesn't",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Electrooptical Machines Making It All Work",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "The thing",
+    "category": "book",
+    "status": "queued",
+    "author": "John carpenter",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Jeeves and Wooster",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Ruby"
+    ]
+  },
+  {
+    "title": "The Computers Voice",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ],
+    "url": "https://twitter.com/LizWFab/status/1316109518925856768?s=09"
+  },
+  {
+    "title": "The Gulag Archipelago - Wikipedia",
+    "status": "queued",
+    "url": "https://en.wikipedia.org/wiki/The_Gulag_Archipelago"
+  },
+  {
+    "title": "The Hunt for Planet Nine",
+    "status": "queued",
+    "url": "https://longreads.com/2019/01/22/the-hunt-for-planet-nine/"
+  },
+  {
+    "title": "Azure Space launch highlights",
+    "status": "queued",
+    "url": "https://youtu.be/6h52JPnDpmA"
+  },
+  {
+    "title": "Advantage, The",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "WilKZ"
+    ]
+  },
+  {
+    "title": "Tight rope",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "13",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Hero with a thousand faces",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anna Marie",
+      "Faulkner",
+      "WilKZ"
+    ]
+  },
+  {
+    "title": "Feet of Clay",
+    "category": "book",
+    "status": "done"
+  },
+  {
+    "title": "Opus Magnum",
+    "category": "game",
+    "status": "queued",
+    "url": "https://twitter.com/JoeyPrink/status/1331332139149877248?s=09"
+  },
+  {
+    "title": "Your Name",
+    "category": "movie",
+    "status": "queued",
+    "author": "Egan",
+    "url": "https://twitter.com/gregeganSF/status/1332663127356309504?s=09"
+  },
+  {
+    "title": "Scrapeme talk on space lasers",
+    "status": "queued",
+    "url": "https://www.satellitetoday.com/podcast/2020/11/23/from-launch-dreams-to-laser-beams-with-tina-ghataore-of-mynaric/?s=09"
+  },
+  {
+    "title": "The tube guys",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "The Courage To Be Disliked",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ],
+    "url": "https://twitter.com/Austen/status/1337588590608453633?s=09"
+  },
+  {
+    "title": "Prosperity gospel of sv",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Rose of peraselsis, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Faulkner"
+    ]
+  },
+  {
+    "title": "Short about naming of god",
+    "category": "book",
+    "status": "queued",
+    "author": "Arthur c Clark",
+    "recommended_by": [
+      "Faulkner"
+    ]
+  },
+  {
+    "title": "Cold war china",
+    "category": "podcast",
+    "status": "queued",
+    "url": "https://open.spotify.com/episode/2EIxhEd29aSrQ03Fm0eeJF?si=1fJ-j-6lRQGgiqa85d38Bg"
+  },
+  {
+    "title": "John Carmack — WaitWho.is",
+    "status": "queued",
+    "url": "https://waitwho.is/john-carmack/essays"
+  },
+  {
+    "title": "Doberman gang",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Galaxy Quest",
+    "category": "tv",
+    "status": "queued",
+    "recommended_by": [
+      "Jay P"
+    ]
+  },
+  {
+    "title": "Domain Driven Design",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh"
+    ]
+  },
+  {
+    "title": "Meloncholia",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Death with interruptions",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "What I talk about when I talk about running",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Memory police, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "The city in the city",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Perdido street station",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Machinery of Empires",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Paper manigerie, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Gideon the 9th",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "EdwinKite",
+      "Kat kesselman",
+      "Lyra",
+      "Sara",
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Gemma Arrowsmith: Everything I know about writing, I learned from sketch comedy",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ],
+    "url": "https://www.comedy.co.uk/pro/inside_track/gemma-arrowsmith-on-sketch-writing/"
+  },
+  {
+    "title": "Goragoa",
+    "category": "game",
+    "status": "queued"
+  },
+  {
+    "title": "Pass fire",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "The Bridge",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "EmmaAinge"
+    ]
+  },
+  {
+    "title": "Paul Graham on Twitter: \"Since it's World Book Day, here are some of the best books I've read recently: I Want to be a Mathematician, by Paul Halmos Barbarian Days, by William Finnegan From Galileo to Newton, by Rupert Hall The British Industrial Revolution in Global Perspective, by Robert Allen\" / Twitter",
+    "status": "queued",
+    "url": "https://twitter.com/paulg/status/1367463461425414159"
+  },
+  {
+    "title": "Space Policy Edition: SpaceX's Early,… | The Planetary Society",
+    "status": "queued",
+    "url": "https://www.planetary.org/planetary-radio/0305-2021-spe-eric-berger"
+  },
+  {
+    "title": "Hades",
+    "category": "game",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Sundiver",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Creon"
+    ]
+  },
+  {
+    "title": "Hiring smart",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Kevin kelly"
+    ]
+  },
+  {
+    "title": "How buildings learn",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Kevin kelly",
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Video about thoe",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Jessie"
+    ]
+  },
+  {
+    "title": "Tales from the Tourbus",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Megan/Alex",
+      "MeganK"
+    ]
+  },
+  {
+    "title": "Connect",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "NFX"
+    ]
+  },
+  {
+    "title": "Smoke and mirrors",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Sara"
+    ]
+  },
+  {
+    "title": "The graveyard book",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Sara"
+    ]
+  },
+  {
+    "title": "Fragile things",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "The truth is a cave in the black mountains",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Sara"
+    ]
+  },
+  {
+    "title": "Stowaway",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "ScottManley"
+    ]
+  },
+  {
+    "title": "Remains of the day, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Amy"
+    ]
+  },
+  {
+    "title": "Left hand of darkness",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AMC",
+      "Amy",
+      "Matt Faulkner",
+      "Samira"
+    ]
+  },
+  {
+    "title": "Tesla - Sundance",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Paul"
+    ]
+  },
+  {
+    "title": "Bad Lieutenant",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Valheim",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "TysonK"
+    ]
+  },
+  {
+    "title": "Ministry for the future",
+    "category": "book",
+    "status": "done",
+    "rating": 5,
+    "recommended_by": [
+      "Bash",
+      "Gerald",
+      "Lyra",
+      "Mccoy"
+    ]
+  },
+  {
+    "title": "ReplyAll",
+    "status": "queued",
+    "url": "https://gimletmedia.com/shows/reply-all/llhe5nm"
+  },
+  {
+    "title": "Last stargazers",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Ted lasso",
+    "status": "queued",
+    "recommended_by": [
+      "B"
+    ]
+  },
+  {
+    "title": "Steven Universe",
+    "category": "tv",
+    "status": "queued",
+    "recommended_by": [
+      "B"
+    ]
+  },
+  {
+    "title": "Republic of Lies",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Nomadland",
+    "category": "movie",
+    "status": "done",
+    "recommended_by": [
+      "Andy Lee",
+      "Camille",
+      "CodyDaniel",
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Making Great Choices",
+    "status": "queued",
+    "recommended_by": [
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Win without pitching",
+    "status": "queued",
+    "recommended_by": [
+      "Sean K"
+    ]
+  },
+  {
+    "title": "The fifth season",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AlexWolf",
+      "Lauren",
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Debt of honor",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "DavidPowell"
+    ]
+  },
+  {
+    "title": "Red storm rising",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "DavidPowell"
+    ]
+  },
+  {
+    "title": "Bombshell",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "DavidPowell",
+      "Molly Maloof"
+    ]
+  },
+  {
+    "title": "Sufferfest",
+    "status": "queued"
+  },
+  {
+    "title": "Heavens design team",
+    "status": "queued",
+    "recommended_by": [
+      "Sadia"
+    ]
+  },
+  {
+    "title": "Genius of Plants",
+    "category": "book",
+    "status": "done",
+    "rating": 3,
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Meru (climbing video)",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Grinich"
+    ]
+  },
+  {
+    "title": "Hail Satan",
+    "category": "movie",
+    "status": "done",
+    "recommended_by": [
+      "Heather Rivers",
+      "Megan/Alex",
+      "lou"
+    ]
+  },
+  {
+    "title": "Into the storm",
+    "status": "queued",
+    "recommended_by": [
+      "MaxHodak"
+    ]
+  },
+  {
+    "title": "Wild wild country",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Heather Rivers"
+    ]
+  },
+  {
+    "title": "Art of asking, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Heather Rivers"
+    ]
+  },
+  {
+    "title": "Confession of a sociopath",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Heather Rivers"
+    ]
+  },
+  {
+    "title": "Stray (about dogs in turkey)",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Heather Rivers"
+    ]
+  },
+  {
+    "title": "Flat earth society documentary",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Heather Rivers"
+    ]
+  },
+  {
+    "title": "Augmenting Human Intellect",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "As we may think",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Mindstorms",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Inventing on Principle",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Heather Rivers",
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Plans and situated action",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Safety Deposit Box",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Freedom From the Known",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Total Freedom",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Great Challenge, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "The Book of Life: Daily Meditations with Krishnamurti",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Think on These Things",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Finding General Tso",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA",
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "Brethe",
+    "status": "queued",
+    "recommended_by": [
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Icarus",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Ethan",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Love death and robots season 2",
+    "status": "done",
+    "rating": 4
+  },
+  {
+    "title": "Vulcan",
+    "status": "queued",
+    "recommended_by": [
+      "JeremyConrad"
+    ]
+  },
+  {
+    "title": "The Perfectionists: How Precision Engineers Created the Modern World",
+    "status": "queued",
+    "recommended_by": [
+      "JohnCarmak"
+    ]
+  },
+  {
+    "title": "Loves chemical future",
+    "status": "queued",
+    "recommended_by": [
+      "Molly Maloof"
+    ]
+  },
+  {
+    "title": "Laws of human nature, The",
+    "status": "queued",
+    "recommended_by": [
+      "Molly Maloof"
+    ]
+  },
+  {
+    "title": "Economist on Identity",
+    "category": "article",
+    "status": "queued",
+    "recommended_by": [
+      "B"
+    ]
+  },
+  {
+    "title": "Promising Young Woman",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "B"
+    ]
+  },
+  {
+    "title": "Madame Secretary",
+    "status": "queued",
+    "recommended_by": [
+      "Ridhi"
+    ]
+  },
+  {
+    "title": "Walk Hard",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Last Black Man in SF",
+    "status": "queued",
+    "recommended_by": [
+      "MaxK",
+      "Ron"
+    ]
+  },
+  {
+    "title": "A Simple Favor",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh"
+    ]
+  },
+  {
+    "title": "Vow, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "BenE"
+    ],
+    "notes": "(Nexium Documentary)"
+  },
+  {
+    "title": "Disaster artist, The",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Ashley",
+      "Gilly",
+      "John Welsh"
+    ]
+  },
+  {
+    "title": "How the world changed",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Hemai"
+    ]
+  },
+  {
+    "title": "Scene of change",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Hemai"
+    ]
+  },
+  {
+    "title": "The atlas of ai",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Davidsouther"
+    ]
+  },
+  {
+    "title": "Paradise is Lost",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "The Fermi paradox is our business model",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Andy Timmons"
+    ]
+  },
+  {
+    "title": "Kentucky route zero",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "David Origin"
+    ]
+  },
+  {
+    "title": "Barb and star go to Vista del Mar",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Galen"
+    ]
+  },
+  {
+    "title": "Almost Famous",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "John's sister"
+    ]
+  },
+  {
+    "title": "Mirror Mask",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Corina"
+    ]
+  },
+  {
+    "title": "Rice Boy",
+    "category": "book",
+    "status": "queued",
+    "author": "Even Dahm",
+    "recommended_by": [
+      "Ashley"
+    ]
+  },
+  {
+    "title": "Homestuck (Ms paint adventure",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Ashley"
+    ]
+  },
+  {
+    "title": "Ticket to ride",
+    "status": "queued"
+  },
+  {
+    "title": "Rust",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Jordan"
+    ]
+  },
+  {
+    "title": "Fake Famous",
+    "status": "queued",
+    "recommended_by": [
+      "Mel"
+    ]
+  },
+  {
+    "title": "Centaur World",
+    "status": "queued",
+    "recommended_by": [
+      "Mel"
+    ]
+  },
+  {
+    "title": "You are the worst",
+    "status": "queued",
+    "recommended_by": [
+      "Mel"
+    ]
+  },
+  {
+    "title": "Bones Brigade",
+    "status": "queued"
+  },
+  {
+    "title": "Sat",
+    "status": "queued"
+  },
+  {
+    "title": "Rock warriors way, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "OtherBook"
+    ]
+  },
+  {
+    "title": "Endurance",
+    "status": "queued",
+    "recommended_by": [
+      "Mccoy",
+      "PaigeBailey"
+    ]
+  },
+  {
+    "title": "Command and Control",
+    "status": "queued",
+    "recommended_by": [
+      "Grinich"
+    ]
+  },
+  {
+    "title": "Aircraft Design: A Conceptual Approach (Aiaa Education Series): Daniel P. Raymer: 9781600869112: Amazon.com: Books",
+    "status": "queued",
+    "recommended_by": [
+      "CodyDaniel"
+    ],
+    "url": "https://www.amazon.com/Aircraft-Design-Conceptual-Approach-Education/dp/1600869114"
+  },
+  {
+    "title": "Too like the lightening",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "nick p list",
+    "status": "queued",
+    "url": "https://twitter.com/NickPinkston/status/1432902753345363969?s=09"
+  },
+  {
+    "title": "Fantastic Fungi",
+    "status": "done",
+    "rating": 4,
+    "recommended_by": [
+      "Sean K"
+    ],
+    "url": "https://www.netflix.com/title/81183477"
+  },
+  {
+    "title": "Idea factory, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "JeremyConrad",
+      "Megan/Alex"
+    ]
+  },
+  {
+    "title": "Nolan brothers movies",
+    "status": "queued",
+    "recommended_by": [
+      "AlexFeerst"
+    ]
+  },
+  {
+    "title": "No Bad Parts",
+    "status": "queued",
+    "recommended_by": [
+      "Ed Boyden",
+      "Molly Maloof"
+    ]
+  },
+  {
+    "title": "On Food and Cooking",
+    "status": "queued"
+  },
+  {
+    "title": "Dopamine Nation",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Andy Lee"
+    ]
+  },
+  {
+    "title": "Brian David Gilbert",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Camilla T"
+    ]
+  },
+  {
+    "title": "O brother where art thou",
+    "status": "queued",
+    "recommended_by": [
+      "Camilla T"
+    ]
+  },
+  {
+    "title": "Jefferson Mays - Christmas Carol",
+    "status": "queued",
+    "recommended_by": [
+      "Camilla T"
+    ]
+  },
+  {
+    "title": "Queens gambit",
+    "status": "queued",
+    "recommended_by": [
+      "Camilla T"
+    ]
+  },
+  {
+    "title": "Documentary: on cocaine excavation",
+    "status": "queued",
+    "recommended_by": [
+      "Lynn"
+    ]
+  },
+  {
+    "title": "John Claude van johnson",
+    "status": "queued",
+    "recommended_by": [
+      "MattM"
+    ]
+  },
+  {
+    "title": "JCBD",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "MattM"
+    ]
+  },
+  {
+    "title": "Universal Soldier",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "MattM"
+    ]
+  },
+  {
+    "title": "Loki",
+    "category": "tv",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm",
+      "Ruby"
+    ]
+  },
+  {
+    "title": "Cultish",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Elenor"
+    ]
+  },
+  {
+    "title": "Squid game",
+    "category": "movie",
+    "status": "done",
+    "recommended_by": [
+      "Kat"
+    ]
+  },
+  {
+    "title": "The city museum",
+    "category": "other",
+    "status": "queued"
+  },
+  {
+    "title": "This dispossessed",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Faulkner"
+    ]
+  },
+  {
+    "title": "Pimp",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Matt Faulkner"
+    ]
+  },
+  {
+    "title": "Abzu",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "MattM"
+    ]
+  },
+  {
+    "title": "Hail mary",
+    "category": "book",
+    "status": "queued",
+    "author": "Weir",
+    "recommended_by": [
+      "KarenCc",
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Stages of rot",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Real price of anything, The",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "Magpie murders",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "EmmaAinge",
+      "Tanya"
+    ]
+  },
+  {
+    "title": "Doug The Dog",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "Tanya"
+    ]
+  },
+  {
+    "title": "Electric Dreams",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Tanya"
+    ]
+  },
+  {
+    "title": "Girl in Landscape",
+    "status": "queued",
+    "recommended_by": [
+      "AdamSavage"
+    ]
+  },
+  {
+    "title": "Four hour work week",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Preston"
+    ]
+  },
+  {
+    "title": "Creative Capital",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "JeffCrusy"
+    ]
+  },
+  {
+    "title": "Season of the witch",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MaxHodak"
+    ]
+  },
+  {
+    "title": "Bellingcat: Truth in a Post-Truth World (2018) - IMDb",
+    "status": "queued",
+    "url": "https://www.imdb.com/title/tt7844518/"
+  },
+  {
+    "title": "Children of Time",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anna Marie",
+      "Becca",
+      "DoomSignal",
+      "Maus"
+    ]
+  },
+  {
+    "title": "Absolutely remarkable thing",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Maus"
+    ]
+  },
+  {
+    "title": "A beautifully foolish endeavor",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Maus"
+    ]
+  },
+  {
+    "title": "Starbuilders",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Hemai"
+    ]
+  },
+  {
+    "title": "Accelerando",
+    "category": "book",
+    "status": "done",
+    "rating": 3,
+    "recommended_by": [
+      "Maryanna"
+    ]
+  },
+  {
+    "title": "A night in the lonesome October",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "David Origin"
+    ]
+  },
+  {
+    "title": "scrapeme",
+    "status": "queued",
+    "url": "https://twitter.com/tiffanee_dawn/status/1461199450257321988?t=TJdWfTT0XcnHPFQTweSIdQ&s=09"
+  },
+  {
+    "title": "Sanfransicko",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "JeremyGilleroy"
+    ]
+  },
+  {
+    "title": "Inner sapc",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Tristen"
+    ]
+  },
+  {
+    "title": "Entangled Life: How Fungi....",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Jackie"
+    ]
+  },
+  {
+    "title": "The Contrarians",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "BilalZ"
+    ]
+  },
+  {
+    "title": "Silicon Sky",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "SteveMassey"
+    ]
+  },
+  {
+    "title": "Rainbows End",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Jason (Sarah)"
+    ]
+  },
+  {
+    "title": "Iisac arthur",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "NickPinkston"
+    ]
+  },
+  {
+    "title": "Lux Capital's co-founder Peter Hebert on the firm's 20 year journey, creating multi-generational success, and the changing dynamics in VC (including their use of SPAC's) - Venture Unlocked: The playbook for venture capital managers. | Podcast on Spotify",
+    "status": "queued",
+    "url": "https://open.spotify.com/episode/6vd7CMC0bYc2TJCVu6MVVP"
+  },
+  {
+    "title": "Reboot",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Kwiri"
+    ]
+  },
+  {
+    "title": "Rise and kill first",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Matt Faulkner"
+    ]
+  },
+  {
+    "title": "Dispossessed, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "FrancesW",
+      "John Welsh",
+      "Matt Faulkner"
+    ]
+  },
+  {
+    "title": "Road, The",
+    "category": "book",
+    "status": "queued",
+    "author": "Cormak McCarthy",
+    "recommended_by": [
+      "BenE",
+      "Matt Faulkner"
+    ]
+  },
+  {
+    "title": "Society of Mind",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Matt Faulkner"
+    ]
+  },
+  {
+    "title": "Expanse, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AC",
+      "Anselm",
+      "PhilLarochelle",
+      "Unknown"
+    ]
+  },
+  {
+    "title": "7 pillars of wisdom",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm",
+      "Faulkner"
+    ]
+  },
+  {
+    "title": "Arabian sands",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Lybian Sands",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "On Writing",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Last temptation of Christ, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Faulkner"
+    ]
+  },
+  {
+    "title": "There will be blood",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Faulkner"
+    ]
+  },
+  {
+    "title": "Astoria",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Faulkner"
+    ]
+  },
+  {
+    "title": "NORAD ids",
+    "status": "queued",
+    "url": "https://twitter.com/TSKelso/status/1469392021055946757?t=3lpWdQNjdOiAy3Ashji2hw&s=09"
+  },
+  {
+    "title": "Broken Earth Trilogy",
+    "status": "queued",
+    "recommended_by": [
+      "Gregory"
+    ]
+  },
+  {
+    "title": "Norse Mythology",
+    "status": "queued",
+    "author": "Gaimen",
+    "recommended_by": [
+      "Gregory"
+    ]
+  },
+  {
+    "title": "Python and the Source Code of Humans, Computers, and Reality | Lex Fridman Podcast #250\" on YouTube",
+    "status": "queued",
+    "author": "Peter Wang",
+    "url": "https://youtu.be/X0-SXS6zdEQ"
+  },
+  {
+    "title": "Opinion: We should shift the conversation on space to satellite debris",
+    "status": "queued",
+    "url": "https://www.statesman.com/story/opinion/2021/12/20/opinion-we-should-shift-conversation-space-satellite-debris/8911508002/"
+  },
+  {
+    "title": "Disco Elysium",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "EmmaAinge",
+      "John Welsh"
+    ]
+  },
+  {
+    "title": "Inscription",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "EmmaAinge"
+    ]
+  },
+  {
+    "title": "To be taught if fortunate",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Behind the Curve",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "AstralCodexTen"
+    ]
+  },
+  {
+    "title": "Listening Society, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "NickPinkston"
+    ]
+  },
+  {
+    "title": "Why Information Grows",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "NickPinkston"
+    ]
+  },
+  {
+    "title": "1000 Years of Non-Linear History",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "NickPinkston"
+    ]
+  },
+  {
+    "title": "Cultural Evolution",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "NickPinkston"
+    ]
+  },
+  {
+    "title": "Origin of Wealth",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "NickPinkston"
+    ]
+  },
+  {
+    "title": "Forces of Production",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "NickPinkston"
+    ]
+  },
+  {
+    "title": "Only Lovers left alive",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "On NFTs",
+    "status": "queued",
+    "url": "https://twitter.com/smdiehl/status/1484682114889138184?t=jyvhhNg0YfASMV87ZpVzuw&s=09"
+  },
+  {
+    "title": "scrapeme",
+    "status": "queued",
+    "url": "https://twitter.com/Lithros/status/1484624274824568833?t=9FK6UupwZSkM1wqifGdFqQ&s=09"
+  },
+  {
+    "title": "The Alpinist",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Diaspora",
+    "status": "queued",
+    "author": "Greg Egan",
+    "recommended_by": [
+      "TheBrowser"
+    ]
+  },
+  {
+    "title": "The entangled life",
+    "status": "queued",
+    "author": "Merlin sheldrake",
+    "recommended_by": [
+      "Verbal"
+    ]
+  },
+  {
+    "title": "Never say you can't survive",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "The city in the middle of the night",
+    "status": "queued",
+    "recommended_by": [
+      "AnnaLeshinskaya",
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Glitter in the blood",
+    "status": "queued",
+    "recommended_by": [
+      "Verbal"
+    ]
+  },
+  {
+    "title": "The center can not hold",
+    "status": "queued",
+    "recommended_by": [
+      "Emilyeffner"
+    ]
+  },
+  {
+    "title": "Still Alice",
+    "status": "queued",
+    "recommended_by": [
+      "KelseyLaire"
+    ]
+  },
+  {
+    "title": "Radical Acceptance",
+    "status": "queued",
+    "recommended_by": [
+      "Watson"
+    ]
+  },
+  {
+    "title": "Good Omens",
+    "status": "queued",
+    "recommended_by": [
+      "Eugene",
+      "Unknown"
+    ]
+  },
+  {
+    "title": "Tenent",
+    "status": "queued",
+    "recommended_by": [
+      "Corina",
+      "Eugene",
+      "PeterNelson"
+    ]
+  },
+  {
+    "title": "Making shit happen",
+    "status": "queued",
+    "recommended_by": [
+      "Naia"
+    ]
+  },
+  {
+    "title": "Hold me Tight (EFT)",
+    "status": "queued",
+    "author": "Sue Johnson",
+    "recommended_by": [
+      "Anya",
+      "Bump",
+      "Mccoy"
+    ]
+  },
+  {
+    "title": "scrapeme",
+    "status": "queued",
+    "url": "https://twitter.com/TylerAlterman/status/1489953393846235138?t=5O0ok_xhsVQ889_zWRZ-Eg&s=09"
+  },
+  {
+    "title": "The Secretary",
+    "status": "queued",
+    "recommended_by": [
+      "AMC",
+      "Pqablo"
+    ]
+  },
+  {
+    "title": "Klara and the Sun",
+    "status": "queued",
+    "recommended_by": [
+      "Bumb",
+      "Faulkner"
+    ]
+  },
+  {
+    "title": "The breathing method",
+    "status": "queued",
+    "recommended_by": [
+      "Tom Goodman"
+    ]
+  },
+  {
+    "title": "Journey to the edge of reason",
+    "status": "queued",
+    "recommended_by": [
+      "Tom Goodman"
+    ],
+    "notes": "Bio of Kurt Godel"
+  },
+  {
+    "title": "Uncut Gems",
+    "status": "queued",
+    "recommended_by": [
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "PolySecure",
+    "status": "queued",
+    "recommended_by": [
+      "Gerald"
+    ]
+  },
+  {
+    "title": "Tennyson",
+    "category": "music",
+    "status": "queued",
+    "recommended_by": [
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "Red Rising",
+    "status": "queued",
+    "recommended_by": [
+      "Adam Draper"
+    ]
+  },
+  {
+    "title": "Jiro Dreams of Sushi",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Matt Faulkner"
+    ]
+  },
+  {
+    "title": "Old man and the sea, The",
+    "status": "queued",
+    "recommended_by": [
+      "Matt Faulkner"
+    ]
+  },
+  {
+    "title": "Inherent Vice",
+    "status": "queued",
+    "recommended_by": [
+      "Pio Vincenzo"
+    ]
+  },
+  {
+    "title": "Project Hail Mary",
+    "status": "queued",
+    "recommended_by": [
+      "Adam Draper",
+      "ConnieY"
+    ]
+  },
+  {
+    "title": "Normal People",
+    "status": "queued",
+    "recommended_by": [
+      "Eliza Arnold"
+    ]
+  },
+  {
+    "title": "Memory Called Empire",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Carpenter Brute",
+    "category": "music",
+    "status": "queued",
+    "recommended_by": [
+      "Sqrl"
+    ]
+  },
+  {
+    "title": "Rule 34",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "A brief history of everything",
+    "status": "queued",
+    "recommended_by": [
+      "Paulo"
+    ]
+  },
+  {
+    "title": "Centaur Land",
+    "status": "queued",
+    "recommended_by": [
+      "Chico"
+    ]
+  },
+  {
+    "title": "In and of itself",
+    "status": "queued",
+    "recommended_by": [
+      "RobErdmann"
+    ]
+  },
+  {
+    "title": "Counterpart",
+    "category": "tv",
+    "status": "queued",
+    "recommended_by": [
+      "RobErdmann"
+    ]
+  },
+  {
+    "title": "Cyberpunk",
+    "status": "queued",
+    "recommended_by": [
+      "JeremyConrad"
+    ]
+  },
+  {
+    "title": "The Every",
+    "status": "queued",
+    "recommended_by": [
+      "EmmaAinge"
+    ]
+  },
+  {
+    "title": "Power law, The",
+    "status": "queued",
+    "recommended_by": [
+      "AlexFeerst"
+    ]
+  },
+  {
+    "title": "Laura Crabtree Interview",
+    "category": "podcast",
+    "status": "queued",
+    "url": "https://twitter.com/EVONA_Space/status/1526913731162255362?t=y0b-yvDegCP0JAO6pI8tCQ&s=09"
+  },
+  {
+    "title": "Empire of Pain",
+    "status": "queued",
+    "recommended_by": [
+      "Lauren"
+    ]
+  },
+  {
+    "title": "Mistborn",
+    "status": "queued",
+    "recommended_by": [
+      "Lauren"
+    ]
+  },
+  {
+    "title": "Pharmacopeia",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Murder Bot",
+    "status": "queued",
+    "recommended_by": [
+      "Sara"
+    ]
+  },
+  {
+    "title": "Manifold Garden",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Iron John",
+    "status": "done",
+    "author": "Robert Blye",
+    "rating": 4,
+    "recommended_by": [
+      "Bump",
+      "WilKZ"
+    ],
+    "url": "https://www.amazon.com/Iron-John-Book-About-Men/dp/0306813769"
+  },
+  {
+    "title": "Thinking Fast and Slow",
+    "status": "queued",
+    "recommended_by": [
+      "WilKZ"
+    ]
+  },
+  {
+    "title": "Psychology of Money, The",
+    "status": "queued",
+    "recommended_by": [
+      "WilKZ"
+    ]
+  },
+  {
+    "title": "Top gun maverick",
+    "status": "queued",
+    "recommended_by": [
+      "Camille",
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Euphoria",
+    "status": "queued",
+    "recommended_by": [
+      "Camille",
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "The OA",
+    "status": "queued",
+    "recommended_by": [
+      "Camille",
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "SWF Audiobook",
+    "category": "book",
+    "status": "queued",
+    "author": "Weedan?",
+    "url": "https://twitter.com/SWFoundation/status/1534903728129593350?t=EX0h0ftjmy4HFXas45bpEQ&s=09"
+  },
+  {
+    "title": "God of Space Rock, The",
+    "status": "queued",
+    "url": "https://twitter.com/TWiT/status/1535673213736431625?t=6JysJOKtBk2Qs659vcTkRQ&s=09"
+  },
+  {
+    "title": "The new one",
+    "category": "movie",
+    "status": "queued",
+    "author": "Berbilia",
+    "recommended_by": [
+      "Shrzd"
+    ]
+  },
+  {
+    "title": "Real Genius",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Shrzd"
+    ]
+  },
+  {
+    "title": "Sens8",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Megan/Alex"
+    ]
+  },
+  {
+    "title": "American Pastoral",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "DrunkFriend"
+    ]
+  },
+  {
+    "title": "Treasured lands",
+    "category": "game",
+    "status": "queued",
+    "author": "Qt long",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Utah Phillips",
+    "category": "music",
+    "status": "queued",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Collapse: rise and fall of society union",
+    "status": "queued",
+    "recommended_by": [
+      "Preston"
+    ]
+  },
+  {
+    "title": "The Ecotechnic Future: Envisioning a Post-Peak World: Greer, John Michael: 9780865716391: Amazon.com: Books",
+    "status": "queued",
+    "url": "https://www.amazon.com/Ecotechnic-Future-Envisioning-Post-Peak-World/dp/0865716390"
+  },
+  {
+    "title": "Downfall",
+    "status": "queued",
+    "recommended_by": [
+      "JimmySastra"
+    ]
+  },
+  {
+    "title": "Eccentric orbits",
+    "status": "queued"
+  },
+  {
+    "title": "Planetes",
+    "status": "queued",
+    "recommended_by": [
+      "PaigeBailey"
+    ]
+  },
+  {
+    "title": "What I talk about when I talk about running",
+    "status": "queued",
+    "recommended_by": [
+      "Igor"
+    ]
+  },
+  {
+    "title": "Wind sand and stars",
+    "status": "queued",
+    "recommended_by": [
+      "Rachel"
+    ]
+  },
+  {
+    "title": "Red Plenty",
+    "status": "queued",
+    "recommended_by": [
+      "Jamesbeadburry"
+    ]
+  },
+  {
+    "title": "How to turn your life into art",
+    "status": "queued",
+    "recommended_by": [
+      "AMC"
+    ]
+  },
+  {
+    "title": "Nova",
+    "status": "queued",
+    "author": "Samuel r Delaney jr",
+    "recommended_by": [
+      "MichatEpstien"
+    ]
+  },
+  {
+    "title": "The Untitled Goose Game",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "FrancesW",
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Never let me go",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Amy",
+      "FrancesW"
+    ]
+  },
+  {
+    "title": "Blowup",
+    "category": "book",
+    "status": "queued",
+    "author": "Cortazar",
+    "recommended_by": [
+      "FrancesW"
+    ]
+  },
+  {
+    "title": "The rest is noise",
+    "status": "queued",
+    "author": "Alex ross",
+    "recommended_by": [
+      "FrancesW"
+    ]
+  },
+  {
+    "title": "Watch \"Dvořák Symphony No 9 \"New World\" 2nd movement Celibidache, Münchner Philharmoniker, 1991\" on YouTube\n\nfrom frances",
+    "status": "queued",
+    "url": "https://youtu.be/pHyN3izk38c"
+  },
+  {
+    "title": "First Dwarf Is a New Open World Survival RPG With a Visual Touch of Breath of the Wild - IGN",
+    "category": "game",
+    "status": "queued",
+    "url": "https://www.ign.com/articles/first-dwarf-survival-rpg-open-world-reveal-base-building?amp=1"
+  },
+  {
+    "title": "Adaptations",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh"
+    ]
+  },
+  {
+    "title": "There is no anti memetics division",
+    "status": "queued",
+    "recommended_by": [
+      "EdwinKite",
+      "John Welsh",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Automated",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Stardew Valley",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "FrancesW",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Solaris (1972 film) - Wikipedia",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "FrancesW"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Solaris_(1972_film)"
+  },
+  {
+    "title": "Severance",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "FrancesW",
+      "HenryHoltzmann",
+      "JeremyConrad",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Annihilation",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "FrancesW"
+    ]
+  },
+  {
+    "title": "Paper Girls",
+    "status": "queued",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Heros Journery",
+    "status": "queued",
+    "recommended_by": [
+      "Mccoy"
+    ]
+  },
+  {
+    "title": "Powerbroker, The",
+    "status": "queued",
+    "recommended_by": [
+      "PaulM"
+    ]
+  },
+  {
+    "title": "Slime Rancher 2",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Shogun",
+    "status": "queued",
+    "author": "Clavelle",
+    "recommended_by": [
+      "Evan Becca foend"
+    ]
+  },
+  {
+    "title": "Einsteins dreams",
+    "status": "queued",
+    "recommended_by": [
+      "Nathalie"
+    ]
+  },
+  {
+    "title": "This is how you lose the time war",
+    "status": "queued",
+    "recommended_by": [
+      "Nathalie"
+    ]
+  },
+  {
+    "title": "Forever war, The",
+    "status": "queued",
+    "recommended_by": [
+      "PaulGrasshoff"
+    ]
+  },
+  {
+    "title": "Quasicrystals, A Primer",
+    "category": "book",
+    "status": "done",
+    "rating": 3,
+    "tags": [
+      "Textbook",
+      "math"
+    ]
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep",
+    "category": "book",
+    "status": "done",
+    "rating": 5
+  },
+  {
+    "title": "First 90 Days, The",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "Quasicrystals and Geometry",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "tags": [
+      "Materials",
+      "Textbook",
+      "math"
+    ]
+  },
+  {
+    "title": "An Everyone Culture",
+    "status": "done"
+  },
+  {
+    "title": "The Clean Coder",
+    "category": "book",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "Symmetry of Things, The",
+    "category": "book",
+    "status": "queued",
+    "tags": [
+      "Textbook",
+      "math"
+    ]
+  },
+  {
+    "title": "Managing Yourself",
+    "category": "book",
+    "status": "done",
+    "rating": 3
+  },
+  {
+    "title": "Conscious Leadership",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "tags": [
+      "Leadership"
+    ]
+  },
+  {
+    "title": "Uberman Labs",
+    "category": "podcast",
+    "status": "queued"
+  },
+  {
+    "title": "Conquistador",
+    "category": "book",
+    "status": "queued",
+    "author": "Buddy levy",
+    "recommended_by": [
+      "BryanDavis"
+    ]
+  },
+  {
+    "title": "UVC: Maryanna Saenko from Future Ventures on investing with an abundance mindset, 3 questions she asks while assessing a deep tech startup and future of food and energy | Understanding VC",
+    "status": "queued",
+    "url": "https://www.understandingvc.com/uvc-maryanna-saenko-from-future-ventures/"
+  },
+  {
+    "title": "Children of Ruin",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Becca",
+      "Maus"
+    ]
+  },
+  {
+    "title": "You better be lighting",
+    "category": "book",
+    "status": "queued",
+    "author": "Andrea gibson"
+  },
+  {
+    "title": "Unnatural selection",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "NatoSaicheck"
+    ]
+  },
+  {
+    "title": "Fall. The",
+    "category": "movie",
+    "status": "queued",
+    "author": "Tarsem singh",
+    "recommended_by": [
+      "David Origin"
+    ]
+  },
+  {
+    "title": "Macell the shell with shoes on",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "EmmaAinge"
+    ]
+  },
+  {
+    "title": "The Party",
+    "status": "queued",
+    "recommended_by": [
+      "NickPinkston"
+    ]
+  },
+  {
+    "title": "Usual Suspects",
+    "status": "queued",
+    "recommended_by": [
+      "Ashley"
+    ]
+  },
+  {
+    "title": "The End of Error",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Sandman",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Moonrise Kingdom",
+    "status": "queued"
+  },
+  {
+    "title": "Portal2",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "The man who fell to earth",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "ShaneG"
+    ]
+  },
+  {
+    "title": "Knives out",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Becca"
+    ]
+  },
+  {
+    "title": "American Moonshot",
+    "status": "queued",
+    "recommended_by": [
+      "Xiao"
+    ]
+  },
+  {
+    "title": "Stop Making Sense",
+    "status": "queued",
+    "recommended_by": [
+      "Camille"
+    ]
+  },
+  {
+    "title": "What technology eants",
+    "status": "queued",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "The technium",
+    "status": "queued",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "Algorithms to Live and Die By",
+    "status": "queued",
+    "recommended_by": [
+      "CodyDaniel"
+    ]
+  },
+  {
+    "title": "The Rehearsal",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "EmmaAinge",
+      "MeganK"
+    ]
+  },
+  {
+    "title": "scrapeme",
+    "status": "queued",
+    "url": "https://twitter.com/_alexbrogan/status/1595783110838276099?t=4O7jZhGIj6GDpNpMl6TkEg&s=09"
+  },
+  {
+    "title": "The wild parrots of telegraph hill",
+    "status": "queued",
+    "recommended_by": [
+      "RobertHarris"
+    ]
+  },
+  {
+    "title": "White Lotus",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Andor",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Chicken John's book",
+    "status": "queued",
+    "recommended_by": [
+      "Verbal"
+    ]
+  },
+  {
+    "title": "Lord's of the Harvest",
+    "status": "queued",
+    "recommended_by": [
+      "DocBrown"
+    ]
+  },
+  {
+    "title": "Game, The",
+    "status": "queued",
+    "recommended_by": [
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Dawn of Everything, The",
+    "status": "queued",
+    "recommended_by": [
+      "KateS"
+    ]
+  },
+  {
+    "title": "David Lang youtube",
+    "status": "queued",
+    "recommended_by": [
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Tunic",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "EmmaAinge"
+    ]
+  },
+  {
+    "title": "Discoverers, The",
+    "status": "queued",
+    "recommended_by": [
+      "DanAinge"
+    ]
+  },
+  {
+    "title": "Antarctic Housewive",
+    "status": "queued",
+    "recommended_by": [
+      "KateS"
+    ]
+  },
+  {
+    "title": "Intention of Nature, The",
+    "status": "queued",
+    "recommended_by": [
+      "KateS",
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Laws of Human Nature, The",
+    "status": "queued",
+    "author": "Robert green",
+    "recommended_by": [
+      "Samira"
+    ]
+  },
+  {
+    "title": "How the hippies saved physics",
+    "status": "queued",
+    "recommended_by": [
+      "Francaismichela"
+    ]
+  },
+  {
+    "title": "Cyberchase",
+    "category": "series",
+    "status": "queued",
+    "notes": "KidsSeries"
+  },
+  {
+    "title": "The Power of Myth",
+    "status": "queued",
+    "author": "Joseph Campbell and bull moyers",
+    "recommended_by": [
+      "WilKZ"
+    ]
+  },
+  {
+    "title": "Silk roads, The",
+    "status": "queued",
+    "recommended_by": [
+      "WilKZ"
+    ]
+  },
+  {
+    "title": "Orgasm Inc",
+    "status": "queued",
+    "recommended_by": [
+      "KatyP",
+      "MeganK"
+    ]
+  },
+  {
+    "title": "Periferal",
+    "status": "queued",
+    "recommended_by": [
+      "AlexFeerst",
+      "MeganK"
+    ]
+  },
+  {
+    "title": "Passengers",
+    "status": "queued",
+    "recommended_by": [
+      "Tom Goodman"
+    ]
+  },
+  {
+    "title": "Roadside Picknick",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "FrancesW"
+    ]
+  },
+  {
+    "title": "The Power Worshippers: inside the dangerous rise of religious nationalism",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Camilla T"
+    ]
+  },
+  {
+    "title": "Power",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "WilKZ"
+    ]
+  },
+  {
+    "title": "16 zimettti",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "JoshG"
+    ]
+  },
+  {
+    "title": "Aroura",
+    "category": "book",
+    "status": "queued",
+    "author": "KSR",
+    "recommended_by": [
+      "JeremyConrad"
+    ]
+  },
+  {
+    "title": "Gordon Gecko",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Mez"
+    ]
+  },
+  {
+    "title": "Nonzero",
+    "category": "book",
+    "status": "queued",
+    "author": "Robert wright",
+    "recommended_by": [
+      "Mez"
+    ]
+  },
+  {
+    "title": "Things fall apart",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Galen"
+    ]
+  },
+  {
+    "title": "Lost Illusoons",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "BrinO"
+    ]
+  },
+  {
+    "title": "A Star Is Born",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "BrinO"
+    ]
+  },
+  {
+    "title": "ToDo List, The",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Warrior, king, lover poet",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anna Marie"
+    ]
+  },
+  {
+    "title": "Tar",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "BrinO"
+    ]
+  },
+  {
+    "title": "The mysterious strnager",
+    "category": "movie",
+    "status": "queued"
+  },
+  {
+    "title": "FasternthannLight",
+    "status": "queued",
+    "recommended_by": [
+      "PatrickBlu"
+    ]
+  },
+  {
+    "title": "Dawn of everything",
+    "status": "queued",
+    "recommended_by": [
+      "SteveMassey"
+    ]
+  },
+  {
+    "title": "1491",
+    "status": "queued",
+    "recommended_by": [
+      "AMC"
+    ]
+  },
+  {
+    "title": "Last of Us",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "AlexFeerst",
+      "EmmaAinge",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Owl House, The",
+    "status": "queued",
+    "recommended_by": [
+      "David Origin"
+    ]
+  },
+  {
+    "title": "Cradle, The",
+    "status": "queued",
+    "recommended_by": [
+      "Maus"
+    ],
+    "notes": "Series of 10 books"
+  },
+  {
+    "title": "Space Team",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Maus"
+    ]
+  },
+  {
+    "title": "Rehearsal, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AlexFeerst"
+    ]
+  },
+  {
+    "title": "Triangle of Sadness",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AlexFeerst",
+      "BenE",
+      "MeganK"
+    ]
+  },
+  {
+    "title": "Square, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "BenE",
+      "MeganK"
+    ]
+  },
+  {
+    "title": "Paper belt on fire",
+    "status": "queued",
+    "recommended_by": [
+      "DanielleS"
+    ]
+  },
+  {
+    "title": "Grit",
+    "status": "queued",
+    "recommended_by": [
+      "DanielleS"
+    ]
+  },
+  {
+    "title": "Space between worlds",
+    "status": "queued",
+    "recommended_by": [
+      "KarenCc"
+    ]
+  },
+  {
+    "title": "Last Unicorn, The",
+    "status": "queued",
+    "recommended_by": [
+      "KarenCc"
+    ]
+  },
+  {
+    "title": "Solaris",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "PatrickBlu"
+    ]
+  },
+  {
+    "title": "God of War",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "PatrickBlu"
+    ]
+  },
+  {
+    "title": "No Mans Sky",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "PatrickBlu"
+    ]
+  },
+  {
+    "title": "Shrinking",
+    "category": "tv",
+    "status": "queued",
+    "recommended_by": [
+      "George"
+    ]
+  },
+  {
+    "title": "Light amd Magic",
+    "status": "queued",
+    "recommended_by": [
+      "Verbal"
+    ]
+  },
+  {
+    "title": "Solenoid",
+    "category": "book",
+    "status": "queued",
+    "author": "Mircea",
+    "recommended_by": [
+      "Andrei",
+      "Verbal"
+    ]
+  },
+  {
+    "title": "Pretty Problems",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "BenCerveny"
+    ]
+  },
+  {
+    "title": "Born a Crime",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MegRosssoni"
+    ]
+  },
+  {
+    "title": "Imperial Science",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Along Night in Paris",
+    "status": "queued",
+    "recommended_by": [
+      "MichaelGibson"
+    ]
+  },
+  {
+    "title": "Electric dreams",
+    "category": "tv",
+    "status": "queued",
+    "recommended_by": [
+      "Verbal"
+    ]
+  },
+  {
+    "title": "Slay the Spire",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "David Origin"
+    ],
+    "url": "https://store.steampowered.com/app/646570/Slay_the_Spire/"
+  },
+  {
+    "title": "Universal Paperclips",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "David Origin"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Universal_Paperclips"
+  },
+  {
+    "title": "Mad God",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Verbal"
+    ]
+  },
+  {
+    "title": "Geology Lecutees",
+    "category": "series",
+    "status": "queued",
+    "author": "Nick Zintner",
+    "recommended_by": [
+      "Anselm"
+    ],
+    "notes": "Youtube"
+  },
+  {
+    "title": "Deasert Books (category)",
+    "category": "book",
+    "status": "queued",
+    "author": "Tom Shepard",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Shakespeare in Love - Wikipedia",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "WKZ"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Shakespeare_in_Love"
+  },
+  {
+    "title": "Play nice but win",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Grinich"
+    ]
+  },
+  {
+    "title": "Point break",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Grinich"
+    ]
+  },
+  {
+    "title": "American Prometheus",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Mccoy"
+    ]
+  },
+  {
+    "title": "Short history of nearly everything",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "DavidPark"
+    ]
+  },
+  {
+    "title": "Knife of never letting go, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Kenthesimp"
+    ]
+  },
+  {
+    "title": "The Evolving Self",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "JessVibes",
+      "Vividvoid"
+    ]
+  },
+  {
+    "title": "Bell Labs Memoirs: Voices of Innovation",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "PaigeBailey"
+    ]
+  },
+  {
+    "title": "Upanishads",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "CaseyTwitter"
+    ]
+  },
+  {
+    "title": "Glass House",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "A court of thorns and roses",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "DanAinge"
+    ]
+  },
+  {
+    "title": "Legends and Lattes",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Lauren"
+    ]
+  },
+  {
+    "title": "Tomorrow tomorrow and tomorrow",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Lauren"
+    ]
+  },
+  {
+    "title": "Parenting from the Inside Out",
+    "category": "book",
+    "status": "queued",
+    "author": "Daniel Seigel",
+    "recommended_by": [
+      "Paulo"
+    ]
+  },
+  {
+    "title": "The swimming pool",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Lauren"
+    ]
+  },
+  {
+    "title": "Cerici",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "Anya",
+      "KateMcAndrew",
+      "Maus"
+    ]
+  },
+  {
+    "title": "getting the love you want - Google Search",
+    "status": "queued",
+    "url": "https://www.google.com/search?q=getting+the+love+you+want&oq=getting+t&aqs=chrome.0.35i39i650j46i20i263i512j69i57j46i67i650j0i67i650j46i433i512j46i131i433i512j69i60.1229j0j7&sourceid=chrome&ie=UTF-8"
+  },
+  {
+    "title": "Song of Achilles",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "KateMcAndrew"
+    ]
+  },
+  {
+    "title": "Parenting from Inside Out",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Paulo"
+    ]
+  },
+  {
+    "title": "Remarkably Bright Creatures",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AmyBrand"
+    ]
+  },
+  {
+    "title": "Ninth House",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Camilla T"
+    ]
+  },
+  {
+    "title": "Hell Bent",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Camilla T"
+    ]
+  },
+  {
+    "title": "Albinos Seed",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "GreyTribe"
+    ]
+  },
+  {
+    "title": "Sovereign Individual",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "The art of clear thinking",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Gut",
+    "category": "book",
+    "status": "queued",
+    "author": "Julia Anders",
+    "recommended_by": [
+      "TatiS"
+    ]
+  },
+  {
+    "title": "Eccentric Orbits",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AntonJ"
+    ]
+  },
+  {
+    "title": "Original Sin: Power, Technology and War in Outer Space",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Iron heel, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Accidental Superpower, The",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Dawn of Everything, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh",
+      "Sean K"
+    ]
+  },
+  {
+    "title": "Blue Zone, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "BrinEnterkin"
+    ]
+  },
+  {
+    "title": "Merpeople",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Lynn"
+    ]
+  },
+  {
+    "title": "Scavengers Reign",
+    "category": "series",
+    "status": "queued"
+  },
+  {
+    "title": "G-man",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Matt Wraith"
+    ]
+  },
+  {
+    "title": "Fall of the house of usher, the",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Jackie"
+    ]
+  },
+  {
+    "title": "Quantum Earth Series, the",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "CJ"
+    ]
+  },
+  {
+    "title": "Neon Gods Series",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Innkeeper Chronicles, the",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Lyra"
+    ]
+  },
+  {
+    "title": "Road to Serfdom",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Witness, The",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Breathe",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MarkLauer"
+    ],
+    "url": "Breath: The New Science of a Lost Art https://a.co/d/dQuEBp5"
+  },
+  {
+    "title": "Pigeon Tunnel, the",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "GregEgan"
+    ]
+  },
+  {
+    "title": "Blue Eye Samuri",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Parenting from the Inside Out: How... by Siegel, Daniel J.",
+    "status": "queued",
+    "url": "https://www.amazon.com/Parenting-Inside-Out-Self-Understanding-Anniversary/dp/039916510X"
+  },
+  {
+    "title": "Amazon.com: No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind (Audible Audio Edition): Tina Payne Bryson PhD, Daniel J. Siegel MD, Tina Payne Bryson PhD, Daniel j. Siegel MD, Random House Audio: Audible Books & Originals",
+    "status": "queued",
+    "url": "https://www.amazon.com/No-Drama-Discipline-audiobook/dp/B00NQAW77K/ref=sr_1_1?hvadid=598612465866&hvdev=c&hvlocphy=9031939&hvnetw=g&hvqmt=e&hvrand=612122657959683769&hvtargid=kwd-83785916200&hydadcr=8898_13572528&keywords=no-drama+discipline&qid=1700698722&sr=8-1"
+  },
+  {
+    "title": "Starfeild",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Death Stranding",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "GreyTribe"
+    ]
+  },
+  {
+    "title": "MirrorSea.xyz",
+    "category": "game",
+    "status": "done",
+    "recommended_by": [
+      "ChrisPaika"
+    ]
+  },
+  {
+    "title": "Way of Kings",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "KristenBrann"
+    ]
+  },
+  {
+    "title": "True Names",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "What we do in the shadows",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "JenPerkins",
+      "MeganA",
+      "NathanKrieger"
+    ]
+  },
+  {
+    "title": "Flight of the Concords",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "JenPerkins",
+      "NathanKrieger"
+    ]
+  },
+  {
+    "title": "Diskworld",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Deamon Copperhead",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "WKZ"
+    ]
+  },
+  {
+    "title": "Educated",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "WKZ"
+    ]
+  },
+  {
+    "title": "Primates Memoir",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Mccoy"
+    ]
+  },
+  {
+    "title": "Determined",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Mccoy"
+    ]
+  },
+  {
+    "title": "Storm, the",
+    "status": "queued",
+    "recommended_by": [
+      "CatOrman"
+    ]
+  },
+  {
+    "title": "Pure Joy and No Fun",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Geoff"
+    ]
+  },
+  {
+    "title": "ScrapeMe",
+    "status": "queued",
+    "url": "https://x.com/pmarca/status/1734341311237595521?t=qgynMjcl9d6CoIPqRE5K1A&s=09"
+  },
+  {
+    "title": "The Garden: Commune or Cult - Google Search",
+    "status": "queued",
+    "url": "https://www.google.com/search?kgmid=/g/11l35t1wtr&hl=en-US&q=The+Garden:+Commune+or+Cult&kgs=bbb56365d804d267&shndl=17&shem=optc&source=sh/x/kp/osrp/m5/4"
+  },
+  {
+    "title": "Ghosts of Los Angeles",
+    "status": "queued",
+    "recommended_by": [
+      "Katesdrunkfriend"
+    ]
+  },
+  {
+    "title": "Leave the World Behind",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "MeganK"
+    ]
+  },
+  {
+    "title": "Voice of Dolphins, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "EdwinKite"
+    ]
+  },
+  {
+    "title": "The Stormlight Archive - Wikipedia",
+    "status": "queued",
+    "recommended_by": [
+      "Gregory"
+    ],
+    "url": "https://en.wikipedia.org/wiki/The_Stormlight_Archive"
+  },
+  {
+    "title": "Woll (series)",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Mastermind, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "JoshManchester"
+    ]
+  },
+  {
+    "title": "Masculinity amidst Madness",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "JoshManchester"
+    ]
+  },
+  {
+    "title": "Possee Rilla",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "JoshManchester"
+    ]
+  },
+  {
+    "title": "Dark Enlightenment, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "JoshManchester"
+    ]
+  },
+  {
+    "title": "Way of the Superior Man, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "JoshManchester"
+    ]
+  },
+  {
+    "title": "Machivellians, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "JoshManchester",
+      "WQ"
+    ]
+  },
+  {
+    "title": "What our Problem",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "An Immense World",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Mccoy"
+    ]
+  },
+  {
+    "title": "Homesteading the Noosphere",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Chernobyl",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "Matt Faulkner"
+    ]
+  },
+  {
+    "title": "Boroque Cycle, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "PhilLarochelle"
+    ]
+  },
+  {
+    "title": "American Fiction",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "Gerald"
+    ]
+  },
+  {
+    "title": "Captain Class, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Chowdah"
+    ]
+  },
+  {
+    "title": "Leadership and Self Deception",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Chowdah"
+    ]
+  },
+  {
+    "title": "Outward Mindset, the",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Chowdah"
+    ]
+  },
+  {
+    "title": "Do Hard Things",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Chowdah"
+    ]
+  },
+  {
+    "title": "Plutarch on Sparta",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Chowdah"
+    ]
+  },
+  {
+    "title": "Bahagava Ghits",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "CaseyTwitter",
+      "Mccoy"
+    ]
+  },
+  {
+    "title": "Herodatus",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AMC",
+      "AlexFeerst",
+      "Anselm",
+      "Matt Faulkner"
+    ],
+    "notes": "Ask Anselem for which translation"
+  },
+  {
+    "title": "Active Measures (on disinfo)",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Sextant: A Voyage Guided by the Stars and the Men Who Mapped the World’s Oceans",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Radu"
+    ]
+  },
+  {
+    "title": "360 degree leadership",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Shae"
+    ]
+  },
+  {
+    "title": "Speed of Trust, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Shae"
+    ]
+  },
+  {
+    "title": "Work Life",
+    "category": "podcast",
+    "status": "queued",
+    "author": "Adam Grant",
+    "recommended_by": [
+      "Shae"
+    ]
+  },
+  {
+    "title": "CIA Manuel of trickery and deception",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MajSeanAllen"
+    ]
+  },
+  {
+    "title": "City On Mars, A",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Jurvetson"
+    ]
+  },
+  {
+    "title": "In 'An Immense World', Ed Yong dives deep into animal senses : NPR",
+    "status": "queued",
+    "url": "https://www.npr.org/2022/06/21/1105793891/ed-yong-an-immense-world-animal-senses"
+  },
+  {
+    "title": "Mathematicians lament",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Kill Chain, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AnthonyArroyo"
+    ]
+  },
+  {
+    "title": "Mindufullness in Pain English",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "WKZ"
+    ]
+  },
+  {
+    "title": "Ancient City, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "WQ"
+    ]
+  },
+  {
+    "title": "Chrysanthemum and Sword, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Ringworld",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "DavidBlumen"
+    ]
+  },
+  {
+    "title": "Active Inference The Free Energy Principle in Mind, Brain, and Behavior | Books Gateway | MIT Press",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "EmmetShear"
+    ],
+    "url": "https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind"
+  },
+  {
+    "title": "Ringworld",
+    "category": "game",
+    "status": "queued"
+  },
+  {
+    "title": "Freedoms Forge",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MitchA"
+    ]
+  },
+  {
+    "title": "Dark Crystal",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "SamSethna"
+    ]
+  },
+  {
+    "title": "Inventing Accuracy",
+    "status": "queued",
+    "recommended_by": [
+      "HenryValence"
+    ],
+    "url": "https://mitpress.mit.edu/9780262631471/inventing-accuracy/"
+  },
+  {
+    "title": "The Eye of War — University of Minnesota Press",
+    "status": "queued",
+    "recommended_by": [
+      "HenryValence"
+    ],
+    "url": "https://www.upress.umn.edu/book-division/books/the-eye-of-war"
+  },
+  {
+    "title": "Lost in Math: How Beauty Leads Physics Astray",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Superabnundance",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "AbeM"
+    ]
+  },
+  {
+    "title": "Computers Voice, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "LizFarber"
+    ]
+  },
+  {
+    "title": "Sun eater series",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ]
+  },
+  {
+    "title": "Elysium",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "I, Mammal",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Nehal"
+    ]
+  },
+  {
+    "title": "How the world really works",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm"
+    ],
+    "notes": "(Re decarbonization)"
+  },
+  {
+    "title": "The Pentagon wars",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Conversations with God",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Twitter"
+    ]
+  },
+  {
+    "title": "Chalengers",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Atlas of the Heart",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "ShaeCatylst"
+    ]
+  },
+  {
+    "title": "Braving the Wilderness",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "ShaeCatylst"
+    ]
+  },
+  {
+    "title": "This is how you lose the time war",
+    "category": "book",
+    "status": "done",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Scavengers Reign",
+    "category": "book",
+    "status": "queued"
+  },
+  {
+    "title": "Terra Invicta",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Children of a Dead Earth",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Thinking Fast and Sloe",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Anna Marie"
+    ]
+  },
+  {
+    "title": "Free Trade Doesn't Work",
+    "category": "book",
+    "status": "queued",
+    "author": "Ian Fletcher",
+    "recommended_by": [
+      "MalcomH"
+    ]
+  },
+  {
+    "title": "Margin Call",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Chants of Sonnar",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Abstract",
+    "category": "series",
+    "status": "queued"
+  },
+  {
+    "title": "Miranda",
+    "category": "movie",
+    "status": "queued",
+    "url": "https://en.m.wikipedia.org/wiki/Me_and_You_and_Everyone_We_Know"
+  },
+  {
+    "title": "Reputation and Power",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Balaji"
+    ]
+  },
+  {
+    "title": "Our mathematical universe",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Saturn Run",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Grinich"
+    ]
+  },
+  {
+    "title": "Too like the lightening",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Muster Dogs",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Dyson Sphere Project",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh"
+    ]
+  },
+  {
+    "title": "Cocoon",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "GabeMartinDempesy"
+    ]
+  },
+  {
+    "title": "Pantheon",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "RobertHarris"
+    ]
+  },
+  {
+    "title": "Slow Horses",
+    "status": "queued",
+    "recommended_by": [
+      "RobertHarris"
+    ]
+  },
+  {
+    "title": "Luthor",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "Anselm",
+      "Neal S"
+    ]
+  },
+  {
+    "title": "All Systems Red",
+    "status": "queued",
+    "recommended_by": [
+      "LizGoodman"
+    ]
+  },
+  {
+    "title": "Some desperate glory",
+    "status": "queued",
+    "recommended_by": [
+      "Sean K"
+    ]
+  },
+  {
+    "title": "vlocint=&hvlocphy=9032075&hvtargid=pla-990070252555&psc=1&mcid=3a31e635d0ba330990fdebfcd1d829d8&dplnkId=380d752f-9887-4517-b378-b495dcb7bb2b",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Alanna"
+    ],
+    "url": "https://www.amazon.com/Visual-Differential-Geometry-Forms-Mathematical/dp/0691203709/ref=asc_df_0691203709/?tag=hyprod-20&linkCode=df0&hvadid=693406704660&hvpos=&hvnetw=g&hvrand=11350559107772480722&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&h"
+  },
+  {
+    "title": "Shop Class as Soulcraft",
+    "status": "queued",
+    "recommended_by": [
+      "Timberwind"
+    ]
+  },
+  {
+    "title": "Loki",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "Grinich"
+    ]
+  },
+  {
+    "title": "Slow Horses",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Nineteen Ways of Looking at Consciousness: House, Patrick: 9781250151179: Amazon.com: Books",
+    "status": "queued",
+    "url": "https://www.amazon.com/Nineteen-Ways-Looking-at-Consciousness/dp/1250151171?dplnkId=41b23fc4-0610-40f6-bb23-5f0b7b9db7ed"
+  },
+  {
+    "title": "Courage to be Disliked, The",
+    "status": "queued",
+    "recommended_by": [
+      "Andressen",
+      "Jonathanblow"
+    ]
+  },
+  {
+    "title": "Enshrouded",
+    "category": "game",
+    "status": "queued",
+    "recommended_by": [
+      "Maus"
+    ]
+  },
+  {
+    "title": "Righteous Mind",
+    "status": "queued",
+    "recommended_by": [
+      "Jessie"
+    ]
+  },
+  {
+    "title": "Producers, The",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "RobertHarris"
+    ]
+  },
+  {
+    "title": "Immune",
+    "status": "queued",
+    "recommended_by": [
+      "John Welsh"
+    ]
+  },
+  {
+    "title": "What Remains of the Day",
+    "status": "queued",
+    "recommended_by": [
+      "Matt Faulkner",
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Righteous Mind, The",
+    "status": "queued",
+    "recommended_by": [
+      "Jessie"
+    ]
+  },
+  {
+    "title": "Energy and Civilization",
+    "status": "queued",
+    "recommended_by": [
+      "ChristianKyle"
+    ]
+  },
+  {
+    "title": "High Weirdnesses",
+    "status": "queued",
+    "recommended_by": [
+      "LaurenTan"
+    ]
+  },
+  {
+    "title": "Fourthwing",
+    "status": "queued",
+    "recommended_by": [
+      "Elenor"
+    ]
+  },
+  {
+    "title": "Dhalgren",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "Moonwalking with Einstein",
+    "status": "queued",
+    "recommended_by": [
+      "DavidBrandman",
+      "SarahMiller"
+    ]
+  },
+  {
+    "title": "Pantheon",
+    "status": "queued",
+    "recommended_by": [
+      "JohnathanMohan"
+    ]
+  },
+  {
+    "title": "Engines of Creation",
+    "status": "queued",
+    "recommended_by": [
+      "RyanSinger"
+    ]
+  },
+  {
+    "title": "Track Changes: history of work processing",
+    "status": "queued",
+    "recommended_by": [
+      "GTC"
+    ]
+  },
+  {
+    "title": "The Pixar Story - Wikipedia",
+    "status": "queued",
+    "url": "https://en.wikipedia.org/wiki/The_Pixar_Story"
+  },
+  {
+    "title": "Dragons Egf",
+    "status": "queued",
+    "recommended_by": [
+      "AaronT"
+    ]
+  },
+  {
+    "title": "Playground",
+    "status": "queued",
+    "recommended_by": [
+      "DanAinge",
+      "Lack"
+    ]
+  },
+  {
+    "title": "Mars Express",
+    "status": "queued",
+    "recommended_by": [
+      "DanAinge"
+    ]
+  },
+  {
+    "title": "Nexus",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "W Collective"
+    ]
+  },
+  {
+    "title": "Scrape Me",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "1517"
+    ]
+  },
+  {
+    "title": "Spy, The",
+    "category": "tv",
+    "status": "queued",
+    "recommended_by": [
+      "AaronT",
+      "EmilyClifton"
+    ]
+  },
+  {
+    "title": "Downfall",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "CreonL",
+      "PeterWang"
+    ]
+  },
+  {
+    "title": "Barbarian Days",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "RichTurion"
+    ]
+  },
+  {
+    "title": "Power Broker, The",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Haje"
+    ]
+  },
+  {
+    "title": "Margin Call",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "AlexFeerst"
+    ]
+  },
+  {
+    "title": "18 dogs",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Matt Faulkner"
+    ]
+  },
+  {
+    "title": "Art and Craft",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "Faulkner",
+      "Jane Wang"
+    ]
+  },
+  {
+    "title": "Meditation on Midlife",
+    "category": "book",
+    "status": "queued",
+    "author": "David Whyte",
+    "recommended_by": [
+      "Paulina"
+    ],
+    "notes": "Audiobooks"
+  },
+  {
+    "title": "Ruby Frankie story on netflix",
+    "category": "series",
+    "status": "queued",
+    "recommended_by": [
+      "MarkRoberts"
+    ]
+  },
+  {
+    "title": "Closer (short story)",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MeganA"
+    ]
+  },
+  {
+    "title": "Remains of the day, the",
+    "category": "book",
+    "status": "queued",
+    "recommended_by": [
+      "MeredithC"
+    ]
+  },
+  {
+    "title": "Last Ledgends of Earth, The",
+    "category": "book",
+    "status": "queued",
+    "author": "Attansio",
+    "recommended_by": [
+      "LydiaL"
+    ]
+  },
+  {
+    "title": "Zola (re sex workers florida tweet storm)",
+    "status": "done",
+    "recommended_by": [
+      "AlexFeerst"
+    ]
+  },
+  {
+    "title": "Some kind of monster",
+    "status": "queued",
+    "recommended_by": [
+      "AlexFeerst"
+    ]
+  },
+  {
+    "title": "Jo Jo Rabbit",
+    "status": "done",
+    "recommended_by": [
+      "AaronT"
+    ]
+  },
+  {
+    "title": "Lonely are the Brave",
+    "status": "queued",
+    "recommended_by": [
+      "AaronT"
+    ]
+  },
+  {
+    "title": "How it Unfoldss",
+    "status": "queued",
+    "recommended_by": [
+      "GuidoMeggie"
+    ]
+  },
+  {
+    "title": "Limbo",
+    "status": "queued",
+    "recommended_by": [
+      "DazeBeast1gmail.com"
+    ]
+  },
+  {
+    "title": "Undone",
+    "status": "queued",
+    "recommended_by": [
+      "Shary"
+    ]
+  },
+  {
+    "title": "Uncut Gems",
+    "category": "movie",
+    "status": "queued",
+    "recommended_by": [
+      "BrianA",
+      "Ethan"
+    ]
+  },
+  {
+    "title": "Glass Universe, The",
+    "status": "queued",
+    "recommended_by": [
+      "Jazz"
+    ]
+  },
+  {
+    "title": "Slow horses",
+    "status": "queued",
+    "recommended_by": [
+      "DFR"
+    ]
+  }
+]
