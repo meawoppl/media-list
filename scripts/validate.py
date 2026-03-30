@@ -69,6 +69,8 @@ def cross_validate_recommenders(media_path: Path, recommenders_path: Path) -> li
     for i, item in enumerate(media):
         recs = item.get("recommended_by", [])
         for rec in recs:
+            if rec.startswith("Rando(") and rec.endswith(")"):
+                continue
             if rec not in valid_initials:
                 errors.append(
                     f"media.json[{i}]: recommended_by \"{rec}\" "
