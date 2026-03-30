@@ -669,7 +669,8 @@
   },
   {
     "initial": "MeganA",
-    "full_name": "Megan A"
+    "full_name": "Megan A",
+    "color": "#000000"
   },
   {
     "initial": "MeganK",
@@ -917,7 +918,8 @@
   },
   {
     "initial": "Sqrl",
-    "full_name": "Ily Collins"
+    "full_name": "Ily Collins",
+    "color": "#0055FF"
   },
   {
     "initial": "Steve England",

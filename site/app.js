@@ -2,9 +2,49 @@ const DATA_BASE = "data/";
 
 let allItems = [];
 let recommenders = {};
+let recColors = {};
 let currentStatus = "all";
 let sortCol = "title";
 let sortAsc = true;
+
+const ARTICLES = ["the", "a", "an"];
+
+function libraryTitle(title) {
+  const words = title.split(" ");
+  if (words.length > 1 && ARTICLES.includes(words[0].toLowerCase())) {
+    return words.slice(1).join(" ") + ", " + words[0];
+  }
+  return title;
+}
+
+function hashStr(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = ((hash << 5) - hash + str.charCodeAt(i)) | 0;
+  }
+  return Math.abs(hash);
+}
+
+function autoColor(name) {
+  const h = hashStr(name) % 360;
+  return `hsl(${h}, 55%, 45%)`;
+}
+
+function recColor(initial) {
+  if (recColors[initial]) return recColors[initial];
+  return autoColor(initial);
+}
+
+function textColor(bgColor) {
+  const canvas = document.createElement("canvas");
+  canvas.width = canvas.height = 1;
+  const ctx = canvas.getContext("2d");
+  ctx.fillStyle = bgColor;
+  ctx.fillRect(0, 0, 1, 1);
+  const [r, g, b] = ctx.getImageData(0, 0, 1, 1).data;
+  const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+  return luminance > 0.5 ? "#222" : "#fff";
+}
 
 async function loadData() {
   try {
@@ -16,21 +56,12 @@ async function loadData() {
     const recList = recResp.ok ? await recResp.json() : [];
     for (const r of recList) {
       recommenders[r.initial] = r.full_name;
+      if (r.color) recColors[r.initial] = r.color;
     }
   } catch {
     allItems = [];
   }
   render();
-}
-
-const ARTICLES = ["the", "a", "an"];
-
-function libraryTitle(title) {
-  const words = title.split(" ");
-  if (words.length > 1 && ARTICLES.includes(words[0].toLowerCase())) {
-    return words.slice(1).join(" ") + ", " + words[0];
-  }
-  return title;
 }
 
 function recCount(item) {
@@ -94,16 +125,12 @@ function render() {
     const creator = item.author || item.director || "";
     const cat = item.category || "";
     const rating = item.rating ? "\u2605".repeat(item.rating) : "";
-    const recs = recCount(item);
-    const recNames = (item.recommended_by || [])
-      .map((r) => esc(recommenders[r] || r))
-      .join(", ");
-    const recInitials = (item.recommended_by || [])
-      .map((r) => esc(r))
-      .join(", ");
-    const recCell = recs
-      ? `<span title="${recNames}">${recInitials}</span>`
-      : "";
+    const recs = (item.recommended_by || []).map((r) => {
+      const bg = recColor(r);
+      const fg = textColor(bg);
+      const fullName = esc(recommenders[r] || r);
+      return `<span class="rec-bubble" style="background:${bg};color:${fg}" title="${fullName}">${esc(r)}</span>`;
+    }).join(" ");
     const displayTitle = libraryTitle(item.title);
     const titleCell = item.url
       ? `<a href="${esc(item.url)}" target="_blank">${esc(displayTitle)}</a>`
@@ -114,7 +141,7 @@ function render() {
       <td class="col-cat">${esc(cat)}</td>
       <td class="col-creator">${esc(creator)}</td>
       <td class="col-year">${item.year || ""}</td>
-      <td class="col-recs">${recCell}</td>
+      <td class="col-recs">${recs}</td>
       <td><span class="status-badge ${item.status}">${esc(item.status)}</span></td>
       <td class="col-rating">${rating}</td>
     </tr>`;
