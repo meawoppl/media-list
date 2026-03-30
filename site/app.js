@@ -25,9 +25,14 @@ function hashStr(str) {
   return Math.abs(hash);
 }
 
+const GOLDEN_ANGLE = 137.508;
+
 function autoColor(name) {
-  const h = hashStr(name) % 360;
-  return `hsl(${h}, 55%, 45%)`;
+  const idx = hashStr(name);
+  const h = (idx * GOLDEN_ANGLE) % 360;
+  const s = 50 + (idx % 20);
+  const l = 35 + (idx % 20);
+  return `hsl(${h.toFixed(1)}, ${s}%, ${l}%)`;
 }
 
 function recColor(initial) {
