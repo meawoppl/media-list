@@ -7435,7 +7435,7 @@
   {
     "title": "Severance",
     "category": "series",
-    "status": "queued",
+    "status": "done",
     "recommended_by": [
       "FrancesW",
       "HenryHoltzmann",
@@ -7444,7 +7444,8 @@
     ],
     "year": 2022,
     "url": "https://en.wikipedia.org/wiki/Severance_(TV_series)",
-    "checked": true
+    "checked": true,
+    "rating": 5
   },
   {
     "title": "Annihilation",
