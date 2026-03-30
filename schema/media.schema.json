@@ -63,6 +63,9 @@
       },
       "url": {
         "type": "string"
+      },
+      "checked": {
+        "type": "boolean"
       }
     },
     "additionalProperties": false
