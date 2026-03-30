@@ -11369,5 +11369,17 @@
       "Naval"
     ],
     "author": "Garth Ennis"
+  },
+  {
+    "title": "The Will of the Many",
+    "category": "book",
+    "status": "queued",
+    "author": "James Islington",
+    "year": 2023,
+    "url": "https://en.wikipedia.org/wiki/The_Will_of_the_Many",
+    "checked": true,
+    "recommended_by": [
+      "MichaelAndregg"
+    ]
   }
 ]
