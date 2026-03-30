@@ -42,7 +42,8 @@
     "status": "done",
     "checked": true,
     "url": "https://en.wikipedia.org/wiki/Jonathan%27s_Space_Report",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 5
   },
   {
     "title": "Brad nealy professor brothers",
@@ -106,7 +107,8 @@
     "status": "queued",
     "recommended_by": [
       "Matt Faulkner",
-      "Unknown"
+      "Unknown",
+      "Naval"
     ],
     "checked": true,
     "author": "Daniel Keyes",
@@ -289,7 +291,8 @@
     "category": "book",
     "author": "John Rossman",
     "year": 2014,
-    "url": "https://en.wikipedia.org/wiki/Amazon_(company)"
+    "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+    "rating": 2
   },
   {
     "title": "The Fifth Column",
@@ -545,7 +548,8 @@
     "checked": true,
     "author": "Jon Krakauer",
     "year": 2003,
-    "url": "https://en.wikipedia.org/wiki/Under_the_Banner_of_Heaven"
+    "url": "https://en.wikipedia.org/wiki/Under_the_Banner_of_Heaven",
+    "rating": 5
   },
   {
     "title": "A People's History of the United States",
@@ -570,7 +574,8 @@
     "checked": true,
     "director": "Errol Morris",
     "year": 1997,
-    "url": "https://en.wikipedia.org/wiki/Fast,_Cheap_%26_Out_of_Control"
+    "url": "https://en.wikipedia.org/wiki/Fast,_Cheap_%26_Out_of_Control",
+    "rating": 3
   },
   {
     "title": "Functional ultrasound imaging",
@@ -646,7 +651,8 @@
     "status": "done",
     "rating": 3,
     "recommended_by": [
-      "AMC"
+      "AMC",
+      "Naval"
     ],
     "checked": true,
     "category": "book",
@@ -785,7 +791,8 @@
     "checked": true,
     "author": "D. Michael Abrashoff",
     "year": 2002,
-    "url": "https://en.wikipedia.org/wiki/USS_Benfold"
+    "url": "https://en.wikipedia.org/wiki/USS_Benfold",
+    "rating": 4
   },
   {
     "title": "Vorkosigan Saga",
@@ -975,7 +982,8 @@
     "checked": true,
     "author": "Vernor Vinge",
     "year": 1992,
-    "url": "https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep"
+    "url": "https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep",
+    "rating": 5
   },
   {
     "title": "Visions: How Science Will Revolutionize the 21st Century",
@@ -998,7 +1006,8 @@
     "author": "David Walton",
     "year": 2017,
     "url": "https://en.wikipedia.org/wiki/David_Walton_(science_fiction_writer)",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "title": "Log mountain soon",
@@ -1076,7 +1085,8 @@
     "status": "done",
     "rating": 5,
     "recommended_by": [
-      "AC"
+      "AC",
+      "Naval"
     ],
     "checked": true,
     "author": "Ted Chiang",
@@ -1329,7 +1339,8 @@
     "category": "book",
     "author": "John Drury Clark",
     "year": 1972,
-    "url": "https://en.wikipedia.org/wiki/John_Drury_Clark"
+    "url": "https://en.wikipedia.org/wiki/John_Drury_Clark",
+    "rating": 4
   },
   {
     "title": "The Body Keeps the Score",
@@ -1357,7 +1368,8 @@
     "category": "book",
     "author": "Octavia E. Butler",
     "year": 1987,
-    "url": "https://en.wikipedia.org/wiki/Lilith%27s_Brood"
+    "url": "https://en.wikipedia.org/wiki/Lilith%27s_Brood",
+    "rating": 5
   },
   {
     "title": "How Not to Be Wrong",
@@ -1433,7 +1445,8 @@
     "checked": true,
     "year": 2002,
     "url": "https://en.wikipedia.org/wiki/LCD_Soundsystem",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 4
   },
   {
     "title": "The Religion of Technology",
@@ -1548,14 +1561,6 @@
     "recommended_by": []
   },
   {
-    "title": "Qualified Small Business Stock",
-    "category": "topic",
-    "status": "done",
-    "checked": true,
-    "url": "https://en.wikipedia.org/wiki/Qualified_Small_Business_Stock",
-    "recommended_by": []
-  },
-  {
     "title": "The Queen of Versailles",
     "category": "movie",
     "status": "queued",
@@ -1585,7 +1590,9 @@
     "author": "Warren Ellis",
     "year": 1997,
     "url": "https://en.wikipedia.org/wiki/Transmetropolitan",
-    "recommended_by": []
+    "recommended_by": [
+      "Naval"
+    ]
   },
   {
     "title": "I Contain Multitudes",
@@ -2042,7 +2049,8 @@
     "checked": true,
     "author": "William Davis",
     "year": 2011,
-    "url": "https://en.wikipedia.org/wiki/Wheat_Belly"
+    "url": "https://en.wikipedia.org/wiki/Wheat_Belly",
+    "rating": 3
   },
   {
     "title": "Turing's Cathedral",
@@ -2057,7 +2065,8 @@
     "category": "book",
     "author": "George Dyson",
     "year": 2012,
-    "url": "https://en.wikipedia.org/wiki/Turing%27s_Cathedral"
+    "url": "https://en.wikipedia.org/wiki/Turing%27s_Cathedral",
+    "rating": 5
   },
   {
     "title": "Rework",
@@ -2084,7 +2093,8 @@
     ],
     "checked": true,
     "author": "Paul Jarvis",
-    "year": 2019
+    "year": 2019,
+    "rating": 3
   },
   {
     "title": "Against Method",
@@ -2108,7 +2118,8 @@
     "category": "book",
     "author": "Gerard K. O'Neill",
     "year": 1976,
-    "url": "https://en.wikipedia.org/wiki/The_High_Frontier:_Human_Colonies_in_Space"
+    "url": "https://en.wikipedia.org/wiki/The_High_Frontier:_Human_Colonies_in_Space",
+    "rating": 5
   },
   {
     "title": "Remote: Office Not Required",
@@ -2140,7 +2151,8 @@
     "status": "done",
     "checked": true,
     "category": "book",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "title": "Designa",
@@ -2158,7 +2170,8 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Andy Lee"
+      "Andy Lee",
+      "Naval"
     ],
     "checked": true,
     "category": "book",
@@ -2174,7 +2187,8 @@
     ],
     "checked": true,
     "category": "book",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "title": "PiHKAL",
@@ -2203,7 +2217,18 @@
     "category": "book",
     "author": "Alexander Shulgin, Ann Shulgin",
     "year": 1997,
-    "url": "https://en.wikipedia.org/wiki/TiHKAL"
+    "url": "https://en.wikipedia.org/wiki/TiHKAL",
+    "rating": 4
+  },
+  {
+    "title": "PiHKAL",
+    "category": "book",
+    "status": "done",
+    "rating": 4,
+    "author": "Alexander Shulgin and Ann Shulgin",
+    "year": 1991,
+    "url": "https://en.wikipedia.org/wiki/PiHKAL",
+    "checked": true
   },
   {
     "title": "Code Complete",
@@ -2229,13 +2254,15 @@
     "category": "book",
     "author": "Rick Warren",
     "year": 1995,
-    "url": "https://en.wikipedia.org/wiki/The_Purpose_Driven_Church"
+    "url": "https://en.wikipedia.org/wiki/The_Purpose_Driven_Church",
+    "rating": 3
   },
   {
     "title": "How to Change Your Mind",
     "status": "queued",
     "recommended_by": [
-      "Unknown"
+      "Unknown",
+      "Naval"
     ],
     "checked": true,
     "category": "book",
@@ -2254,7 +2281,8 @@
     "author": "Zhenya Liu",
     "year": 2014,
     "url": "https://en.wikipedia.org/wiki/Ultra-high-voltage_electricity_transmission",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "title": "The Symmetries of Things",
@@ -2266,7 +2294,8 @@
     "category": "book",
     "author": "John Horton Conway, Heidi Burgiel, and Chaim Goodman-Strauss",
     "year": 2008,
-    "url": "https://en.wikipedia.org/wiki/The_Symmetries_of_Things"
+    "url": "https://en.wikipedia.org/wiki/The_Symmetries_of_Things",
+    "rating": 5
   },
   {
     "title": "Clean Code",
@@ -2379,7 +2408,8 @@
     "author": "Jeffrey K. Liker",
     "year": 2004,
     "url": "https://en.wikipedia.org/wiki/The_Toyota_Way",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 4
   },
   {
     "title": "The First 90 Days",
@@ -2540,7 +2570,9 @@
     "author": "Liu Cixin",
     "year": 2008,
     "url": "https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)",
-    "recommended_by": []
+    "recommended_by": [
+      "Naval"
+    ]
   },
   {
     "title": "Ball Lightning: An Unsolved Problem in Atmospheric Physics",
@@ -2589,7 +2621,8 @@
     "category": "book",
     "year": 1983,
     "url": "https://en.wikipedia.org/wiki/Paul_Stamets",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 2
   },
   {
     "title": "Mycelium Running",
@@ -2688,7 +2721,8 @@
     "author": "George R. R. Martin",
     "year": 1996,
     "url": "https://en.wikipedia.org/wiki/A_Game_of_Thrones",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 4
   },
   {
     "title": "Matter",
@@ -2730,7 +2764,8 @@
     "author": "Geoffrey A. Moore",
     "year": 1991,
     "url": "https://en.wikipedia.org/wiki/Crossing_the_Chasm",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "title": "Anathem",
@@ -2851,16 +2886,6 @@
     "recommended_by": []
   },
   {
-    "title": "bell hooks",
-    "status": "done",
-    "recommended_by": [
-      "Zarinah"
-    ],
-    "url": "https://en.wikipedia.org/wiki/Bell_hooks",
-    "checked": true,
-    "category": "topic"
-  },
-  {
     "title": "The Android's Dream",
     "status": "queued",
     "author": "John Scalzi",
@@ -2906,7 +2931,8 @@
     ],
     "checked": true,
     "author": "David Bayles and Ted Orland",
-    "year": 1993
+    "year": 1993,
+    "rating": 4
   },
   {
     "title": "The Box",
@@ -3008,7 +3034,8 @@
     "director": "Graham Linehan, Arthur Mathews",
     "year": 1995,
     "url": "https://en.wikipedia.org/wiki/Father_Ted",
-    "checked": true
+    "checked": true,
+    "rating": 2
   },
   {
     "title": "Foundation Trilogy",
@@ -3105,7 +3132,8 @@
     "recommended_by": [
       "Larry Peck"
     ],
-    "checked": true
+    "checked": true,
+    "rating": 3
   },
   {
     "title": "Older Than Dirt: A Wild but True History of Earth",
@@ -3141,7 +3169,8 @@
       "Neal",
       "Sean K"
     ],
-    "checked": true
+    "checked": true,
+    "rating": 3
   },
   {
     "title": "Never Let Me Go",
@@ -3154,7 +3183,8 @@
       "Amy",
       "FrancesW"
     ],
-    "checked": true
+    "checked": true,
+    "rating": 5
   },
   {
     "title": "The Player of Games",
@@ -3229,7 +3259,9 @@
     "year": 2020,
     "url": "https://www.lawfaremedia.org/article/lawfare-podcast-andrew-bacevich-age-illusions-how-america-squandered-its-cold-war-victory",
     "checked": true,
-    "recommended_by": []
+    "recommended_by": [
+      "Naval"
+    ]
   },
   {
     "title": "Heathers",
@@ -3314,7 +3346,8 @@
     "year": 2002,
     "url": "https://en.wikipedia.org/wiki/The_Lovely_Bones",
     "checked": true,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 5
   },
   {
     "title": "How to Create a Mind",
@@ -3338,7 +3371,8 @@
     "year": 1974,
     "url": "https://en.wikipedia.org/wiki/John_B._West",
     "checked": true,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "title": "Zero: The Biography of a Dangerous Idea",
@@ -3351,7 +3385,8 @@
     "year": 2000,
     "url": "https://en.wikipedia.org/wiki/Zero:_The_Biography_of_a_Dangerous_Idea",
     "checked": true,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "title": "Ender's Game",
@@ -3382,7 +3417,8 @@
     "author": "Paul Stamets",
     "year": 1993,
     "checked": true,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 2
   },
   {
     "author": "Thomas H. Davenport, John C. Beck",
@@ -3432,7 +3468,8 @@
     "title": "Treason",
     "url": "https://en.wikipedia.org/wiki/A_Planet_Called_Treason",
     "year": 1988,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 5
   },
   {
     "author": "James L. Heskett",
@@ -3452,7 +3489,8 @@
     "title": "What If?",
     "url": "https://en.wikipedia.org/wiki/What_If%3F_(book)",
     "year": 2014,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 4
   },
   {
     "author": "Henry S. Warren Jr.",
@@ -3462,7 +3500,8 @@
     "title": "Hacker's Delight",
     "url": "https://en.wikipedia.org/wiki/Hacker%27s_Delight",
     "year": 2002,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 4
   },
   {
     "author": "Orson Scott Card",
@@ -3472,7 +3511,8 @@
     "title": "Xenocide",
     "url": "https://en.wikipedia.org/wiki/Xenocide",
     "year": 1991,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "author": "Frank B. Gilbreth Jr., Ernestine Gilbreth Carey",
@@ -3482,7 +3522,8 @@
     "title": "Cheaper by the Dozen",
     "url": "https://en.wikipedia.org/wiki/Cheaper_by_the_Dozen",
     "year": 1948,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "author": "Mike Rother",
@@ -3495,7 +3536,8 @@
     "title": "Toyota Kata",
     "url": "https://en.wikipedia.org/wiki/Toyota_Kata",
     "year": 2009,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 5
   },
   {
     "title": "Leadership Is an Art",
@@ -3521,7 +3563,8 @@
     "recommended_by": [
       "JP"
     ],
-    "checked": true
+    "checked": true,
+    "rating": 3
   },
   {
     "title": "The Field Guide to Human-Centered Design",
@@ -3577,7 +3620,8 @@
     "year": 1981,
     "url": "https://en.wikipedia.org/wiki/Critical_Path_(book)",
     "checked": true,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "title": "The Computer and the Brain",
@@ -3643,7 +3687,7 @@
     "recommended_by": [
       "Jonah"
     ],
-    "status": "done",
+    "status": "queued",
     "title": "Sixteen Ways to Defend a Walled City",
     "url": "https://www.goodreads.com/book/show/37946419-sixteen-ways-to-defend-a-walled-city",
     "year": 2019
@@ -3729,7 +3773,9 @@
     "title": "Ra",
     "url": "https://qntm.org/ra",
     "year": 2014,
-    "recommended_by": []
+    "recommended_by": [
+      "Naval"
+    ]
   },
   {
     "category": "movie",
@@ -3766,13 +3812,6 @@
     "title": "It Can't Happen Here",
     "url": "https://en.wikipedia.org/wiki/It_Can%27t_Happen_Here",
     "year": 1935
-  },
-  {
-    "checked": true,
-    "status": "done",
-    "title": "scrapeme - Thread by @rohit_jindal29: An exhaustive list of @naval's reading recommendations Non-fiction, fiction, short stories, graphic novels and blogs [THREAD] J. Krishnamurt…",
-    "url": "https://threadreaderapp.com/thread/1267752788504776705.html",
-    "recommended_by": []
   },
   {
     "category": "article",
@@ -3841,14 +3880,6 @@
     "category": "topic",
     "status": "queued",
     "url": "https://twitter.com/ea4gpz/status/1279163481539952642?s=09",
-    "checked": true,
-    "recommended_by": []
-  },
-  {
-    "title": "Space Telescope Patent",
-    "category": "other",
-    "status": "done",
-    "url": "https://patentimages.storage.googleapis.com/64/88/5b/2030b26bc1a048/US7428098.pdf",
     "checked": true,
     "recommended_by": []
   },
@@ -3942,7 +3973,8 @@
     "year": 2020,
     "url": "https://en.wikipedia.org/wiki/Too_Much_and_Never_Enough",
     "checked": true,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "title": "The Bit Player",
@@ -4084,7 +4116,8 @@
       "Sqrl"
     ],
     "url": "https://en.wikipedia.org/wiki/All_the_Birds_in_the_Sky",
-    "checked": true
+    "checked": true,
+    "rating": 4
   },
   {
     "title": "Idaho nuclear reactor tour",
@@ -4177,7 +4210,8 @@
     "status": "done",
     "title": "Adult Children of Emotionally Immature Parents",
     "url": "https://www.goodreads.com/book/show/23129659-adult-children-of-emotionally-immature-parents",
-    "year": 2015
+    "year": 2015,
+    "rating": 5
   },
   {
     "author": "Craig Clevenger",
@@ -4307,7 +4341,8 @@
     "recommended_by": [
       "WKZ"
     ],
-    "checked": true
+    "checked": true,
+    "rating": 3
   },
   {
     "title": "Tightrope",
@@ -4340,14 +4375,15 @@
     "checked": true
   },
   {
-    "title": "Feet of Clay",
+    "title": "With Feet of Clay",
     "category": "book",
     "status": "done",
-    "author": "Terry Pratchett",
-    "year": 1996,
-    "url": "https://en.wikipedia.org/wiki/Feet_of_Clay_(novel)",
+    "author": "Robert J. Luidens",
+    "year": 2024,
+    "url": "https://www.amazon.com/Feet-Clay-Pastoral-Confession-Memoir/dp/B0D5LHWFGD",
     "checked": true,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 1
   },
   {
     "category": "game",
@@ -4923,7 +4959,8 @@
     "director": "Chloé Zhao",
     "year": 2020,
     "url": "https://en.wikipedia.org/wiki/Nomadland",
-    "checked": true
+    "checked": true,
+    "rating": 3
   },
   {
     "title": "Making Great Choices",
@@ -5055,7 +5092,8 @@
     "director": "Penny Lane",
     "year": 2019,
     "url": "https://en.wikipedia.org/wiki/Hail_Satan%3F",
-    "checked": true
+    "checked": true,
+    "rating": 5
   },
   {
     "title": "Q: Into the Storm",
@@ -5207,7 +5245,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "Twitter",
+      "Naval"
     ],
     "status": "queued",
     "title": "Freedom from the Known",
@@ -5219,7 +5258,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "Twitter",
+      "Naval"
     ],
     "status": "queued",
     "title": "Total Freedom: The Essential Krishnamurti",
@@ -5230,7 +5270,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "Twitter",
+      "Naval"
     ],
     "status": "queued",
     "title": "The Great Challenge",
@@ -5241,7 +5282,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "Twitter",
+      "Naval"
     ],
     "status": "queued",
     "title": "The Book of Life: Daily Meditations with Krishnamurti",
@@ -5252,7 +5294,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "Twitter",
+      "Naval"
     ],
     "status": "queued",
     "title": "Think on These Things",
@@ -5876,7 +5919,8 @@
     "status": "done",
     "title": "Squid Game",
     "url": "https://en.wikipedia.org/wiki/Squid_Game",
-    "year": 2021
+    "year": 2021,
+    "rating": 4
   },
   {
     "category": "other",
@@ -7252,7 +7296,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Rachel"
+      "Rachel",
+      "Naval"
     ],
     "status": "queued",
     "title": "Wind, Sand and Stars",
@@ -7574,7 +7619,8 @@
     "title": "An Everyone Culture",
     "url": "https://www.goodreads.com/book/show/25159550-an-everyone-culture",
     "year": 2016,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 3
   },
   {
     "author": "Robert C. Martin",
@@ -7599,7 +7645,8 @@
     "title": "The Symmetries of Things",
     "url": "https://en.wikipedia.org/wiki/The_Symmetries_of_Things",
     "year": 2008,
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 5
   },
   {
     "category": "book",
@@ -7749,7 +7796,8 @@
     "category": "series",
     "checked": true,
     "recommended_by": [
-      "CodyDaniel"
+      "CodyDaniel",
+      "Naval"
     ],
     "status": "queued",
     "title": "The Sandman",
@@ -8107,7 +8155,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "WKZ"
+      "WKZ",
+      "Naval"
     ],
     "checked": true
   },
@@ -8742,7 +8791,8 @@
       "Lauren"
     ],
     "status": "done",
-    "title": "The Swimming Pool"
+    "title": "The Swimming Pool",
+    "rating": 3
   },
   {
     "author": "Madeline Miller",
@@ -8756,7 +8806,8 @@
     "status": "done",
     "title": "Circe",
     "url": "https://en.wikipedia.org/wiki/Circe_(novel)",
-    "year": 2018
+    "year": 2018,
+    "rating": 5
   },
   {
     "author": "Harville Hendrix",
@@ -8845,7 +8896,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "Twitter",
+      "Naval"
     ],
     "author": "James Dale Davidson and William Rees-Mogg",
     "year": 1997,
@@ -9128,7 +9180,8 @@
     "recommended_by": [
       "ChrisPaika"
     ],
-    "checked": true
+    "checked": true,
+    "rating": 3
   },
   {
     "title": "The Way of Kings",
@@ -9188,7 +9241,8 @@
     "recommended_by": [
       "GTC"
     ],
-    "checked": true
+    "checked": true,
+    "rating": 3
   },
   {
     "author": "Barbara Kingsolver",
@@ -9530,7 +9584,8 @@
     "status": "queued",
     "recommended_by": [
       "CaseyTwitter",
-      "Mccoy"
+      "Mccoy",
+      "Naval"
     ],
     "author": "Vyasa",
     "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
@@ -9915,7 +9970,8 @@
     "author": "Amal El-Mohtar and Max Gladstone",
     "year": 2019,
     "url": "https://en.wikipedia.org/wiki/This_Is_How_You_Lose_the_Time_War",
-    "checked": true
+    "checked": true,
+    "rating": 5
   },
   {
     "title": "Terra Invicta",
@@ -10525,18 +10581,6 @@
     "checked": true
   },
   {
-    "title": "Zola",
-    "category": "movie",
-    "status": "done",
-    "director": "Janicza Bravo",
-    "year": 2020,
-    "url": "https://en.wikipedia.org/wiki/Zola_(film)",
-    "recommended_by": [
-      "AlexFeerst"
-    ],
-    "checked": true
-  },
-  {
     "title": "Metallica: Some Kind of Monster",
     "category": "movie",
     "status": "queued",
@@ -10632,5 +10676,715 @@
       "Jazz"
     ],
     "checked": true
+  },
+  {
+    "title": "Life has NO Goals, NO Purpose",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Osho"
+  },
+  {
+    "title": "The Sun Rises in the Evening",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Osho"
+  },
+  {
+    "title": "Six Easy Pieces",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Richard Feynman"
+  },
+  {
+    "title": "Perfectly Reasonable Deviations",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Richard Feynman"
+  },
+  {
+    "title": "What Do You Care What Other People Think?",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Richard Feynman"
+  },
+  {
+    "title": "Surely You're Joking, Mr. Feynman!",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Richard Feynman"
+  },
+  {
+    "title": "The Feynman Lectures on Physics",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Richard Feynman"
+  },
+  {
+    "title": "Love Yourself Like Your Life Depends On It",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Kamal Ravikant"
+  },
+  {
+    "title": "Live Your Truth",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Kamal Ravikant"
+  },
+  {
+    "title": "Reality Is Not What It Seems",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Carlo Rovelli"
+  },
+  {
+    "title": "Seven Brief Lessons on Physics",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Carlo Rovelli"
+  },
+  {
+    "title": "The Order of Time",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Carlo Rovelli"
+  },
+  {
+    "title": "The Beginning of Infinity",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "David Deutsch"
+  },
+  {
+    "title": "The Fabric of Reality",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "David Deutsch"
+  },
+  {
+    "title": "In Search of a Better World",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Karl Popper"
+  },
+  {
+    "title": "The Logic of Scientific Discovery",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Karl Popper"
+  },
+  {
+    "title": "The Lessons of History",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Will Durant and Ariel Durant"
+  },
+  {
+    "title": "The Story of Philosophy",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Will Durant"
+  },
+  {
+    "title": "Fallen Leaves",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Will Durant"
+  },
+  {
+    "title": "How to Fail at Almost Everything and Still Win Big",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Scott Adams"
+  },
+  {
+    "title": "God's Debris",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Scott Adams"
+  },
+  {
+    "title": "The Salmon of Doubt",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Douglas Adams"
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Douglas Adams"
+  },
+  {
+    "title": "Poor Charlie's Almanack",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Charlie Munger"
+  },
+  {
+    "title": "The Prophet",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Kahlil Gibran"
+  },
+  {
+    "title": "Good Calories, Bad Calories",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Gary Taubes"
+  },
+  {
+    "title": "I Am That",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Nisargadatta Maharaj"
+  },
+  {
+    "title": "The Way to Wealth",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Benjamin Franklin"
+  },
+  {
+    "title": "Striking Thoughts",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Bruce Lee"
+  },
+  {
+    "title": "Tao Te Ching",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Lao Tzu"
+  },
+  {
+    "title": "Hagakure",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Yamamoto Tsunetomo"
+  },
+  {
+    "title": "Counsels and Maxims",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Arthur Schopenhauer"
+  },
+  {
+    "title": "Vagabond",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Takehiko Inoue"
+  },
+  {
+    "title": "Influence: The Psychology of Persuasion",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Robert Cialdini"
+  },
+  {
+    "title": "Illusions: The Adventures of a Reluctant Messiah",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Richard Bach"
+  },
+  {
+    "title": "Tao of Seneca",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Seneca"
+  },
+  {
+    "title": "Understanding Comics",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Scott McCloud"
+  },
+  {
+    "title": "The Way of the Superior Man",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "David Deida"
+  },
+  {
+    "title": "Harrison Bergeron",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Kurt Vonnegut"
+  },
+  {
+    "title": "The Untethered Soul",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Michael A. Singer"
+  },
+  {
+    "title": "The Book of Five Rings",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Miyamoto Musashi"
+  },
+  {
+    "title": "The Macintosh Way",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Guy Kawasaki"
+  },
+  {
+    "title": "Genius: The Life and Science of Richard Feynman",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "James Gleick"
+  },
+  {
+    "title": "The Tao of Philosophy",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Alan Watts"
+  },
+  {
+    "title": "The Origin of Species",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Charles Darwin"
+  },
+  {
+    "title": "Tools of Titans",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Tim Ferriss"
+  },
+  {
+    "title": "Math, Better Explained",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Kalid Azad"
+  },
+  {
+    "title": "The Gay Science",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "title": "What Is Life?",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Erwin Schrödinger"
+  },
+  {
+    "title": "Vasistha's Yoga",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Swami Venkatesananda"
+  },
+  {
+    "title": "Science and Method",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Henri Poincaré"
+  },
+  {
+    "title": "The Wealth of Nations",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Adam Smith"
+  },
+  {
+    "title": "A Pattern Language",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Christopher Alexander"
+  },
+  {
+    "title": "Economics in One Lesson",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Henry Hazlitt"
+  },
+  {
+    "title": "Gödel, Escher, Bach",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Douglas R. Hofstadter"
+  },
+  {
+    "title": "The Diamond Age",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Neal Stephenson"
+  },
+  {
+    "title": "The Chronicles of Amber",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Roger Zelazny"
+  },
+  {
+    "title": "Lord of Light",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Roger Zelazny"
+  },
+  {
+    "title": "Permutation City",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Greg Egan"
+  },
+  {
+    "title": "Exhalation",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Ted Chiang"
+  },
+  {
+    "title": "A Soldier of the Great War",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Mark Helprin"
+  },
+  {
+    "title": "Siddhartha",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Hermann Hesse"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Lewis Carroll"
+  },
+  {
+    "title": "Ficciones",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Jorge Luis Borges"
+  },
+  {
+    "title": "Labyrinths",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Jorge Luis Borges"
+  },
+  {
+    "title": "V for Vendetta",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Alan Moore"
+  },
+  {
+    "title": "Planetary",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Warren Ellis"
+  },
+  {
+    "title": "The Unwritten",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Mike Carey"
+  },
+  {
+    "title": "Fables",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Bill Willingham"
+  },
+  {
+    "title": "The Boys",
+    "category": "book",
+    "status": "queued",
+    "checked": true,
+    "recommended_by": [
+      "Naval"
+    ],
+    "author": "Garth Ennis"
   }
 ]

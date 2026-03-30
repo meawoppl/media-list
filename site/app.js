@@ -75,7 +75,7 @@ function render() {
       <th>Category</th>
       <th>Author / Director</th>
       <th>Year</th>
-      <th class="sortable" data-col="recs">Recs${sortIndicator("recs")}</th>
+      <th class="sortable" data-col="recs">Recommended By${sortIndicator("recs")}</th>
       <th>Status</th>
       <th>Rating</th>
     </tr></thead><tbody>`;
@@ -88,8 +88,11 @@ function render() {
     const recNames = (item.recommended_by || [])
       .map((r) => esc(recommenders[r] || r))
       .join(", ");
+    const recInitials = (item.recommended_by || [])
+      .map((r) => esc(r))
+      .join(", ");
     const recCell = recs
-      ? `<span title="${recNames}">${recs}</span>`
+      ? `<span title="${recNames}">${recInitials}</span>`
       : "";
     const titleCell = item.url
       ? `<a href="${esc(item.url)}" target="_blank">${esc(item.title)}</a>`
