@@ -2,6 +2,9 @@ const DATA_BASE = "data/";
 
 let allItems = [];
 let recommenders = {};
+let currentStatus = "all";
+let sortCol = "title";
+let sortAsc = true;
 
 async function loadData() {
   try {
@@ -17,52 +20,98 @@ async function loadData() {
   } catch {
     allItems = [];
   }
-  render("all");
+  render();
 }
 
-function render(statusFilter) {
+function recCount(item) {
+  return item.recommended_by ? item.recommended_by.length : 0;
+}
+
+function sortItems(items) {
+  const dir = sortAsc ? 1 : -1;
+  return items.slice().sort((a, b) => {
+    if (sortCol === "title") {
+      return dir * a.title.localeCompare(b.title, undefined, { sensitivity: "base" });
+    }
+    if (sortCol === "recs") {
+      return dir * (recCount(a) - recCount(b));
+    }
+    return 0;
+  });
+}
+
+function setSort(col) {
+  if (sortCol === col) {
+    sortAsc = !sortAsc;
+  } else {
+    sortCol = col;
+    sortAsc = col === "title";
+  }
+  render();
+}
+
+function sortIndicator(col) {
+  if (sortCol !== col) return "";
+  return sortAsc ? " \u25B2" : " \u25BC";
+}
+
+function render() {
   const content = document.getElementById("content");
   const filtered =
-    statusFilter === "all"
+    currentStatus === "all"
       ? allItems
-      : allItems.filter((item) => item.status === statusFilter);
+      : allItems.filter((item) => item.status === currentStatus);
 
-  const grouped = {};
-  for (const item of filtered) {
-    const cat = item.category || "other";
-    if (!grouped[cat]) grouped[cat] = [];
-    grouped[cat].push(item);
-  }
+  const sorted = sortItems(filtered);
 
-  if (Object.keys(grouped).length === 0) {
+  if (sorted.length === 0) {
     content.innerHTML = "<p>No items found.</p>";
     return;
   }
 
-  let html = "";
-  for (const [category, items] of Object.entries(grouped).sort()) {
-    html += `<h2>${esc(category)}</h2>`;
-    for (const item of items) {
-      const meta = [item.author, item.director, item.year]
-        .filter(Boolean)
-        .join(" · ");
-      const rating = item.rating ? "★".repeat(item.rating) : "";
-      const rec = item.recommended_by
-        ? `<span class="rec">rec: ${esc(recommenders[item.recommended_by] || item.recommended_by)}</span>`
-        : "";
-      html += `
-        <div class="media-item">
-          <div>
-            <span class="title">${esc(item.title)}</span>
-            ${meta ? `<span class="meta"> — ${esc(meta)}</span>` : ""}
-            ${rating ? `<span class="rating"> ${rating}</span>` : ""}
-            ${rec}
-          </div>
-          <span class="status-badge ${item.status}">${esc(item.status)}</span>
-        </div>`;
-    }
+  let html = `<table>
+    <thead><tr>
+      <th class="sortable" data-col="title">Title${sortIndicator("title")}</th>
+      <th>Category</th>
+      <th>Author / Director</th>
+      <th>Year</th>
+      <th class="sortable" data-col="recs">Recs${sortIndicator("recs")}</th>
+      <th>Status</th>
+      <th>Rating</th>
+    </tr></thead><tbody>`;
+
+  for (const item of sorted) {
+    const creator = item.author || item.director || "";
+    const cat = item.category || "";
+    const rating = item.rating ? "\u2605".repeat(item.rating) : "";
+    const recs = recCount(item);
+    const recNames = (item.recommended_by || [])
+      .map((r) => esc(recommenders[r] || r))
+      .join(", ");
+    const recCell = recs
+      ? `<span title="${recNames}">${recs}</span>`
+      : "";
+    const titleCell = item.url
+      ? `<a href="${esc(item.url)}" target="_blank">${esc(item.title)}</a>`
+      : esc(item.title);
+
+    html += `<tr>
+      <td class="col-title">${titleCell}</td>
+      <td class="col-cat">${esc(cat)}</td>
+      <td class="col-creator">${esc(creator)}</td>
+      <td class="col-year">${item.year || ""}</td>
+      <td class="col-recs">${recCell}</td>
+      <td><span class="status-badge ${item.status}">${esc(item.status)}</span></td>
+      <td class="col-rating">${rating}</td>
+    </tr>`;
   }
+
+  html += "</tbody></table>";
   content.innerHTML = html;
+
+  content.querySelectorAll(".sortable").forEach((th) => {
+    th.addEventListener("click", () => setSort(th.dataset.col));
+  });
 }
 
 function esc(str) {
@@ -75,7 +124,8 @@ document.querySelectorAll(".filter").forEach((btn) => {
   btn.addEventListener("click", () => {
     document.querySelectorAll(".filter").forEach((b) => b.classList.remove("active"));
     btn.classList.add("active");
-    render(btn.dataset.status);
+    currentStatus = btn.dataset.status;
+    render();
   });
 });
 
