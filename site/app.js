@@ -23,6 +23,16 @@ async function loadData() {
   render();
 }
 
+const ARTICLES = ["the", "a", "an"];
+
+function libraryTitle(title) {
+  const words = title.split(" ");
+  if (words.length > 1 && ARTICLES.includes(words[0].toLowerCase())) {
+    return words.slice(1).join(" ") + ", " + words[0];
+  }
+  return title;
+}
+
 function recCount(item) {
   return item.recommended_by ? item.recommended_by.length : 0;
 }
@@ -31,7 +41,7 @@ function sortItems(items) {
   const dir = sortAsc ? 1 : -1;
   return items.slice().sort((a, b) => {
     if (sortCol === "title") {
-      return dir * a.title.localeCompare(b.title, undefined, { sensitivity: "base" });
+      return dir * libraryTitle(a.title).localeCompare(libraryTitle(b.title), undefined, { sensitivity: "base" });
     }
     if (sortCol === "recs") {
       return dir * (recCount(a) - recCount(b));
@@ -94,9 +104,10 @@ function render() {
     const recCell = recs
       ? `<span title="${recNames}">${recInitials}</span>`
       : "";
+    const displayTitle = libraryTitle(item.title);
     const titleCell = item.url
-      ? `<a href="${esc(item.url)}" target="_blank">${esc(item.title)}</a>`
-      : esc(item.title);
+      ? `<a href="${esc(item.url)}" target="_blank">${esc(displayTitle)}</a>`
+      : esc(displayTitle);
 
     html += `<tr>
       <td class="col-title">${titleCell}</td>
