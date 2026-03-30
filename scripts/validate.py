@@ -80,6 +80,28 @@ def cross_validate_recommenders(media_path: Path, recommenders_path: Path) -> li
     return errors
 
 
+def check_duplicate_titles(media_path: Path) -> list[str]:
+    """Check for duplicate titles in media.json."""
+    errors = []
+    try:
+        media = json.loads(media_path.read_text())
+    except (json.JSONDecodeError, FileNotFoundError):
+        return errors
+
+    seen: dict[str, int] = {}
+    for i, item in enumerate(media):
+        title = item.get("title", "").lower()
+        if title in seen:
+            errors.append(
+                f"media.json[{i}]: duplicate title \"{item['title']}\" "
+                f"(first seen at index {seen[title]})"
+            )
+        else:
+            seen[title] = i
+
+    return errors
+
+
 def main() -> int:
     all_errors = []
 
@@ -99,6 +121,14 @@ def main() -> int:
     if xv_errors:
         print("FAIL")
         all_errors.extend(xv_errors)
+    else:
+        print("OK")
+
+    print("Checking for duplicate titles... ", end="")
+    dup_errors = check_duplicate_titles(DATA_DIR / "media.json")
+    if dup_errors:
+        print("FAIL")
+        all_errors.extend(dup_errors)
     else:
         print("OK")
 
