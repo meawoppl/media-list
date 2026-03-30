@@ -2259,7 +2259,7 @@
   },
   {
     "title": "How to Change Your Mind",
-    "status": "queued",
+    "status": "done",
     "recommended_by": [
       "Unknown",
       "Naval"
@@ -2268,7 +2268,8 @@
     "category": "book",
     "author": "Michael Pollan",
     "year": 2018,
-    "url": "https://en.wikipedia.org/wiki/How_to_Change_Your_Mind"
+    "url": "https://en.wikipedia.org/wiki/How_to_Change_Your_Mind",
+    "rating": 3
   },
   {
     "title": "Ultra-High Voltage AC/DC Grids",
@@ -4355,7 +4356,7 @@
   {
     "title": "The Hero with a Thousand Faces",
     "category": "book",
-    "status": "queued",
+    "status": "done",
     "author": "Joseph Campbell",
     "year": 1949,
     "url": "https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces",
@@ -4364,7 +4365,8 @@
       "Matt Faulkner",
       "WKZ"
     ],
-    "checked": true
+    "checked": true,
+    "rating": 4
   },
   {
     "title": "With Feet of Clay",
@@ -5930,10 +5932,11 @@
     "recommended_by": [
       "Matt Faulkner"
     ],
-    "status": "queued",
+    "status": "done",
     "title": "The Dispossessed",
     "url": "https://en.wikipedia.org/wiki/The_Dispossessed",
-    "year": 1974
+    "year": 1974,
+    "rating": 5
   },
   {
     "author": "Iceberg Slim",
@@ -6280,10 +6283,11 @@
       "John Welsh",
       "Matt Faulkner"
     ],
-    "status": "queued",
+    "status": "done",
     "title": "The Dispossessed",
     "url": "https://en.wikipedia.org/wiki/The_Dispossessed",
-    "year": 1974
+    "year": 1974,
+    "rating": 5
   },
   {
     "author": "Cormac McCarthy",
