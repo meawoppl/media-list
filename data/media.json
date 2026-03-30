@@ -5677,7 +5677,7 @@
   {
     "title": "Endurance: Shackleton's Incredible Voyage",
     "category": "book",
-    "status": "queued",
+    "status": "done",
     "recommended_by": [
       "Mccoy",
       "PaigeBailey"
@@ -5685,7 +5685,8 @@
     "author": "Alfred Lansing",
     "year": 1959,
     "url": "https://en.wikipedia.org/wiki/Endurance:_Shackleton%27s_Incredible_Voyage",
-    "checked": true
+    "checked": true,
+    "rating": 5
   },
   {
     "title": "Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety",
