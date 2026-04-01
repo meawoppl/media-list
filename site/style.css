@@ -132,3 +132,70 @@ tbody tr:hover {
 .status-badge.done { background: #d4edda; color: #155724; }
 .status-badge.in-progress { background: #fff3cd; color: #856404; }
 .status-badge.queued { background: #e2e3e5; color: #383d41; }
+
+nav a.filter {
+  text-decoration: none;
+  color: #222;
+  display: inline-flex;
+  align-items: center;
+}
+
+nav a.filter:hover {
+  background: #e0e0e0;
+}
+
+.col-recommender {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.col-num {
+  text-align: center;
+}
+
+.col-avg {
+  white-space: nowrap;
+}
+
+.col-dist {
+  min-width: 120px;
+}
+
+.dist {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  font-size: 0.7rem;
+}
+
+.dist-row {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.dist-label {
+  width: 10px;
+  text-align: right;
+  color: #999;
+}
+
+.dist-bar-bg {
+  flex: 1;
+  height: 8px;
+  background: #eee;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.dist-bar {
+  height: 100%;
+  background: #f5a623;
+  border-radius: 2px;
+}
+
+.dist-count {
+  width: 16px;
+  text-align: right;
+  color: #999;
+}
