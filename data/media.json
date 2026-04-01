@@ -104,7 +104,7 @@
   {
     "title": "Flowers for Algernon",
     "category": "book",
-    "status": "queued",
+    "status": "done",
     "recommended_by": [
       "MF",
       "UN",
@@ -113,7 +113,8 @@
     "checked": true,
     "author": "Daniel Keyes",
     "year": 1966,
-    "url": "https://en.wikipedia.org/wiki/Flowers_for_Algernon"
+    "url": "https://en.wikipedia.org/wiki/Flowers_for_Algernon",
+    "rating": 5
   },
   {
     "title": "Lock In",
@@ -11196,5 +11197,188 @@
     "recommended_by": [
       "MAN"
     ]
+  },
+  {
+    "title": "Fight Right",
+    "author": "John Gottman",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Now It Can Be Told",
+    "author": "Leslie R. Groves",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Mating in Captivity",
+    "author": "Esther Perel",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Healing Back Pain",
+    "author": "John E. Sarno",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "The Greek Histories",
+    "author": "Mary Lefkowitz",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Hillbilly Elegy",
+    "author": "J. D. Vance",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 2
+  },
+  {
+    "title": "Of Boys and Men",
+    "author": "Richard V. Reeves",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "NurtureShock",
+    "author": "Po Bronson",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Anxiously Attached",
+    "author": "Jessica Baum",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "The Enneagram Guide to Waking Up",
+    "author": "Beatrice Chesnut",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Creativity: A Short and Cheerful Guide",
+    "author": "John Cleese",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Children of Ash and Elm",
+    "author": "Neil Price",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5,
+    "recommended_by": [
+      "AMC",
+      "AF"
+    ]
+  },
+  {
+    "title": "Making Ideas Happen",
+    "author": "Scott Belsky",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Eating Glass",
+    "author": "Mark D. Jacobsen",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Connect",
+    "author": "David Bradford",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4,
+    "recommended_by": [
+      "WKZ"
+    ]
+  },
+  {
+    "title": "Consider Phlebas",
+    "author": "Iain M. Banks",
+    "category": "book",
+    "status": "done",
+    "rating": 3,
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Feet of Clay",
+    "author": "Jack Watts",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Dr Space Junk vs The Universe",
+    "author": "Alice Gorman",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Delta-v",
+    "author": "Daniel Suarez",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Ninefox Gambit",
+    "author": "Yoon Ha Lee",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5,
+    "recommended_by": [
+      "LLE"
+    ]
+  },
+  {
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "American Kingpin",
+    "author": "Nick Bilton",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Bad Blood",
+    "author": "John Carreyrou",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
   }
 ]
