@@ -2698,19 +2698,20 @@
   },
   {
     "title": "Matter",
-    "status": "queued",
+    "status": "done",
     "author": "Iain M. Banks",
     "checked": true,
     "category": "book",
     "year": 2008,
     "url": "https://en.wikipedia.org/wiki/Matter_(novel)",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 5
   },
   {
     "title": "Look to Windward",
     "status": "done",
     "author": "Iain M. Banks",
-    "rating": 4,
+    "rating": 5,
     "checked": true,
     "category": "book",
     "year": 2000,
@@ -3162,7 +3163,7 @@
     "title": "The Player of Games",
     "category": "book",
     "status": "done",
-    "rating": 4,
+    "rating": 5,
     "recommended_by": [
       "LLE",
       "NSC"
@@ -9059,14 +9060,15 @@
   {
     "title": "The Way of Kings",
     "category": "book",
-    "status": "queued",
+    "status": "done",
     "author": "Brandon Sanderson",
     "year": 2010,
     "url": "https://en.wikipedia.org/wiki/The_Way_of_Kings",
     "recommended_by": [
       "KB"
     ],
-    "checked": true
+    "checked": true,
+    "rating": 5
   },
   {
     "title": "True Names",
@@ -11322,7 +11324,7 @@
     "author": "Iain M. Banks",
     "category": "book",
     "status": "done",
-    "rating": 3,
+    "rating": 5,
     "date_added": "2026-04-01"
   },
   {
@@ -11380,5 +11382,289 @@
     "status": "done",
     "date_added": "2026-04-01",
     "rating": 3
+  },
+  {
+    "title": "A Dance with Dragons",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "A History of Western Philosophy",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Abundance",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Adulthood Rites",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "An Introduction to High Voltage Engineering",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Artificial Intelligence: Theory and Practice",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Dawn",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Dune Messiah",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Foundation",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Fundamentals of Astrodynamics and Applications",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Geometric Programming for Computer Aided Design",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Grounding and Shielding Techniques in Instrumentation",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "How Round Is Your Circle?",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Imago",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Into the Cool",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01",
+    "recommended_by": [
+      "PB"
+    ]
+  },
+  {
+    "title": "Introduction to Plasma Physics",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Loving Someone with Borderline Personality Disorder",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Managing Oneself",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Measure and Construction of the Japanese House",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Meeting the Universe Halfway",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Mind-Blowing Modular Origami",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Numerical Methods for Scientists and Engineers",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Oathbringer",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Refactoring",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Rhythm of War",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Searching Beyond the Stars",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Self-Made Man",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Software Engineering Economics",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Starting Strength",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Stop Walking on Eggshells for Parents",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "The Algebraist",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "The Art of Doing Science and Engineering",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "The Happy Sleeper",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "The High-Conflict Couple",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "The Invention of Nature",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "The Man Who Sold the Moon",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "The Sense of Being Stared At",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 1
+  },
+  {
+    "title": "Use of Weapons",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Way of Play for the 21st Century",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Wind and Truth",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Words of Radiance",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
   }
 ]
