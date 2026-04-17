@@ -1,5 +1,15 @@
 [
   {
+    "author": "Brianna Wiest",
+    "category": "book",
+    "date_added": "2026-04-15",
+    "recommended_by": [
+      "BP"
+    ],
+    "status": "queued",
+    "title": "100 Essays That Will Change The Way You Think"
+  },
+  {
     "title": "Far from the tree",
     "category": "book",
     "status": "queued",
@@ -15,7 +25,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Heather Rivers"
+      "HR"
     ],
     "tags": [
       "Health",
@@ -60,7 +70,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "checked": true,
     "author": "Bertrand Russell",
@@ -95,7 +105,7 @@
     "status": "queued",
     "author": "Aldous Huxley",
     "recommended_by": [
-      "Schlomo"
+      "SZ"
     ],
     "checked": true,
     "year": 1962,
@@ -104,16 +114,17 @@
   {
     "title": "Flowers for Algernon",
     "category": "book",
-    "status": "queued",
+    "status": "done",
     "recommended_by": [
-      "Matt Faulkner",
-      "Unknown",
-      "Naval"
+      "MF",
+      "UN",
+      "NR"
     ],
     "checked": true,
     "author": "Daniel Keyes",
     "year": 1966,
-    "url": "https://en.wikipedia.org/wiki/Flowers_for_Algernon"
+    "url": "https://en.wikipedia.org/wiki/Flowers_for_Algernon",
+    "rating": 5
   },
   {
     "title": "Lock In",
@@ -130,7 +141,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Alex Braun"
+      "ABR"
     ],
     "checked": true,
     "author": "Greg Bear",
@@ -142,7 +153,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "checked": true,
     "year": 2012,
@@ -172,9 +183,9 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "MeganK",
-      "AlexFeerst",
-      "JoshManchester"
+      "MKI",
+      "AF",
+      "JMA"
     ],
     "checked": true,
     "author": "Evan Ratliff",
@@ -246,7 +257,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "Zach"
+      "ZG"
     ],
     "checked": true,
     "year": 2013,
@@ -258,7 +269,7 @@
     "status": "done",
     "rating": 5,
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "tags": [
       "space"
@@ -283,7 +294,7 @@
     "title": "The Amazon Way",
     "status": "done",
     "recommended_by": [
-      "Mark Emery"
+      "MEM"
     ],
     "tags": [
       "Leadership"
@@ -412,7 +423,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Molly Maloof"
+      "MMA"
     ],
     "checked": true,
     "author": "Brian Wansink",
@@ -476,9 +487,9 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Mark Emery",
-      "Mccoy",
-      "Schlomo",
+      "MEM",
+      "MMC",
+      "SZ",
       "WKZ"
     ],
     "checked": true,
@@ -502,9 +513,9 @@
     "status": "queued",
     "author": "Ann Leckie",
     "recommended_by": [
-      "Anselm",
-      "Kenan",
-      "Sara"
+      "ALV",
+      "KE",
+      "SB"
     ],
     "checked": true,
     "year": 2013,
@@ -516,7 +527,7 @@
     "status": "done",
     "rating": 3,
     "recommended_by": [
-      "Mark Emery"
+      "MEM"
     ],
     "tags": [
       "Leadership",
@@ -533,7 +544,7 @@
     "status": "queued",
     "author": "Peter Sims",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "checked": true,
     "year": 2011,
@@ -544,7 +555,7 @@
     "category": "book",
     "status": "done",
     "recommended_by": [
-      "Heather Rivers"
+      "HR"
     ],
     "checked": true,
     "author": "Jon Krakauer",
@@ -558,7 +569,7 @@
     "status": "queued",
     "recommended_by": [
       "AC",
-      "Anselm"
+      "ALV"
     ],
     "checked": true,
     "author": "Howard Zinn",
@@ -570,8 +581,8 @@
     "category": "movie",
     "status": "done",
     "recommended_by": [
-      "David Origin",
-      "DougieFresh"
+      "DO",
+      "DC"
     ],
     "checked": true,
     "director": "Errol Morris",
@@ -602,7 +613,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Schlomo"
+      "SZ"
     ],
     "checked": true,
     "author": "Michel Houellebecq",
@@ -654,7 +665,7 @@
     "rating": 3,
     "recommended_by": [
       "AMC",
-      "Naval"
+      "NR"
     ],
     "checked": true,
     "category": "book",
@@ -689,8 +700,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Heather Rivers",
-      "SamSethna"
+      "HR",
+      "SS"
     ],
     "checked": true,
     "director": "Jim Henson and Frank Oz",
@@ -785,7 +796,7 @@
     "category": "book",
     "status": "done",
     "recommended_by": [
-      "Mark Emery"
+      "MEM"
     ],
     "tags": [
       "Leadership"
@@ -813,7 +824,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "checked": true,
     "author": "Nikos Kazantzakis",
@@ -826,7 +837,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Gerald"
+      "GS"
     ],
     "checked": true,
     "year": 2020,
@@ -837,7 +848,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Sara"
+      "SB"
     ],
     "checked": true,
     "author": "Sarah Schulman",
@@ -849,7 +860,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "checked": true,
     "director": "John Carpenter",
@@ -872,7 +883,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "B"
+      "BJ"
     ],
     "checked": true,
     "year": 2015,
@@ -934,7 +945,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Schlomo"
+      "SZ"
     ],
     "checked": true,
     "author": "Nick Lane",
@@ -966,8 +977,8 @@
     "category": "book",
     "status": "done",
     "recommended_by": [
-      "Anna Marie",
-      "Sean K"
+      "AMC",
+      "SK"
     ],
     "checked": true,
     "author": "Vernor Vinge",
@@ -1004,7 +1015,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Heather Rivers"
+      "HR"
     ],
     "checked": true
   },
@@ -1013,8 +1024,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "AlexNeumann",
-      "AndrewRostaing"
+      "ANE",
+      "AR"
     ],
     "checked": true,
     "year": 2016,
@@ -1047,7 +1058,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Mark Emery"
+      "MEM"
     ],
     "tags": [
       "Leadership"
@@ -1062,7 +1073,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "MarcM"
+      "MRM"
     ],
     "checked": true,
     "director": "Saul Metzstein",
@@ -1076,7 +1087,7 @@
     "rating": 5,
     "recommended_by": [
       "AC",
-      "Naval"
+      "NR"
     ],
     "checked": true,
     "author": "Ted Chiang",
@@ -1088,7 +1099,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Unknown"
+      "UN"
     ],
     "checked": true,
     "author": "Mickey W. Mantle, Ron Lichty",
@@ -1111,7 +1122,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Mark Emery"
+      "MEM"
     ],
     "checked": true,
     "author": "Simon Sinek",
@@ -1124,7 +1135,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Sqrl"
+      "IC"
     ],
     "checked": true,
     "author": "Stieg Larsson",
@@ -1166,7 +1177,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "John Welsh"
+      "JWE"
     ],
     "checked": true,
     "director": "Yorgos Lanthimos",
@@ -1198,7 +1209,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Unknown"
+      "UN"
     ],
     "checked": true,
     "url": "https://en.wikipedia.org/wiki/Slick_Rick"
@@ -1209,10 +1220,10 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Maryanna",
-      "MeganK",
-      "AlexFeerst",
-      "Sara"
+      "MS",
+      "MKI",
+      "AF",
+      "SB"
     ],
     "checked": true,
     "author": "James C. Scott",
@@ -1245,7 +1256,7 @@
     "status": "queued",
     "author": "Johann Hari",
     "recommended_by": [
-      "Becca"
+      "BMB"
     ],
     "checked": true,
     "year": 2018,
@@ -1276,9 +1287,9 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "Anselm",
+      "ALV",
       "GTC",
-      "George"
+      "GH"
     ],
     "checked": true,
     "year": 2016,
@@ -1296,7 +1307,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Emma Persky"
+      "EPE"
     ],
     "checked": true,
     "author": "Catherynne M. Valente",
@@ -1308,7 +1319,7 @@
     "status": "done",
     "rating": 3,
     "recommended_by": [
-      "Jane Wang"
+      "JW"
     ],
     "checked": true,
     "category": "book",
@@ -1320,7 +1331,7 @@
     "title": "Ignition!",
     "status": "done",
     "recommended_by": [
-      "Jane"
+      "JW"
     ],
     "tags": [
       "Rockets"
@@ -1338,7 +1349,7 @@
     "status": "queued",
     "recommended_by": [
       "AC",
-      "Jason Porath"
+      "JPO"
     ],
     "checked": true,
     "author": "Bessel van der Kolk",
@@ -1366,7 +1377,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "checked": true,
     "author": "Jordan Ellenberg",
@@ -1378,7 +1389,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Unknown"
+      "UN"
     ],
     "checked": true,
     "author": "Penny Le Couteur, Jay Burreson",
@@ -1390,7 +1401,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Anna Marie"
+      "AMC"
     ],
     "checked": true,
     "author": "Roger Fisher, William Ury",
@@ -1402,7 +1413,7 @@
     "category": "topic",
     "status": "queued",
     "recommended_by": [
-      "Neal S"
+      "NES"
     ],
     "checked": true,
     "url": "https://en.wikipedia.org/wiki/Mary_Lou_Jepsen"
@@ -1412,7 +1423,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "checked": true,
     "year": 2014,
@@ -1470,7 +1481,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "John Welsh"
+      "JWE"
     ],
     "checked": true,
     "year": 2008,
@@ -1492,7 +1503,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Jonathan"
+      "JO"
     ],
     "checked": true,
     "author": "Chuck Klosterman",
@@ -1532,7 +1543,7 @@
     "status": "queued",
     "recommended_by": [
       "AC",
-      "Anselm",
+      "ALV",
       "Rando(unknown)"
     ],
     "checked": true,
@@ -1581,7 +1592,7 @@
     "year": 1997,
     "url": "https://en.wikipedia.org/wiki/Transmetropolitan",
     "recommended_by": [
-      "Naval"
+      "NR"
     ]
   },
   {
@@ -1599,7 +1610,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Unknown"
+      "UN"
     ],
     "checked": true,
     "year": 1977,
@@ -1612,7 +1623,7 @@
     "status": "queued",
     "author": "Ronald T. Kellogg",
     "recommended_by": [
-      "Unknown"
+      "UN"
     ],
     "checked": true,
     "year": 1994,
@@ -1623,7 +1634,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "DonE"
+      "DE"
     ],
     "checked": true,
     "year": 2014,
@@ -1644,7 +1655,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Unknown"
+      "UN"
     ],
     "checked": true,
     "author": "Kass Morgan",
@@ -1732,7 +1743,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Paul Bohm"
+      "PBO"
     ],
     "checked": true,
     "author": "Susan Price",
@@ -1744,7 +1755,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Unknown"
+      "UN"
     ],
     "checked": true,
     "author": "Ken Liu",
@@ -1756,7 +1767,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Gerald"
+      "GS"
     ],
     "checked": true
   },
@@ -1787,7 +1798,7 @@
     "status": "queued",
     "author": "Ray Dalio",
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "notes": "https://drive.google.com/drive/folders/0B9z7M9tZnFufYTdqQThvaFozOGc",
     "checked": true,
@@ -1810,7 +1821,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "checked": true,
     "year": 2018,
@@ -1821,7 +1832,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "checked": true,
     "year": 2019,
@@ -1833,8 +1844,8 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Anselm",
-      "Matt Faulkner"
+      "ALV",
+      "MF"
     ],
     "tags": [
       "dystopia"
@@ -1876,7 +1887,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Crutcher"
+      "CDU"
     ],
     "checked": true,
     "author": "Meredith Willson",
@@ -1908,7 +1919,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Jay P"
+      "JP"
     ],
     "checked": true,
     "director": "Dean Parisot",
@@ -1940,7 +1951,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "David K"
+      "DK"
     ],
     "checked": true,
     "director": "Damien Chazelle",
@@ -1953,7 +1964,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Sqrl"
+      "IC"
     ],
     "checked": true,
     "director": "Denis Villeneuve",
@@ -1985,7 +1996,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Scott N"
+      "SCN"
     ],
     "checked": true
   },
@@ -2005,8 +2016,8 @@
     "status": "done",
     "rating": 5,
     "recommended_by": [
-      "MeganK",
-      "AlexFeerst"
+      "MKI",
+      "AF"
     ],
     "tags": [
       "DefiesCategoy"
@@ -2021,7 +2032,7 @@
     "category": "book",
     "status": "done",
     "recommended_by": [
-      "Molly Maloof"
+      "MMA"
     ],
     "tags": [
       "Diet"
@@ -2036,7 +2047,7 @@
     "title": "Turing's Cathedral",
     "status": "done",
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "tags": [
       "software"
@@ -2053,7 +2064,7 @@
     "status": "done",
     "rating": 3,
     "recommended_by": [
-      "Russ Smith"
+      "RS"
     ],
     "checked": true,
     "category": "book",
@@ -2066,7 +2077,7 @@
     "category": "book",
     "status": "done",
     "recommended_by": [
-      "Unknown"
+      "UN"
     ],
     "tags": [
       "Leadership"
@@ -2080,7 +2091,7 @@
     "title": "Against Method",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "checked": true,
     "category": "book",
@@ -2092,7 +2103,7 @@
     "title": "The High Frontier: Human Colonies in Space",
     "status": "done",
     "recommended_by": [
-      "MartineR"
+      "MAR"
     ],
     "checked": true,
     "category": "book",
@@ -2107,7 +2118,7 @@
     "author": "Jason Fried, David Heinemeier Hansson",
     "rating": 3,
     "recommended_by": [
-      "Russ Smith"
+      "RS"
     ],
     "checked": true,
     "category": "book",
@@ -2118,7 +2129,7 @@
     "status": "done",
     "rating": 2,
     "recommended_by": [
-      "Alex Jacobson"
+      "AJ"
     ],
     "checked": true,
     "category": "book",
@@ -2150,8 +2161,8 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Andy Lee",
-      "Naval"
+      "ALE",
+      "NR"
     ],
     "checked": true,
     "category": "book",
@@ -2188,7 +2199,7 @@
     "title": "TiHKAL",
     "status": "done",
     "recommended_by": [
-      "Jane Wang"
+      "JW"
     ],
     "tags": [
       "drugs"
@@ -2218,7 +2229,7 @@
     "title": "The Purpose Driven Church",
     "status": "done",
     "recommended_by": [
-      "OtherBook"
+      "OB"
     ],
     "checked": true,
     "category": "book",
@@ -2231,8 +2242,8 @@
     "title": "How to Change Your Mind",
     "status": "done",
     "recommended_by": [
-      "Unknown",
-      "Naval"
+      "UN",
+      "NR"
     ],
     "checked": true,
     "category": "book",
@@ -2259,7 +2270,7 @@
     "title": "The Symmetries of Things",
     "status": "done",
     "recommended_by": [
-      "Anna Marie"
+      "AMC"
     ],
     "checked": true,
     "category": "book",
@@ -2273,7 +2284,7 @@
     "status": "done",
     "rating": 3,
     "recommended_by": [
-      "Ted B"
+      "TB"
     ],
     "tags": [
       "software"
@@ -2303,7 +2314,7 @@
     "status": "done",
     "rating": 3,
     "recommended_by": [
-      "Ted B"
+      "TB"
     ],
     "tags": [
       "software"
@@ -2417,7 +2428,7 @@
     "title": "A Perfect Union of Contrary Things",
     "status": "queued",
     "recommended_by": [
-      "Randall Leeds"
+      "RL"
     ],
     "checked": true,
     "category": "book",
@@ -2451,7 +2462,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Jason Porath"
+      "JPO"
     ],
     "checked": true,
     "category": "book",
@@ -2463,7 +2474,7 @@
     "title": "On the Origin of Objects",
     "status": "queued",
     "recommended_by": [
-      "Randall Leeds"
+      "RL"
     ],
     "checked": true,
     "category": "book",
@@ -2542,7 +2553,7 @@
     "year": 2008,
     "url": "https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)",
     "recommended_by": [
-      "Naval"
+      "NR"
     ]
   },
   {
@@ -2611,7 +2622,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "PeterV"
+      "PV"
     ],
     "checked": true,
     "category": "book",
@@ -2638,7 +2649,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "checked": true,
     "category": "book",
@@ -2662,7 +2673,7 @@
     "status": "done",
     "rating": 2,
     "recommended_by": [
-      "Tom Goodman"
+      "TG"
     ],
     "tags": [
       "Leadership"
@@ -2697,19 +2708,20 @@
   },
   {
     "title": "Matter",
-    "status": "queued",
+    "status": "done",
     "author": "Iain M. Banks",
     "checked": true,
     "category": "book",
     "year": 2008,
     "url": "https://en.wikipedia.org/wiki/Matter_(novel)",
-    "recommended_by": []
+    "recommended_by": [],
+    "rating": 5
   },
   {
     "title": "Look to Windward",
     "status": "done",
     "author": "Iain M. Banks",
-    "rating": 4,
+    "rating": 5,
     "checked": true,
     "category": "book",
     "year": 2000,
@@ -2779,7 +2791,7 @@
     "checked": true,
     "category": "book",
     "recommended_by": [
-      "W Collective"
+      "WC"
     ],
     "year": 2012,
     "url": "https://en.wikipedia.org/wiki/Ramez_Naam"
@@ -2831,7 +2843,7 @@
     "status": "queued",
     "author": "Malcolm Harris",
     "recommended_by": [
-      "Heather browning"
+      "HB"
     ],
     "checked": true,
     "category": "book",
@@ -2861,7 +2873,7 @@
     "status": "queued",
     "author": "John Scalzi",
     "recommended_by": [
-      "Unknown"
+      "UN"
     ],
     "checked": true,
     "category": "book",
@@ -2873,7 +2885,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Camilla T"
+      "CT"
     ],
     "checked": true,
     "author": "Andrzej Sapkowski",
@@ -2885,7 +2897,7 @@
     "status": "queued",
     "author": "bell hooks",
     "recommended_by": [
-      "Zarinah"
+      "ZA"
     ],
     "checked": true,
     "category": "book",
@@ -2897,8 +2909,8 @@
     "category": "book",
     "status": "done",
     "recommended_by": [
-      "Shrzd",
-      "Unknown"
+      "SHZ",
+      "UN"
     ],
     "checked": true,
     "author": "David Bayles and Ted Orland",
@@ -2912,7 +2924,7 @@
     "rating": 4,
     "recommended_by": [
       "AMC",
-      "Sqrl"
+      "IC"
     ],
     "checked": true,
     "author": "Marc Levinson",
@@ -2957,7 +2969,7 @@
     "status": "queued",
     "author": "Norbert Wiener",
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "year": 1948,
     "url": "https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine",
@@ -2977,8 +2989,8 @@
     "status": "queued",
     "author": "Karen barad",
     "recommended_by": [
-      "Maryanna",
-      "Unknown"
+      "MS",
+      "UN"
     ],
     "checked": true
   },
@@ -2988,7 +3000,7 @@
     "status": "done",
     "rating": 3,
     "recommended_by": [
-      "Michael Brodheim"
+      "MB"
     ],
     "author": "Alice Miller",
     "year": 1979,
@@ -3000,7 +3012,7 @@
     "category": "tv",
     "status": "done",
     "recommended_by": [
-      "Steve England"
+      "SE"
     ],
     "director": "Graham Linehan, Arthur Mathews",
     "year": 1995,
@@ -3015,7 +3027,7 @@
     "author": "Isaac Asimov",
     "rating": 4,
     "recommended_by": [
-      "Navid"
+      "NF"
     ],
     "year": 1951,
     "url": "https://en.wikipedia.org/wiki/Foundation_(novel_series)",
@@ -3034,7 +3046,7 @@
     "status": "queued",
     "author": "Simon Wardley",
     "recommended_by": [
-      "Alex Jacobson"
+      "AJ"
     ],
     "year": 2016,
     "url": "https://en.wikipedia.org/wiki/Wardley_map",
@@ -3046,7 +3058,7 @@
     "status": "queued",
     "author": "Fiona Raby & Tony Dunne",
     "recommended_by": [
-      "Shrzd"
+      "SHZ"
     ],
     "checked": true
   },
@@ -3067,7 +3079,7 @@
     "year": 2012,
     "url": "https://en.wikipedia.org/wiki/The_Righteous_Mind",
     "recommended_by": [
-      "Jessie"
+      "JE"
     ],
     "checked": true
   },
@@ -3101,7 +3113,7 @@
     "year": 2012,
     "url": "https://en.wikipedia.org/wiki/Abundance:_The_Future_Is_Better_Than_You_Think",
     "recommended_by": [
-      "Larry Peck"
+      "LP"
     ],
     "checked": true,
     "rating": 3
@@ -3125,7 +3137,7 @@
     "year": 1928,
     "url": "https://en.wikipedia.org/wiki/Propaganda_(book)",
     "recommended_by": [
-      "Alex Jacobson"
+      "AJ"
     ],
     "checked": true
   },
@@ -3137,8 +3149,8 @@
     "year": 2018,
     "url": "https://en.wikipedia.org/wiki/Winners_Take_All:_The_Elite_Charade_of_Changing_the_World",
     "recommended_by": [
-      "Neal",
-      "Sean K"
+      "NST",
+      "SK"
     ],
     "checked": true,
     "rating": 3
@@ -3151,8 +3163,8 @@
     "year": 2010,
     "url": "https://en.wikipedia.org/wiki/Never_Let_Me_Go_(2010_film)",
     "recommended_by": [
-      "Amy",
-      "FrancesW"
+      "AP",
+      "FW"
     ],
     "checked": true,
     "rating": 5
@@ -3161,10 +3173,10 @@
     "title": "The Player of Games",
     "category": "book",
     "status": "done",
-    "rating": 4,
+    "rating": 5,
     "recommended_by": [
-      "Lyra",
-      "Nic Scott"
+      "LLE",
+      "NSC"
     ],
     "author": "Iain M. Banks",
     "year": 1988,
@@ -3179,8 +3191,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Lyra",
-      "Nic Scott"
+      "LLE",
+      "NSC"
     ],
     "author": "John C. Wright",
     "year": 2002,
@@ -3192,8 +3204,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Lyra",
-      "Nic Scott"
+      "LLE",
+      "NSC"
     ],
     "author": "John Varley",
     "year": 1992,
@@ -3216,7 +3228,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "author": "Nick Hanauer",
     "year": 2014,
@@ -3231,7 +3243,7 @@
     "url": "https://www.lawfaremedia.org/article/lawfare-podcast-andrew-bacevich-age-illusions-how-america-squandered-its-cold-war-victory",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ]
   },
   {
@@ -3239,7 +3251,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Unknown"
+      "UN"
     ],
     "director": "Michael Lehmann",
     "year": 1989,
@@ -3270,7 +3282,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "B"
+      "BJ"
     ],
     "year": 2001,
     "url": "https://en.wikipedia.org/wiki/Six_Feet_Under_(TV_series)",
@@ -3407,7 +3419,7 @@
     "checked": true,
     "rating": 5,
     "recommended_by": [
-      "Sqrl"
+      "IC"
     ],
     "tags": [
       "Mormans",
@@ -3532,7 +3544,7 @@
     "year": 1988,
     "url": "https://en.wikipedia.org/wiki/The_Alchemist_(novel)",
     "recommended_by": [
-      "JP"
+      "JPI"
     ],
     "checked": true,
     "rating": 3
@@ -3545,7 +3557,7 @@
     "year": 2015,
     "rating": 3,
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "checked": true
   },
@@ -3643,8 +3655,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Jonah",
-      "MeganA"
+      "JOR",
+      "MEA"
     ],
     "status": "queued",
     "title": "Harry Potter and the Methods of Rationality",
@@ -3656,7 +3668,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Jonah"
+      "JOR"
     ],
     "status": "queued",
     "title": "Sixteen Ways to Defend a Walled City",
@@ -3684,7 +3696,7 @@
     "category": "game",
     "checked": true,
     "recommended_by": [
-      "DonE"
+      "DE"
     ],
     "status": "queued",
     "title": "Uncharted: The Nathan Drake Collection",
@@ -3697,7 +3709,7 @@
     "checked": true,
     "rating": 5,
     "recommended_by": [
-      "Brady"
+      "BF"
     ],
     "status": "done",
     "title": "Moby-Dick",
@@ -3709,7 +3721,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Navid"
+      "NF"
     ],
     "status": "queued",
     "title": "Nihilism and Technology",
@@ -3721,7 +3733,7 @@
     "checked": true,
     "director": "Joel Coen",
     "recommended_by": [
-      "Jonah"
+      "JOR"
     ],
     "status": "queued",
     "title": "The Hudsucker Proxy",
@@ -3745,7 +3757,7 @@
     "url": "https://qntm.org/ra",
     "year": 2014,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "rating": 5
   },
@@ -3754,7 +3766,7 @@
     "checked": true,
     "director": "Jim Abrahams, David Zucker, Jerry Zucker",
     "recommended_by": [
-      "Brady"
+      "BF"
     ],
     "status": "queued",
     "title": "Top Secret!",
@@ -3766,7 +3778,7 @@
     "checked": true,
     "director": "Anthony B. Powell",
     "recommended_by": [
-      "Tom Goodman"
+      "TG"
     ],
     "status": "queued",
     "title": "Antarctica: A Year on Ice",
@@ -3778,7 +3790,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Neal"
+      "NST"
     ],
     "status": "queued",
     "title": "It Can't Happen Here",
@@ -3824,7 +3836,7 @@
     "category": "article",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "url": "https://twitter.com/brianweeden/status/1276127060268810241?s=09",
     "checked": true
@@ -3834,7 +3846,7 @@
     "category": "topic",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "url": "https://twitter.com/bleddb/status/1277889227070623744?s=09",
     "checked": true
@@ -3870,7 +3882,7 @@
     "status": "done",
     "rating": 5,
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "year": 2020,
     "director": "Pendleton Ward",
@@ -3889,7 +3901,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "author": "Roman Krznaric",
     "year": 2020,
@@ -3909,7 +3921,7 @@
     "title": "Two Years Before the Mast",
     "status": "queued",
     "recommended_by": [
-      "Sqrl"
+      "IC"
     ],
     "category": "book",
     "author": "Richard Henry Dana Jr.",
@@ -3921,7 +3933,7 @@
     "title": "The Kiss Quotient",
     "status": "queued",
     "recommended_by": [
-      "Sqrl"
+      "IC"
     ],
     "category": "book",
     "author": "Helen Hoang",
@@ -3975,7 +3987,7 @@
     "category": "podcast",
     "status": "queued",
     "recommended_by": [
-      "MattM"
+      "MTM"
     ],
     "url": "https://en.wikipedia.org/wiki/Knowledge_Fight",
     "year": 2017,
@@ -4002,7 +4014,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Chico"
+      "CB"
     ],
     "director": "Paul Thomas Anderson",
     "year": 2019,
@@ -4018,7 +4030,7 @@
     "year": 2010,
     "rating": 5,
     "recommended_by": [
-      "DanAinge"
+      "DA"
     ],
     "url": "https://en.wikipedia.org/wiki/Happy_People:_A_Year_in_the_Taiga",
     "checked": true
@@ -4030,8 +4042,8 @@
     "director": "Rian Johnson",
     "year": 2019,
     "recommended_by": [
-      "Becca",
-      "EmmaAinge"
+      "BMB",
+      "EAI"
     ],
     "url": "https://en.wikipedia.org/wiki/Knives_Out",
     "checked": true
@@ -4041,7 +4053,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Jonathanblow"
+      "JBL"
     ],
     "checked": true
   },
@@ -4052,7 +4064,7 @@
     "author": "Niall Ferguson",
     "year": 2008,
     "recommended_by": [
-      "Verbal"
+      "VK"
     ],
     "url": "https://en.wikipedia.org/wiki/The_Ascent_of_Money",
     "checked": true
@@ -4063,7 +4075,7 @@
     "status": "queued",
     "year": 2004,
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "url": "https://youtu.be/GOAVRcI6mFU",
     "checked": true
@@ -4075,9 +4087,9 @@
     "author": "Charlie Jane Anders",
     "year": 2016,
     "recommended_by": [
-      "Anya",
-      "Mikem",
-      "Sqrl"
+      "ANY",
+      "MI",
+      "IC"
     ],
     "url": "https://en.wikipedia.org/wiki/All_the_Birds_in_the_Sky",
     "checked": true,
@@ -4088,7 +4100,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Sqrl"
+      "IC"
     ],
     "checked": true
   },
@@ -4099,7 +4111,7 @@
     "author": "George Friedman",
     "year": 2020,
     "recommended_by": [
-      "Julie"
+      "JU"
     ],
     "url": "https://en.wikipedia.org/wiki/The_Storm_Before_the_Calm",
     "checked": true
@@ -4111,7 +4123,7 @@
     "author": "Bailey Richardson, Kevin Huynh, Kai Elmer Sotto",
     "year": 2019,
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "url": "https://twitter.com/ljxie/status/1313265177647742978?s=09",
     "checked": true
@@ -4131,7 +4143,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "status": "queued",
     "title": "Thinking in Bets",
@@ -4143,7 +4155,7 @@
     "checked": true,
     "director": "Robert Eggers",
     "recommended_by": [
-      "Brady"
+      "BF"
     ],
     "status": "queued",
     "title": "The Lighthouse",
@@ -4155,7 +4167,7 @@
     "checked": true,
     "director": "Robert Eggers",
     "recommended_by": [
-      "Brady"
+      "BF"
     ],
     "status": "queued",
     "title": "The Witch",
@@ -4168,8 +4180,8 @@
     "checked": true,
     "recommended_by": [
       "Rando(unknown)",
-      "John Welsh",
-      "MeganA"
+      "JWE",
+      "MEA"
     ],
     "status": "done",
     "title": "Adult Children of Emotionally Immature Parents",
@@ -4182,7 +4194,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Shary"
+      "SH"
     ],
     "status": "queued",
     "title": "The Contortionist's Handbook",
@@ -4227,7 +4239,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "status": "queued",
     "title": "Building Electro-Optical Systems: Making It All Work",
@@ -4242,7 +4254,7 @@
     "year": 1982,
     "url": "https://en.wikipedia.org/wiki/The_Thing_(1982_film)",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "checked": true
   },
@@ -4253,7 +4265,7 @@
     "author": "P.G. Wodehouse",
     "url": "https://en.wikipedia.org/wiki/Jeeves",
     "recommended_by": [
-      "Ruby"
+      "RM"
     ],
     "checked": true
   },
@@ -4265,7 +4277,7 @@
     "year": 2020,
     "url": "https://twitter.com/LizWFab/status/1316109518925856768?s=09",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "checked": true
   },
@@ -4332,8 +4344,8 @@
     "year": 1949,
     "url": "https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces",
     "recommended_by": [
-      "Anna Marie",
-      "Matt Faulkner",
+      "AMC",
+      "MF",
       "WKZ"
     ],
     "checked": true,
@@ -4389,9 +4401,9 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter",
-      "Andressen",
-      "Jonathanblow"
+      "TW",
+      "MA",
+      "JBL"
     ],
     "status": "queued",
     "title": "The Courage to Be Disliked",
@@ -4410,7 +4422,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "status": "queued",
     "title": "The Rose of Paracelsus",
@@ -4422,7 +4434,7 @@
     "category": "other",
     "checked": true,
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "status": "queued",
     "title": "The Nine Billion Names of God",
@@ -4461,7 +4473,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "John Welsh"
+      "JWE"
     ],
     "status": "queued",
     "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
@@ -4473,7 +4485,7 @@
     "checked": true,
     "director": "Lars von Trier",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "status": "queued",
     "title": "Melancholia",
@@ -4485,7 +4497,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "status": "queued",
     "title": "Death with Interruptions",
@@ -4497,8 +4509,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Igor",
-      "Lyra"
+      "IG",
+      "LLE"
     ],
     "status": "queued",
     "title": "What I Talk About When I Talk About Running",
@@ -4510,7 +4522,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "status": "queued",
     "title": "The Memory Police",
@@ -4522,7 +4534,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "status": "queued",
     "title": "The City & the City",
@@ -4534,7 +4546,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "status": "queued",
     "title": "Perdido Street Station",
@@ -4546,7 +4558,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "status": "queued",
     "title": "Machineries of Empire",
@@ -4558,7 +4570,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "status": "queued",
     "title": "The Paper Menagerie and Other Stories",
@@ -4570,11 +4582,11 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "EdwinKite",
-      "Kat kesselman",
-      "Lyra",
-      "Sara",
-      "Unknown"
+      "EK",
+      "KKE",
+      "LLE",
+      "SB",
+      "UN"
     ],
     "author": "Tamsyn Muir",
     "year": 2019,
@@ -4586,7 +4598,7 @@
     "category": "article",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "url": "https://www.comedy.co.uk/pro/inside_track/gemma-arrowsmith-on-sketch-writing/",
     "checked": true
@@ -4615,7 +4627,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "EmmaAinge"
+      "EAI"
     ],
     "author": "Iain Banks",
     "year": 1986,
@@ -4645,7 +4657,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "year": 2020,
     "url": "https://en.wikipedia.org/wiki/Hades_(video_game)",
@@ -4656,7 +4668,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Creon"
+      "CL"
     ],
     "author": "David Brin",
     "year": 1980,
@@ -4668,7 +4680,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Kevin kelly"
+      "KK"
     ],
     "author": "Pierre Mornell",
     "year": 1998,
@@ -4680,8 +4692,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Kevin kelly",
-      "Unknown"
+      "KK",
+      "UN"
     ],
     "status": "queued",
     "title": "How Buildings Learn",
@@ -4692,7 +4704,7 @@
     "category": "movie",
     "checked": true,
     "recommended_by": [
-      "Jessie"
+      "JE"
     ],
     "status": "queued",
     "title": "Video about thoe"
@@ -4701,8 +4713,8 @@
     "category": "tv",
     "checked": true,
     "recommended_by": [
-      "MeganK",
-      "AlexFeerst"
+      "MKI",
+      "AF"
     ],
     "status": "queued",
     "title": "Mike Judge Presents: Tales from the Tour Bus",
@@ -4726,7 +4738,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Sara"
+      "SB"
     ],
     "status": "queued",
     "title": "Smoke and Mirrors",
@@ -4738,7 +4750,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Sara"
+      "SB"
     ],
     "status": "queued",
     "title": "The Graveyard Book",
@@ -4760,7 +4772,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Sara"
+      "SB"
     ],
     "status": "queued",
     "title": "The Truth Is a Cave in the Black Mountains",
@@ -4772,7 +4784,7 @@
     "checked": true,
     "director": "Joe Penna",
     "recommended_by": [
-      "ScottManley"
+      "SMA"
     ],
     "status": "queued",
     "title": "Stowaway",
@@ -4784,10 +4796,10 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Amy",
-      "MeredithC",
-      "Matt Faulkner",
-      "MeganA"
+      "AP",
+      "MC",
+      "MF",
+      "MEA"
     ],
     "status": "queued",
     "title": "The Remains of the Day",
@@ -4800,9 +4812,9 @@
     "status": "queued",
     "recommended_by": [
       "AMC",
-      "Amy",
-      "Matt Faulkner",
-      "Samira"
+      "AP",
+      "MF",
+      "SA"
     ],
     "author": "Ursula K. Le Guin",
     "year": 1969,
@@ -4814,7 +4826,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Paul"
+      "PGR"
     ],
     "director": "Michael Almereyda",
     "year": 2020,
@@ -4826,7 +4838,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "director": "Abel Ferrara",
     "year": 1992,
@@ -4838,7 +4850,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "TysonK"
+      "TK"
     ],
     "year": 2021,
     "url": "https://en.wikipedia.org/wiki/Valheim",
@@ -4850,10 +4862,10 @@
     "status": "done",
     "rating": 5,
     "recommended_by": [
-      "Bash",
-      "Gerald",
-      "Lyra",
-      "Mccoy"
+      "BA",
+      "GS",
+      "LLE",
+      "MMC"
     ],
     "author": "Kim Stanley Robinson",
     "year": 2020,
@@ -4874,7 +4886,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "author": "Emily Levesque",
     "year": 2020,
@@ -4886,7 +4898,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "B"
+      "BJ"
     ],
     "year": 2020,
     "url": "https://en.wikipedia.org/wiki/Ted_Lasso",
@@ -4897,7 +4909,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "B"
+      "BJ"
     ],
     "year": 2013,
     "url": "https://en.wikipedia.org/wiki/Steven_Universe",
@@ -4908,7 +4920,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "author": "Anna Merlan",
     "year": 2019,
@@ -4920,10 +4932,10 @@
     "category": "movie",
     "status": "done",
     "recommended_by": [
-      "Andy Lee",
-      "Camille",
-      "CodyDaniel",
-      "Unknown"
+      "ALE",
+      "CN",
+      "CD",
+      "UN"
     ],
     "director": "Chloé Zhao",
     "year": 2020,
@@ -4935,7 +4947,7 @@
     "title": "Making Great Choices",
     "status": "queued",
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "checked": true
   },
@@ -4944,7 +4956,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "author": "Blair Enns",
     "year": 2010,
@@ -4956,9 +4968,9 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "AlexWolf",
-      "Lauren",
-      "Sean K"
+      "AW",
+      "LBH",
+      "SK"
     ],
     "author": "N. K. Jemisin",
     "year": 2015,
@@ -4970,7 +4982,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "DavidPowell"
+      "DPO"
     ],
     "author": "Tom Clancy",
     "year": 1994,
@@ -4982,7 +4994,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "DavidPowell"
+      "DPO"
     ],
     "author": "Tom Clancy",
     "year": 1986,
@@ -4994,8 +5006,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "DavidPowell",
-      "Molly Maloof"
+      "DPO",
+      "MMA"
     ],
     "director": "Jay Roach",
     "year": 2019,
@@ -5017,7 +5029,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "Sadia"
+      "SN"
     ],
     "year": 2021,
     "url": "https://en.wikipedia.org/wiki/Heaven%27s_Design_Team",
@@ -5029,7 +5041,7 @@
     "status": "done",
     "rating": 3,
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "author": "Stefano Mancuso",
     "year": 2018,
@@ -5041,7 +5053,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Grinich"
+      "MGR"
     ],
     "director": "Jimmy Chin, Elizabeth Chai Vasarhelyi",
     "year": 2015,
@@ -5053,10 +5065,10 @@
     "category": "movie",
     "status": "done",
     "recommended_by": [
-      "Heather Rivers",
-      "MeganK",
-      "AlexFeerst",
-      "lou"
+      "HR",
+      "MKI",
+      "AF",
+      "LB"
     ],
     "director": "Penny Lane",
     "year": 2019,
@@ -5069,7 +5081,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "MaxHodak"
+      "MH"
     ],
     "director": "Cullen Hoback",
     "year": 2021,
@@ -5081,7 +5093,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "Heather Rivers"
+      "HR"
     ],
     "director": "Chapman Way, Maclain Way",
     "year": 2018,
@@ -5093,7 +5105,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Heather Rivers"
+      "HR"
     ],
     "author": "Amanda Palmer",
     "year": 2014,
@@ -5105,7 +5117,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Heather Rivers"
+      "HR"
     ],
     "author": "M.E. Thomas",
     "year": 2013,
@@ -5117,7 +5129,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Heather Rivers"
+      "HR"
     ],
     "director": "Elizabeth Lo",
     "year": 2021,
@@ -5129,8 +5141,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Heather Rivers",
-      "AstralCodexTen"
+      "HR",
+      "ACT"
     ],
     "director": "Daniel J. Clark",
     "year": 2018,
@@ -5142,7 +5154,7 @@
     "category": "article",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "author": "Douglas Engelbart",
     "year": 1962,
@@ -5154,7 +5166,7 @@
     "category": "article",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "author": "Vannevar Bush",
     "year": 1945,
@@ -5166,7 +5178,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "status": "queued",
     "title": "Mindstorms: Children, Computers, and Powerful Ideas",
@@ -5178,8 +5190,8 @@
     "category": "other",
     "checked": true,
     "recommended_by": [
-      "Heather Rivers",
-      "Twitter"
+      "HR",
+      "TW"
     ],
     "status": "queued",
     "title": "Inventing on Principle",
@@ -5191,7 +5203,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "status": "queued",
     "title": "Plans and Situated Actions: The Problem of Human-Machine Communication",
@@ -5203,7 +5215,7 @@
     "category": "other",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "status": "queued",
     "title": "The Safe-Deposit Box",
@@ -5215,8 +5227,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter",
-      "Naval"
+      "TW",
+      "NR"
     ],
     "status": "queued",
     "title": "Freedom from the Known",
@@ -5228,8 +5240,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter",
-      "Naval"
+      "TW",
+      "NR"
     ],
     "status": "queued",
     "title": "Total Freedom: The Essential Krishnamurti",
@@ -5240,8 +5252,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter",
-      "Naval"
+      "TW",
+      "NR"
     ],
     "status": "queued",
     "title": "The Great Challenge",
@@ -5252,8 +5264,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter",
-      "Naval"
+      "TW",
+      "NR"
     ],
     "status": "queued",
     "title": "The Book of Life: Daily Meditations with Krishnamurti",
@@ -5264,8 +5276,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter",
-      "Naval"
+      "TW",
+      "NR"
     ],
     "status": "queued",
     "title": "Think on These Things",
@@ -5276,8 +5288,8 @@
     "checked": true,
     "director": "Ian Cheney",
     "recommended_by": [
-      "MeganA",
-      "Sqrl"
+      "MEA",
+      "IC"
     ],
     "status": "queued",
     "title": "The Search for General Tso",
@@ -5287,7 +5299,7 @@
   {
     "checked": true,
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "status": "queued",
     "title": "Brethe"
@@ -5297,8 +5309,8 @@
     "checked": true,
     "director": "Bryan Fogel",
     "recommended_by": [
-      "Ethan",
-      "MeganA"
+      "EC",
+      "MEA"
     ],
     "status": "queued",
     "title": "Icarus",
@@ -5318,7 +5330,7 @@
   {
     "checked": true,
     "recommended_by": [
-      "JeremyConrad"
+      "JCO"
     ],
     "status": "queued",
     "title": "Vulcan"
@@ -5328,7 +5340,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "JohnCarmak"
+      "JC"
     ],
     "status": "queued",
     "title": "The Perfectionists: How Precision Engineers Created the Modern World",
@@ -5340,7 +5352,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Molly Maloof"
+      "MMA"
     ],
     "status": "queued",
     "title": "Love Drugs: The Chemical Future of Relationships",
@@ -5351,7 +5363,7 @@
     "category": "article",
     "checked": true,
     "recommended_by": [
-      "B"
+      "BJ"
     ],
     "status": "queued",
     "title": "Economist on Identity"
@@ -5361,7 +5373,7 @@
     "checked": true,
     "director": "Emerald Fennell",
     "recommended_by": [
-      "B"
+      "BJ"
     ],
     "status": "queued",
     "title": "Promising Young Woman",
@@ -5372,7 +5384,7 @@
     "category": "tv",
     "checked": true,
     "recommended_by": [
-      "Ridhi"
+      "RI"
     ],
     "status": "queued",
     "title": "Madam Secretary",
@@ -5384,7 +5396,7 @@
     "checked": true,
     "director": "Jake Kasdan",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "status": "queued",
     "title": "Walk Hard: The Dewey Cox Story",
@@ -5396,8 +5408,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "MaxK",
-      "Ron"
+      "MK",
+      "RON"
     ],
     "director": "Joe Talbot",
     "year": 2019,
@@ -5409,7 +5421,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "John Welsh"
+      "JWE"
     ],
     "director": "Paul Feig",
     "year": 2018,
@@ -5421,7 +5433,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "BenE"
+      "BE"
     ],
     "notes": "(Nexium Documentary)",
     "director": "Jehane Noujaim, Karim Amer",
@@ -5434,9 +5446,9 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Ashley",
-      "Gilly",
-      "John Welsh"
+      "AME",
+      "GMO",
+      "JWE"
     ],
     "director": "James Franco",
     "year": 2017,
@@ -5448,7 +5460,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Hemai"
+      "HP"
     ],
     "checked": true
   },
@@ -5457,7 +5469,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Hemai"
+      "HP"
     ],
     "author": "Warren Weaver",
     "year": 1970,
@@ -5469,7 +5481,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Davidsouther"
+      "DSO"
     ],
     "author": "Kate Crawford",
     "year": 2021,
@@ -5481,7 +5493,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "checked": true
   },
@@ -5490,7 +5502,7 @@
     "category": "other",
     "status": "queued",
     "recommended_by": [
-      "Andy Timmons"
+      "ATI"
     ],
     "author": "Charlie Jane Anders",
     "year": 2010,
@@ -5502,7 +5514,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "David Origin"
+      "DO"
     ],
     "year": 2013,
     "url": "https://en.wikipedia.org/wiki/Kentucky_Route_Zero",
@@ -5513,7 +5525,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Galen"
+      "GM"
     ],
     "director": "Josh Greenbaum",
     "year": 2021,
@@ -5525,7 +5537,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "John's sister"
+      "JSI"
     ],
     "director": "Cameron Crowe",
     "year": 2000,
@@ -5537,7 +5549,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Corina"
+      "CKE"
     ],
     "director": "Dave McKean",
     "year": 2005,
@@ -5550,7 +5562,7 @@
     "status": "queued",
     "author": "Evan Dahm",
     "recommended_by": [
-      "Ashley"
+      "AME"
     ],
     "year": 2006,
     "url": "https://en.wikipedia.org/wiki/Evan_Dahm",
@@ -5561,7 +5573,7 @@
     "category": "other",
     "status": "queued",
     "recommended_by": [
-      "Ashley"
+      "AME"
     ],
     "author": "Andrew Hussie",
     "year": 2009,
@@ -5582,7 +5594,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "Jordan"
+      "JMI"
     ],
     "year": 2018,
     "url": "https://en.wikipedia.org/wiki/Rust_(video_game)",
@@ -5593,7 +5605,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Mel"
+      "MEL"
     ],
     "director": "Nick Bilton",
     "year": 2021,
@@ -5605,7 +5617,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "Mel"
+      "MEL"
     ],
     "year": 2021,
     "url": "https://en.wikipedia.org/wiki/Centaurworld",
@@ -5616,7 +5628,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "Mel"
+      "MEL"
     ],
     "year": 2014,
     "url": "https://en.wikipedia.org/wiki/You%27re_the_Worst",
@@ -5643,7 +5655,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "OtherBook"
+      "OB"
     ],
     "author": "Arno Ilgner",
     "year": 2003,
@@ -5655,8 +5667,8 @@
     "category": "book",
     "status": "done",
     "recommended_by": [
-      "Mccoy",
-      "PaigeBailey"
+      "MMC",
+      "PB"
     ],
     "author": "Alfred Lansing",
     "year": 1959,
@@ -5669,7 +5681,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Grinich"
+      "MGR"
     ],
     "author": "Eric Schlosser",
     "year": 2013,
@@ -5681,7 +5693,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "author": "Daniel P. Raymer",
     "year": 1989,
@@ -5701,7 +5713,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "director": "Louie Schwartzberg",
     "year": 2019,
@@ -5713,9 +5725,9 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "JeremyConrad",
-      "MeganK",
-      "AlexFeerst"
+      "JCO",
+      "MKI",
+      "AF"
     ],
     "author": "Jon Gertner",
     "year": 2012,
@@ -5726,7 +5738,7 @@
     "title": "Nolan brothers movies",
     "status": "queued",
     "recommended_by": [
-      "AlexFeerst"
+      "AF"
     ],
     "checked": true
   },
@@ -5735,8 +5747,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Ed Boyden",
-      "Molly Maloof"
+      "EB",
+      "MMA"
     ],
     "status": "queued",
     "title": "No Bad Parts",
@@ -5758,7 +5770,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Andy Lee"
+      "ALE"
     ],
     "status": "queued",
     "title": "Dopamine Nation",
@@ -5769,7 +5781,7 @@
     "category": "other",
     "checked": true,
     "recommended_by": [
-      "Camilla T"
+      "CT"
     ],
     "status": "queued",
     "title": "Brian David Gilbert",
@@ -5780,7 +5792,7 @@
     "checked": true,
     "director": "Joel Coen",
     "recommended_by": [
-      "Camilla T"
+      "CT"
     ],
     "status": "queued",
     "title": "O Brother, Where Art Thou?",
@@ -5791,7 +5803,7 @@
     "category": "other",
     "checked": true,
     "recommended_by": [
-      "Camilla T"
+      "CT"
     ],
     "status": "queued",
     "title": "Jefferson Mays - A Christmas Carol",
@@ -5803,7 +5815,7 @@
     "checked": true,
     "director": "Scott Frank",
     "recommended_by": [
-      "Camilla T"
+      "CT"
     ],
     "status": "queued",
     "title": "The Queen's Gambit",
@@ -5814,7 +5826,7 @@
     "category": "other",
     "checked": true,
     "recommended_by": [
-      "Lynn"
+      "LD"
     ],
     "status": "queued",
     "title": "The Mystery of the Cocaine Mummies",
@@ -5825,7 +5837,7 @@
     "category": "tv",
     "checked": true,
     "recommended_by": [
-      "MattM"
+      "MTM"
     ],
     "status": "queued",
     "title": "Jean-Claude Van Johnson",
@@ -5837,7 +5849,7 @@
     "checked": true,
     "director": "Mabrouk El Mechri",
     "recommended_by": [
-      "MattM"
+      "MTM"
     ],
     "status": "queued",
     "title": "JCVD",
@@ -5849,7 +5861,7 @@
     "checked": true,
     "director": "Roland Emmerich",
     "recommended_by": [
-      "MattM"
+      "MTM"
     ],
     "status": "queued",
     "title": "Universal Soldier",
@@ -5860,9 +5872,9 @@
     "category": "tv",
     "checked": true,
     "recommended_by": [
-      "Anselm",
-      "Grinich",
-      "Ruby"
+      "ALV",
+      "MGR",
+      "RM"
     ],
     "status": "queued",
     "title": "Loki",
@@ -5874,7 +5886,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Elenor"
+      "EP"
     ],
     "status": "queued",
     "title": "Cultish: The Language of Fanaticism",
@@ -5885,7 +5897,7 @@
     "category": "tv",
     "checked": true,
     "recommended_by": [
-      "Kat"
+      "KAT"
     ],
     "status": "done",
     "title": "Squid Game",
@@ -5907,9 +5919,9 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Matt Faulkner",
-      "FrancesW",
-      "John Welsh"
+      "MF",
+      "FW",
+      "JWE"
     ],
     "status": "done",
     "title": "The Dispossessed",
@@ -5922,7 +5934,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "status": "queued",
     "title": "Pimp: The Story of My Life",
@@ -5933,7 +5945,7 @@
     "category": "game",
     "checked": true,
     "recommended_by": [
-      "MattM"
+      "MTM"
     ],
     "status": "queued",
     "title": "Abzû",
@@ -5945,10 +5957,10 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "KarenCc",
-      "Sean K",
-      "Adam Draper",
-      "ConnieY"
+      "KC",
+      "SK",
+      "AD",
+      "CY"
     ],
     "status": "queued",
     "title": "Project Hail Mary",
@@ -5960,7 +5972,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "status": "queued",
     "title": "Stages of Rot",
@@ -5979,8 +5991,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "EmmaAinge",
-      "Tanya"
+      "EAI",
+      "TD"
     ],
     "author": "Anthony Horowitz",
     "year": 2016,
@@ -5992,7 +6004,7 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "Tanya"
+      "TD"
     ],
     "checked": true
   },
@@ -6001,8 +6013,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Tanya",
-      "Verbal"
+      "TD",
+      "VK"
     ],
     "director": "Steve Barron",
     "year": 1984,
@@ -6014,7 +6026,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "AdamSavage"
+      "AS"
     ],
     "author": "Jonathan Lethem",
     "year": 1998,
@@ -6026,7 +6038,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Preston"
+      "PR"
     ],
     "author": "Timothy Ferriss",
     "year": 2007,
@@ -6038,7 +6050,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "JeffCrusy"
+      "JCR"
     ],
     "author": "Spencer E. Ante",
     "year": 2008,
@@ -6049,7 +6061,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "MaxHodak"
+      "MH"
     ],
     "author": "David Talbot",
     "year": 2012,
@@ -6071,10 +6083,10 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Anna Marie",
-      "Becca",
-      "DoomSignal",
-      "Maus"
+      "AMC",
+      "BMB",
+      "DSG",
+      "MP"
     ],
     "author": "Adrian Tchaikovsky",
     "year": 2015,
@@ -6086,7 +6098,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Maus"
+      "MP"
     ],
     "status": "queued",
     "title": "An Absolutely Remarkable Thing",
@@ -6098,7 +6110,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Maus"
+      "MP"
     ],
     "status": "queued",
     "title": "A Beautifully Foolish Endeavor",
@@ -6110,7 +6122,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Hemai"
+      "HP"
     ],
     "status": "queued",
     "title": "The Star Builders",
@@ -6123,7 +6135,7 @@
     "checked": true,
     "rating": 4,
     "recommended_by": [
-      "Maryanna"
+      "MS"
     ],
     "status": "done",
     "title": "Accelerando",
@@ -6135,7 +6147,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "David Origin"
+      "DO"
     ],
     "status": "queued",
     "title": "A Night in the Lonesome October",
@@ -6154,7 +6166,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "JeremyGilleroy"
+      "JG"
     ],
     "status": "queued",
     "title": "San Fransicko",
@@ -6166,7 +6178,7 @@
     "checked": true,
     "director": "Joe Dante",
     "recommended_by": [
-      "Tristen"
+      "TU"
     ],
     "status": "queued",
     "title": "Innerspace",
@@ -6178,7 +6190,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Jackie"
+      "JB"
     ],
     "status": "queued",
     "title": "Entangled Life: How Fungi Make Our Worlds, Change Our Minds and Shape Our Futures",
@@ -6190,7 +6202,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "BilalZ"
+      "BZ"
     ],
     "status": "queued",
     "title": "The Contrarian",
@@ -6202,7 +6214,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "SteveMassey"
+      "STM"
     ],
     "status": "queued",
     "title": "Silicon Sky",
@@ -6214,7 +6226,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Jason (Sarah)"
+      "JMO"
     ],
     "status": "queued",
     "title": "Rainbows End",
@@ -6225,7 +6237,7 @@
     "category": "other",
     "checked": true,
     "recommended_by": [
-      "NickPinkston"
+      "NP"
     ],
     "status": "queued",
     "title": "Isaac Arthur",
@@ -6236,7 +6248,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Kwiri"
+      "KY"
     ],
     "status": "queued",
     "title": "Reboot",
@@ -6248,7 +6260,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "status": "queued",
     "title": "Rise and Kill First",
@@ -6260,8 +6272,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "BenE",
-      "Matt Faulkner"
+      "BE",
+      "MF"
     ],
     "status": "queued",
     "title": "The Road",
@@ -6273,7 +6285,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "status": "queued",
     "title": "The Society of Mind",
@@ -6286,9 +6298,9 @@
     "checked": true,
     "recommended_by": [
       "AC",
-      "Anselm",
-      "PhilLarochelle",
-      "Unknown"
+      "ALV",
+      "PL",
+      "UN"
     ],
     "status": "queued",
     "title": "The Expanse",
@@ -6300,8 +6312,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Anselm",
-      "Matt Faulkner"
+      "ALV",
+      "MF"
     ],
     "author": "T. E. Lawrence",
     "year": 1926,
@@ -6313,7 +6325,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "author": "Wilfred Thesiger",
     "year": 1959,
@@ -6325,7 +6337,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "author": "Ralph Bagnold",
     "year": 1935,
@@ -6337,7 +6349,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "author": "Stephen King",
     "year": 2000,
@@ -6349,7 +6361,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "author": "Nikos Kazantzakis",
     "year": 1955,
@@ -6361,7 +6373,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "director": "Paul Thomas Anderson",
     "year": 2007,
@@ -6373,7 +6385,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "author": "Peter Stark",
     "year": 2014,
@@ -6393,7 +6405,7 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "Gregory"
+      "GC"
     ],
     "author": "N. K. Jemisin",
     "year": 2015,
@@ -6406,7 +6418,7 @@
     "status": "queued",
     "author": "Neil Gaiman",
     "recommended_by": [
-      "Gregory"
+      "GC"
     ],
     "year": 2017,
     "url": "https://en.wikipedia.org/wiki/Norse_Mythology_(book)",
@@ -6436,8 +6448,8 @@
     "checked": true,
     "director": "Robert Kurvitz",
     "recommended_by": [
-      "EmmaAinge",
-      "John Welsh"
+      "EAI",
+      "JWE"
     ],
     "status": "queued",
     "title": "Disco Elysium",
@@ -6449,7 +6461,7 @@
     "checked": true,
     "director": "Daniel Mullins",
     "recommended_by": [
-      "EmmaAinge"
+      "EAI"
     ],
     "status": "queued",
     "title": "Inscryption",
@@ -6461,7 +6473,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "status": "queued",
     "title": "To Be Taught, If Fortunate",
@@ -6473,7 +6485,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "NickPinkston"
+      "NP"
     ],
     "status": "queued",
     "title": "The Listening Society",
@@ -6484,7 +6496,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "NickPinkston"
+      "NP"
     ],
     "status": "queued",
     "title": "Why Information Grows",
@@ -6495,7 +6507,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "NickPinkston"
+      "NP"
     ],
     "status": "queued",
     "title": "A Thousand Years of Nonlinear History",
@@ -6505,7 +6517,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "NickPinkston"
+      "NP"
     ],
     "status": "queued",
     "title": "Cultural Evolution"
@@ -6515,7 +6527,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "NickPinkston"
+      "NP"
     ],
     "status": "queued",
     "title": "The Origin of Wealth",
@@ -6527,7 +6539,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "NickPinkston"
+      "NP"
     ],
     "status": "queued",
     "title": "Forces of Production",
@@ -6539,7 +6551,7 @@
     "checked": true,
     "director": "Jim Jarmusch",
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "status": "queued",
     "title": "Only Lovers Left Alive",
@@ -6561,8 +6573,8 @@
     "checked": true,
     "director": "Peter Mortimer, Nick Rosen",
     "recommended_by": [
-      "John Welsh",
-      "MeganA"
+      "JWE",
+      "MEA"
     ],
     "status": "queued",
     "title": "The Alpinist",
@@ -6574,7 +6586,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "TheBrowser"
+      "TBR"
     ],
     "status": "queued",
     "title": "Diaspora",
@@ -6586,7 +6598,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Verbal"
+      "VK"
     ],
     "status": "queued",
     "title": "Entangled Life",
@@ -6598,7 +6610,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "status": "queued",
     "title": "Never Say You Can't Survive",
@@ -6610,8 +6622,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "AnnaLeshinskaya",
-      "Lyra"
+      "AL",
+      "LLE"
     ],
     "status": "queued",
     "title": "The City in the Middle of the Night",
@@ -6623,7 +6635,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Verbal"
+      "VK"
     ],
     "status": "queued",
     "title": "Glitter in the Blood",
@@ -6634,7 +6646,7 @@
     "title": "The Center Cannot Hold: My Journey Through Madness",
     "status": "queued",
     "recommended_by": [
-      "Emilyeffner"
+      "EE"
     ],
     "checked": true,
     "category": "book",
@@ -6646,7 +6658,7 @@
     "title": "Still Alice",
     "status": "queued",
     "recommended_by": [
-      "KelseyLaire"
+      "KL"
     ],
     "checked": true,
     "category": "book",
@@ -6658,7 +6670,7 @@
     "title": "Radical Acceptance",
     "status": "queued",
     "recommended_by": [
-      "Watson"
+      "WA"
     ],
     "checked": true,
     "category": "book",
@@ -6670,8 +6682,8 @@
     "title": "Good Omens",
     "status": "queued",
     "recommended_by": [
-      "Eugene",
-      "Unknown"
+      "EU",
+      "UN"
     ],
     "checked": true,
     "category": "book",
@@ -6683,9 +6695,9 @@
     "title": "Tenet",
     "status": "queued",
     "recommended_by": [
-      "Corina",
-      "Eugene",
-      "PeterNelson"
+      "CKE",
+      "EU",
+      "PN"
     ],
     "checked": true,
     "category": "movie",
@@ -6697,7 +6709,7 @@
     "title": "How to Make Sh*t Happen",
     "status": "queued",
     "recommended_by": [
-      "Naia"
+      "NA"
     ],
     "checked": true,
     "category": "book",
@@ -6710,9 +6722,9 @@
     "status": "queued",
     "author": "Sue Johnson",
     "recommended_by": [
-      "Anya",
+      "ANY",
       "Rando(unknown)",
-      "Mccoy"
+      "MMC"
     ],
     "checked": true,
     "category": "book",
@@ -6724,7 +6736,7 @@
     "status": "queued",
     "recommended_by": [
       "AMC",
-      "Pqablo"
+      "PAB"
     ],
     "checked": true,
     "category": "movie",
@@ -6737,7 +6749,7 @@
     "status": "queued",
     "recommended_by": [
       "Rando(unknown)",
-      "Matt Faulkner"
+      "MF"
     ],
     "checked": true,
     "category": "book",
@@ -6749,7 +6761,7 @@
     "title": "The Breathing Method",
     "status": "queued",
     "recommended_by": [
-      "Tom Goodman"
+      "TG"
     ],
     "checked": true,
     "category": "book",
@@ -6762,7 +6774,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Tom Goodman"
+      "TG"
     ],
     "notes": "Bio of Kurt Godel",
     "author": "Stephen Budiansky",
@@ -6775,7 +6787,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Gerald"
+      "GS"
     ],
     "author": "Jessica Fern",
     "year": 2020,
@@ -6787,7 +6799,7 @@
     "category": "music",
     "status": "queued",
     "recommended_by": [
-      "Sqrl"
+      "IC"
     ],
     "url": "https://en.wikipedia.org/wiki/Tennyson_(band)",
     "checked": true
@@ -6797,7 +6809,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Adam Draper"
+      "AD"
     ],
     "author": "Pierce Brown",
     "year": 2014,
@@ -6809,7 +6821,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "director": "David Gelb",
     "year": 2011,
@@ -6821,7 +6833,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "author": "Ernest Hemingway",
     "year": 1952,
@@ -6833,7 +6845,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Pio Vincenzo"
+      "PVI"
     ],
     "author": "Thomas Pynchon",
     "year": 2009,
@@ -6845,7 +6857,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Eliza Arnold"
+      "EA"
     ],
     "author": "Sally Rooney",
     "year": 2018,
@@ -6857,7 +6869,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "author": "Arkady Martine",
     "year": 2019,
@@ -6868,7 +6880,7 @@
     "category": "music",
     "checked": true,
     "recommended_by": [
-      "Sqrl"
+      "IC"
     ],
     "status": "queued",
     "title": "Carpenter Brut",
@@ -6879,7 +6891,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "status": "queued",
     "title": "Rule 34",
@@ -6891,7 +6903,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Paulo"
+      "PAU"
     ],
     "status": "queued",
     "title": "A Brief History of Everything",
@@ -6901,7 +6913,7 @@
   {
     "checked": true,
     "recommended_by": [
-      "Chico"
+      "CB"
     ],
     "status": "queued",
     "title": "Centaur Land"
@@ -6911,7 +6923,7 @@
     "checked": true,
     "director": "Frank Oz",
     "recommended_by": [
-      "RobErdmann"
+      "RE"
     ],
     "status": "queued",
     "title": "In & Of Itself",
@@ -6922,7 +6934,7 @@
     "category": "tv",
     "checked": true,
     "recommended_by": [
-      "RobErdmann"
+      "RE"
     ],
     "status": "queued",
     "title": "Counterpart",
@@ -6932,7 +6944,7 @@
   {
     "checked": true,
     "recommended_by": [
-      "JeremyConrad"
+      "JCO"
     ],
     "status": "queued",
     "title": "Cyberpunk"
@@ -6942,7 +6954,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "EmmaAinge"
+      "EAI"
     ],
     "status": "queued",
     "title": "The Every",
@@ -6954,7 +6966,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "AlexFeerst"
+      "AF"
     ],
     "status": "queued",
     "title": "The Power Law",
@@ -6974,7 +6986,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Lauren"
+      "LBH"
     ],
     "author": "Patrick Radden Keefe",
     "year": 2021,
@@ -6986,7 +6998,7 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "Lauren"
+      "LBH"
     ],
     "author": "Brandon Sanderson",
     "year": 2006,
@@ -6997,7 +7009,7 @@
     "title": "Pharmacopeia",
     "status": "queued",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "checked": true
   },
@@ -7006,7 +7018,7 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "Sara"
+      "SB"
     ],
     "author": "Martha Wells",
     "year": 2017,
@@ -7018,7 +7030,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "year": 2019,
     "url": "https://en.wikipedia.org/wiki/Manifold_Garden",
@@ -7044,7 +7056,7 @@
     "status": "queued",
     "recommended_by": [
       "WKZ",
-      "Anna Marie"
+      "AMC"
     ],
     "author": "Daniel Kahneman",
     "year": 2011,
@@ -7068,8 +7080,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Camille",
-      "CodyDaniel"
+      "CN",
+      "CD"
     ],
     "director": "Joseph Kosinski",
     "year": 2022,
@@ -7081,8 +7093,8 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "Camille",
-      "CodyDaniel"
+      "CN",
+      "CD"
     ],
     "year": 2019,
     "url": "https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)",
@@ -7092,8 +7104,8 @@
     "category": "tv",
     "checked": true,
     "recommended_by": [
-      "Camille",
-      "CodyDaniel"
+      "CN",
+      "CD"
     ],
     "status": "queued",
     "title": "The OA",
@@ -7121,7 +7133,7 @@
     "category": "movie",
     "checked": true,
     "recommended_by": [
-      "Shrzd"
+      "SHZ"
     ],
     "status": "queued",
     "title": "Mike Birbiglia: The New One",
@@ -7133,7 +7145,7 @@
     "checked": true,
     "director": "Martha Coolidge",
     "recommended_by": [
-      "Shrzd"
+      "SHZ"
     ],
     "status": "queued",
     "title": "Real Genius",
@@ -7144,8 +7156,8 @@
     "category": "tv",
     "checked": true,
     "recommended_by": [
-      "MeganK",
-      "AlexFeerst"
+      "MKI",
+      "AF"
     ],
     "status": "queued",
     "title": "Sense8",
@@ -7157,7 +7169,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "DrunkFriend"
+      "DF"
     ],
     "status": "queued",
     "title": "American Pastoral",
@@ -7169,7 +7181,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "status": "queued",
     "title": "Treasured Lands: A Photographic Odyssey Through America's National Parks",
@@ -7180,7 +7192,7 @@
     "category": "music",
     "checked": true,
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "status": "queued",
     "title": "U. Utah Phillips",
@@ -7191,7 +7203,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Preston"
+      "PR"
     ],
     "status": "queued",
     "title": "Collapse: The Fall of the Soviet Union",
@@ -7213,7 +7225,7 @@
     "category": "other",
     "checked": true,
     "recommended_by": [
-      "PaigeBailey"
+      "PB"
     ],
     "status": "queued",
     "title": "Planetes",
@@ -7225,8 +7237,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Rachel",
-      "Naval"
+      "RAC",
+      "NR"
     ],
     "status": "queued",
     "title": "Wind, Sand and Stars",
@@ -7238,7 +7250,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Jamesbeadburry"
+      "JBR"
     ],
     "status": "queued",
     "title": "Red Plenty",
@@ -7261,7 +7273,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "MichatEpstien"
+      "MEP"
     ],
     "status": "queued",
     "title": "Nova",
@@ -7272,8 +7284,8 @@
     "category": "game",
     "checked": true,
     "recommended_by": [
-      "FrancesW",
-      "Lyra"
+      "FW",
+      "LLE"
     ],
     "status": "queued",
     "title": "Untitled Goose Game",
@@ -7285,7 +7297,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "FrancesW"
+      "FW"
     ],
     "status": "queued",
     "title": "Blow-Up and Other Stories",
@@ -7297,7 +7309,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "FrancesW"
+      "FW"
     ],
     "status": "queued",
     "title": "The Rest Is Noise: Listening to the Twentieth Century",
@@ -7326,7 +7338,7 @@
     "title": "Adaptations",
     "status": "queued",
     "recommended_by": [
-      "John Welsh"
+      "JWE"
     ],
     "checked": true
   },
@@ -7335,9 +7347,9 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "EdwinKite",
-      "John Welsh",
-      "MeganA"
+      "EK",
+      "JWE",
+      "MEA"
     ],
     "author": "qntm",
     "year": 2021,
@@ -7349,7 +7361,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "checked": true
   },
@@ -7358,8 +7370,8 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "FrancesW",
-      "MeganA"
+      "FW",
+      "MEA"
     ],
     "author": "ConcernedApe",
     "year": 2016,
@@ -7371,8 +7383,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "FrancesW",
-      "PatrickBlu"
+      "FW",
+      "PBL"
     ],
     "director": "Andrei Tarkovsky",
     "year": 1972,
@@ -7385,10 +7397,10 @@
     "category": "series",
     "status": "done",
     "recommended_by": [
-      "FrancesW",
-      "HenryHoltzmann",
-      "JeremyConrad",
-      "MeganA"
+      "FW",
+      "HH",
+      "JCO",
+      "MEA"
     ],
     "year": 2022,
     "url": "https://en.wikipedia.org/wiki/Severance_(TV_series)",
@@ -7400,7 +7412,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "FrancesW"
+      "FW"
     ],
     "author": "Jeff VanderMeer",
     "year": 2014,
@@ -7412,7 +7424,7 @@
     "category": "other",
     "status": "queued",
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "author": "Brian K. Vaughan",
     "year": 2015,
@@ -7424,7 +7436,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Mccoy"
+      "MMC"
     ],
     "author": "Joseph Campbell",
     "year": 1990,
@@ -7436,8 +7448,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "PaulM",
-      "Haje"
+      "PM",
+      "HJK"
     ],
     "status": "queued",
     "title": "The Power Broker",
@@ -7448,7 +7460,7 @@
     "category": "game",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "status": "queued",
     "title": "Slime Rancher 2",
@@ -7460,7 +7472,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Evan Becca foend"
+      "EBF"
     ],
     "status": "queued",
     "title": "Shōgun",
@@ -7472,7 +7484,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Nathalie"
+      "NH"
     ],
     "status": "queued",
     "title": "Einstein's Dreams",
@@ -7484,7 +7496,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "PaulGrasshoff"
+      "PGS"
     ],
     "status": "queued",
     "title": "The Forever War",
@@ -7579,7 +7591,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "BryanDavis"
+      "BD"
     ],
     "status": "queued",
     "title": "Conquistador",
@@ -7598,8 +7610,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Becca",
-      "Maus"
+      "BMB",
+      "MP"
     ],
     "status": "queued",
     "title": "Children of Ruin",
@@ -7621,7 +7633,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "NatoSaicheck"
+      "NS"
     ],
     "status": "queued",
     "title": "Unnatural Selection",
@@ -7633,7 +7645,7 @@
     "checked": true,
     "director": "Tarsem Singh",
     "recommended_by": [
-      "David Origin"
+      "DO"
     ],
     "status": "queued",
     "title": "The Fall",
@@ -7645,7 +7657,7 @@
     "checked": true,
     "director": "Dean Fleischer Camp",
     "recommended_by": [
-      "EmmaAinge"
+      "EAI"
     ],
     "status": "queued",
     "title": "Marcel the Shell with Shoes On",
@@ -7657,7 +7669,7 @@
     "checked": true,
     "director": "Sally Potter",
     "recommended_by": [
-      "NickPinkston"
+      "NP"
     ],
     "status": "queued",
     "title": "The Party",
@@ -7669,7 +7681,7 @@
     "checked": true,
     "director": "Bryan Singer",
     "recommended_by": [
-      "Ashley"
+      "AME"
     ],
     "status": "queued",
     "title": "The Usual Suspects",
@@ -7681,7 +7693,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "status": "queued",
     "title": "The End of Error",
@@ -7692,8 +7704,8 @@
     "category": "series",
     "checked": true,
     "recommended_by": [
-      "CodyDaniel",
-      "Naval"
+      "CD",
+      "NR"
     ],
     "status": "queued",
     "title": "The Sandman",
@@ -7714,8 +7726,8 @@
     "category": "game",
     "checked": true,
     "recommended_by": [
-      "John Welsh",
-      "MeganA"
+      "JWE",
+      "MEA"
     ],
     "status": "queued",
     "title": "Portal 2",
@@ -7726,7 +7738,7 @@
     "category": "tv",
     "checked": true,
     "recommended_by": [
-      "ShaneG"
+      "SG"
     ],
     "status": "queued",
     "title": "The Man Who Fell to Earth",
@@ -7738,7 +7750,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Xiao"
+      "XY"
     ],
     "status": "queued",
     "title": "American Moonshot",
@@ -7750,7 +7762,7 @@
     "checked": true,
     "director": "Jonathan Demme",
     "recommended_by": [
-      "Camille"
+      "CN"
     ],
     "status": "queued",
     "title": "Stop Making Sense",
@@ -7762,7 +7774,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "status": "queued",
     "title": "What Technology Wants",
@@ -7774,7 +7786,7 @@
     "category": "topic",
     "checked": true,
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "status": "queued",
     "title": "The Technium",
@@ -7785,7 +7797,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "CodyDaniel"
+      "CD"
     ],
     "status": "queued",
     "title": "Algorithms to Live By",
@@ -7797,8 +7809,8 @@
     "checked": true,
     "director": "Nathan Fielder",
     "recommended_by": [
-      "EmmaAinge",
-      "MeganK"
+      "EAI",
+      "MKI"
     ],
     "status": "queued",
     "title": "The Rehearsal",
@@ -7810,7 +7822,7 @@
     "checked": true,
     "director": "Judy Irving",
     "recommended_by": [
-      "RobertHarris"
+      "RH"
     ],
     "status": "queued",
     "title": "The Wild Parrots of Telegraph Hill",
@@ -7822,7 +7834,7 @@
     "checked": true,
     "director": "Mike White",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "status": "queued",
     "title": "The White Lotus",
@@ -7834,7 +7846,7 @@
     "checked": true,
     "director": "Tony Gilroy",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "status": "queued",
     "title": "Andor",
@@ -7844,7 +7856,7 @@
   {
     "checked": true,
     "recommended_by": [
-      "Verbal"
+      "VK"
     ],
     "status": "queued",
     "title": "Chicken John's book"
@@ -7854,7 +7866,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "DocBrown"
+      "DEB"
     ],
     "status": "queued",
     "title": "Lords of the Harvest",
@@ -7869,7 +7881,7 @@
     "year": 1997,
     "url": "https://en.wikipedia.org/wiki/The_Game_(1997_film)",
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "checked": true
   },
@@ -7879,7 +7891,7 @@
     "status": "queued",
     "url": "https://en.wikipedia.org/wiki/David_Lang_(composer)",
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "checked": true
   },
@@ -7890,7 +7902,7 @@
     "year": 2022,
     "url": "https://en.wikipedia.org/wiki/Tunic_(video_game)",
     "recommended_by": [
-      "EmmaAinge"
+      "EAI"
     ],
     "checked": true
   },
@@ -7902,7 +7914,7 @@
     "year": 1983,
     "url": "https://en.wikipedia.org/wiki/The_Discoverers",
     "recommended_by": [
-      "DanAinge"
+      "DA"
     ],
     "checked": true
   },
@@ -7913,7 +7925,7 @@
     "author": "Nan Brown",
     "year": 1996,
     "recommended_by": [
-      "KateS"
+      "KS"
     ],
     "checked": true
   },
@@ -7921,8 +7933,8 @@
     "title": "Intention of Nature, The",
     "status": "queued",
     "recommended_by": [
-      "KateS",
-      "Sean K"
+      "KS",
+      "SK"
     ],
     "checked": true
   },
@@ -7934,8 +7946,8 @@
     "year": 2018,
     "url": "https://en.wikipedia.org/wiki/Robert_Greene_(American_author)",
     "recommended_by": [
-      "Molly Maloof",
-      "Samira"
+      "MMA",
+      "SA"
     ],
     "checked": true
   },
@@ -7947,7 +7959,7 @@
     "year": 2011,
     "url": "https://en.wikipedia.org/wiki/How_the_Hippies_Saved_Physics",
     "recommended_by": [
-      "Francaismichela"
+      "FM"
     ],
     "checked": true
   },
@@ -7990,8 +8002,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "KatyP",
-      "MeganK"
+      "KP",
+      "MKI"
     ],
     "director": "Liz Canner",
     "year": 2009,
@@ -8003,8 +8015,8 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "AlexFeerst",
-      "MeganK"
+      "AF",
+      "MKI"
     ],
     "year": 2022,
     "url": "https://en.wikipedia.org/wiki/The_Peripheral_(TV_series)",
@@ -8015,7 +8027,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Tom Goodman"
+      "TG"
     ],
     "director": "Morten Tyldum",
     "year": 2016,
@@ -8027,7 +8039,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "FrancesW"
+      "FW"
     ],
     "author": "Arkady and Boris Strugatsky",
     "year": 1972,
@@ -8039,7 +8051,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Camilla T"
+      "CT"
     ],
     "author": "Katherine Stewart",
     "year": 2020,
@@ -8052,7 +8064,7 @@
     "status": "queued",
     "recommended_by": [
       "WKZ",
-      "Naval"
+      "NR"
     ],
     "checked": true
   },
@@ -8061,7 +8073,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "JoshG"
+      "JOG"
     ],
     "checked": true
   },
@@ -8071,7 +8083,7 @@
     "status": "queued",
     "author": "Kim Stanley Robinson",
     "recommended_by": [
-      "JeremyConrad"
+      "JCO"
     ],
     "year": 2015,
     "url": "https://en.wikipedia.org/wiki/Aurora_(novel)",
@@ -8082,7 +8094,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Mez"
+      "RN"
     ],
     "author": "Anthony Scaramucci",
     "year": 2010,
@@ -8095,7 +8107,7 @@
     "status": "queued",
     "author": "Robert Wright",
     "recommended_by": [
-      "Mez"
+      "RN"
     ],
     "year": 1999,
     "url": "https://en.wikipedia.org/wiki/Nonzero:_The_Logic_of_Human_Destiny",
@@ -8107,7 +8119,7 @@
     "status": "queued",
     "author": "Chinua Achebe",
     "recommended_by": [
-      "Galen"
+      "GM"
     ],
     "year": 1958,
     "url": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
@@ -8119,7 +8131,7 @@
     "status": "queued",
     "author": "Honoré de Balzac",
     "recommended_by": [
-      "BrinO"
+      "BO"
     ],
     "year": 1837,
     "url": "https://en.wikipedia.org/wiki/Lost_Illusions",
@@ -8131,7 +8143,7 @@
     "status": "queued",
     "director": "Bradley Cooper",
     "recommended_by": [
-      "BrinO"
+      "BO"
     ],
     "year": 2018,
     "url": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(2018_film)",
@@ -8149,7 +8161,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Anna Marie"
+      "AMC"
     ],
     "checked": true
   },
@@ -8159,7 +8171,7 @@
     "status": "queued",
     "director": "Todd Field",
     "recommended_by": [
-      "BrinO"
+      "BO"
     ],
     "year": 2022,
     "url": "https://en.wikipedia.org/wiki/T%C3%A1r",
@@ -8179,7 +8191,7 @@
     "status": "queued",
     "author": "João Magueijo",
     "recommended_by": [
-      "PatrickBlu"
+      "PBL"
     ],
     "year": 2003,
     "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Magueijo",
@@ -8191,7 +8203,7 @@
     "status": "queued",
     "author": "David Graeber and David Wengrow",
     "recommended_by": [
-      "SteveMassey"
+      "STM"
     ],
     "year": 2021,
     "url": "https://en.wikipedia.org/wiki/The_Dawn_of_Everything",
@@ -8213,9 +8225,9 @@
     "category": "game",
     "checked": true,
     "recommended_by": [
-      "AlexFeerst",
-      "EmmaAinge",
-      "MeganA"
+      "AF",
+      "EAI",
+      "MEA"
     ],
     "status": "queued",
     "title": "The Last of Us",
@@ -8227,7 +8239,7 @@
     "checked": true,
     "director": "Dana Terrace",
     "recommended_by": [
-      "David Origin"
+      "DO"
     ],
     "status": "queued",
     "title": "Owl House, The",
@@ -8240,7 +8252,7 @@
     "checked": true,
     "notes": "Series of 10 books",
     "recommended_by": [
-      "Maus"
+      "MP"
     ],
     "status": "queued",
     "title": "Cradle, The",
@@ -8252,7 +8264,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Maus"
+      "MP"
     ],
     "status": "queued",
     "title": "Space Team",
@@ -8264,7 +8276,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "AlexFeerst"
+      "AF"
     ],
     "status": "queued",
     "title": "Rehearsal, The",
@@ -8276,9 +8288,9 @@
     "checked": true,
     "director": "Ruben Östlund",
     "recommended_by": [
-      "AlexFeerst",
-      "BenE",
-      "MeganK"
+      "AF",
+      "BE",
+      "MKI"
     ],
     "status": "queued",
     "title": "Triangle of Sadness",
@@ -8290,8 +8302,8 @@
     "checked": true,
     "director": "Ruben Östlund",
     "recommended_by": [
-      "BenE",
-      "MeganK"
+      "BE",
+      "MKI"
     ],
     "status": "queued",
     "title": "Square, The",
@@ -8303,7 +8315,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "DanielleS"
+      "DS"
     ],
     "status": "queued",
     "title": "Paper Belt on Fire",
@@ -8315,7 +8327,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "DanielleS"
+      "DS"
     ],
     "status": "queued",
     "title": "Grit",
@@ -8330,7 +8342,7 @@
     "year": 2020,
     "url": "https://en.wikipedia.org/wiki/The_Space_Between_Worlds",
     "recommended_by": [
-      "KarenCc"
+      "KC"
     ],
     "checked": true
   },
@@ -8342,7 +8354,7 @@
     "year": 1968,
     "url": "https://en.wikipedia.org/wiki/The_Last_Unicorn",
     "recommended_by": [
-      "KarenCc"
+      "KC"
     ],
     "checked": true
   },
@@ -8353,7 +8365,7 @@
     "year": 2018,
     "url": "https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)",
     "recommended_by": [
-      "PatrickBlu"
+      "PBL"
     ],
     "checked": true
   },
@@ -8364,7 +8376,7 @@
     "year": 2016,
     "url": "https://en.wikipedia.org/wiki/No_Man%27s_Sky",
     "recommended_by": [
-      "PatrickBlu"
+      "PBL"
     ],
     "checked": true
   },
@@ -8375,7 +8387,7 @@
     "year": 2023,
     "url": "https://en.wikipedia.org/wiki/Shrinking_(TV_series)",
     "recommended_by": [
-      "George"
+      "GH"
     ],
     "checked": true
   },
@@ -8387,7 +8399,7 @@
     "year": 2022,
     "url": "https://en.wikipedia.org/wiki/Light_%26_Magic_(TV_series)",
     "recommended_by": [
-      "Verbal"
+      "VK"
     ],
     "checked": true
   },
@@ -8399,8 +8411,8 @@
     "year": 2015,
     "url": "https://en.wikipedia.org/wiki/Solenoid_(novel)",
     "recommended_by": [
-      "Andrei",
-      "Verbal"
+      "AND",
+      "VK"
     ],
     "checked": true
   },
@@ -8412,7 +8424,7 @@
     "year": 2022,
     "url": "https://www.imdb.com/title/tt15566896/",
     "recommended_by": [
-      "BenCerveny"
+      "BC"
     ],
     "checked": true
   },
@@ -8424,7 +8436,7 @@
     "year": 2016,
     "url": "https://en.wikipedia.org/wiki/Born_a_Crime",
     "recommended_by": [
-      "MegRosssoni"
+      "MER"
     ],
     "checked": true
   },
@@ -8433,7 +8445,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "status": "queued",
     "title": "Imperial Science: Cable Telegraphy and Electrical Physics in the Victorian British Empire",
@@ -8445,7 +8457,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "MichaelGibson"
+      "MGI"
     ],
     "status": "queued",
     "title": "A Long Night in Paris",
@@ -8456,7 +8468,7 @@
     "category": "game",
     "checked": true,
     "recommended_by": [
-      "David Origin"
+      "DO"
     ],
     "status": "queued",
     "title": "Slay the Spire",
@@ -8468,7 +8480,7 @@
     "category": "game",
     "checked": true,
     "recommended_by": [
-      "David Origin"
+      "DO"
     ],
     "status": "queued",
     "title": "Universal Paperclips",
@@ -8480,7 +8492,7 @@
     "checked": true,
     "director": "Phil Tippett",
     "recommended_by": [
-      "Verbal"
+      "VK"
     ],
     "status": "queued",
     "title": "Mad God",
@@ -8493,7 +8505,7 @@
     "checked": true,
     "notes": "Youtube",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "status": "queued",
     "title": "Geology Lectures",
@@ -8504,7 +8516,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "status": "queued",
     "title": "Deasert Books (category)"
@@ -8526,7 +8538,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Grinich"
+      "MGR"
     ],
     "status": "queued",
     "title": "Play Nice But Win",
@@ -8537,7 +8549,7 @@
     "checked": true,
     "director": "Kathryn Bigelow",
     "recommended_by": [
-      "Grinich"
+      "MGR"
     ],
     "status": "queued",
     "title": "Point Break",
@@ -8549,7 +8561,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Mccoy"
+      "MMC"
     ],
     "author": "Kai Bird and Martin J. Sherwin",
     "year": 2005,
@@ -8561,7 +8573,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "DavidPark"
+      "DPA"
     ],
     "author": "Bill Bryson",
     "year": 2003,
@@ -8573,7 +8585,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Kenthesimp"
+      "KT"
     ],
     "author": "Patrick Ness",
     "year": 2008,
@@ -8585,8 +8597,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "JessVibes",
-      "Vividvoid"
+      "JV",
+      "VV"
     ],
     "checked": true
   },
@@ -8595,7 +8607,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "PaigeBailey"
+      "PB"
     ],
     "author": "A. Michael Noll and Michael Geselowitz",
     "year": 2011,
@@ -8606,7 +8618,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "CaseyTwitter"
+      "CA"
     ],
     "url": "https://en.wikipedia.org/wiki/Upanishads",
     "checked": true
@@ -8625,7 +8637,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "DanAinge"
+      "DA"
     ],
     "author": "Sarah J. Maas",
     "year": 2015,
@@ -8637,7 +8649,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Lauren"
+      "LBH"
     ],
     "author": "Travis Baldree",
     "year": 2022,
@@ -8649,7 +8661,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Lauren"
+      "LBH"
     ],
     "author": "Gabrielle Zevin",
     "year": 2022,
@@ -8661,7 +8673,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Paulo"
+      "PAU"
     ],
     "status": "queued",
     "title": "Parenting from the Inside Out",
@@ -8672,7 +8684,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Lauren"
+      "LBH"
     ],
     "status": "done",
     "title": "The Swimming Pool",
@@ -8683,9 +8695,9 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Anya",
-      "KateMcAndrew",
-      "Maus"
+      "ANY",
+      "KM",
+      "MP"
     ],
     "status": "done",
     "title": "Circe",
@@ -8708,7 +8720,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "KateMcAndrew"
+      "KM"
     ],
     "status": "queued",
     "title": "The Song of Achilles",
@@ -8720,7 +8732,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "AmyBrand"
+      "ABD"
     ],
     "status": "queued",
     "title": "Remarkably Bright Creatures",
@@ -8732,7 +8744,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Camilla T"
+      "CT"
     ],
     "status": "queued",
     "title": "Ninth House",
@@ -8744,7 +8756,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Camilla T"
+      "CT"
     ],
     "status": "queued",
     "title": "Hell Bent",
@@ -8768,8 +8780,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Twitter",
-      "Naval"
+      "TW",
+      "NR"
     ],
     "author": "James Dale Davidson and William Rees-Mogg",
     "year": 1997,
@@ -8781,7 +8793,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "author": "Hasard Lee",
     "year": 2023,
@@ -8794,7 +8806,7 @@
     "status": "queued",
     "author": "Giulia Enders",
     "recommended_by": [
-      "TatiS"
+      "TS"
     ],
     "year": 2014,
     "url": "https://en.wikipedia.org/wiki/Giulia_Enders",
@@ -8805,7 +8817,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "AntonJ"
+      "ANJ"
     ],
     "author": "John Bloom",
     "year": 2016,
@@ -8817,7 +8829,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "author": "Bleddyn E. Bowen",
     "year": 2022,
@@ -8829,7 +8841,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "author": "Jack London",
     "year": 1908,
@@ -8851,9 +8863,9 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "John Welsh",
-      "KateS",
-      "Sean K"
+      "JWE",
+      "KS",
+      "SK"
     ],
     "author": "David Graeber and David Wengrow",
     "year": 2021,
@@ -8865,7 +8877,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "BrinEnterkin"
+      "BEN"
     ],
     "author": "Dan Buettner",
     "year": 2008,
@@ -8877,7 +8889,7 @@
     "category": "tv",
     "status": "queued",
     "recommended_by": [
-      "Lynn"
+      "LD"
     ],
     "director": "Cynthia Wade",
     "year": 2023,
@@ -8898,7 +8910,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Matt Wraith"
+      "MW"
     ],
     "author": "Beverly Gage",
     "year": 2022,
@@ -8910,7 +8922,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Jackie"
+      "JB"
     ],
     "author": "Edgar Allan Poe",
     "year": 1839,
@@ -8934,7 +8946,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "author": "Katee Robert",
     "year": 2022,
@@ -8946,7 +8958,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Lyra"
+      "LLE"
     ],
     "author": "Ilona Andrews",
     "year": 2013,
@@ -8970,7 +8982,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "MarkLauer"
+      "ML"
     ],
     "author": "James Nestor",
     "year": 2020,
@@ -8982,7 +8994,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "GregEgan"
+      "GEG"
     ],
     "author": "John le Carré",
     "year": 2016,
@@ -8994,7 +9006,7 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "year": 2023,
     "url": "https://en.wikipedia.org/wiki/Blue_Eye_Samurai",
@@ -9028,7 +9040,7 @@
     "year": 2023,
     "url": "https://en.wikipedia.org/wiki/Starfield_(video_game)",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "checked": true
   },
@@ -9050,7 +9062,7 @@
     "status": "done",
     "url": "https://mirrorsea.xyz/",
     "recommended_by": [
-      "ChrisPaika"
+      "CP"
     ],
     "checked": true,
     "rating": 3
@@ -9058,14 +9070,15 @@
   {
     "title": "The Way of Kings",
     "category": "book",
-    "status": "queued",
+    "status": "done",
     "author": "Brandon Sanderson",
     "year": 2010,
     "url": "https://en.wikipedia.org/wiki/The_Way_of_Kings",
     "recommended_by": [
-      "KristenBrann"
+      "KB"
     ],
-    "checked": true
+    "checked": true,
+    "rating": 5
   },
   {
     "title": "True Names",
@@ -9085,9 +9098,9 @@
     "year": 2014,
     "url": "https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows",
     "recommended_by": [
-      "JenPerkins",
-      "MeganA",
-      "NathanKrieger"
+      "JPE",
+      "MEA",
+      "NK"
     ],
     "checked": true
   },
@@ -9098,8 +9111,8 @@
     "year": 2007,
     "url": "https://en.wikipedia.org/wiki/Flight_of_the_Conchords_(TV_series)",
     "recommended_by": [
-      "JenPerkins",
-      "NathanKrieger"
+      "JPE",
+      "NK"
     ],
     "checked": true
   },
@@ -9145,7 +9158,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Mccoy"
+      "MMC"
     ],
     "status": "queued",
     "title": "A Primate's Memoir",
@@ -9157,7 +9170,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Mccoy"
+      "MMC"
     ],
     "status": "queued",
     "title": "Determined: A Science of Life Without Free Will",
@@ -9167,7 +9180,7 @@
   {
     "checked": true,
     "recommended_by": [
-      "CatOrman"
+      "CO"
     ],
     "status": "queued",
     "title": "Storm, the"
@@ -9177,7 +9190,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Geoff"
+      "GE"
     ],
     "status": "queued",
     "title": "All Joy and No Fun",
@@ -9208,7 +9221,7 @@
     "checked": true,
     "director": "Sam Esmail",
     "recommended_by": [
-      "MeganK"
+      "MKI"
     ],
     "status": "queued",
     "title": "Leave the World Behind",
@@ -9220,7 +9233,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "EdwinKite"
+      "EK"
     ],
     "status": "queued",
     "title": "The Voice of the Dolphins and Other Stories",
@@ -9232,7 +9245,7 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "Gregory"
+      "GC"
     ],
     "author": "Brandon Sanderson",
     "year": 2010,
@@ -9256,7 +9269,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "JoshManchester"
+      "JMA"
     ],
     "author": "Ryan Landry",
     "year": 2020,
@@ -9267,7 +9280,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "JoshManchester"
+      "JMA"
     ],
     "checked": true
   },
@@ -9276,7 +9289,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "JoshManchester"
+      "JMA"
     ],
     "author": "Nick Land",
     "year": 2013,
@@ -9288,7 +9301,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "JoshManchester"
+      "JMA"
     ],
     "checked": true,
     "author": "David Deida",
@@ -9300,7 +9313,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "JoshManchester",
+      "JMA",
       "WQ"
     ],
     "author": "James Burnham",
@@ -9324,7 +9337,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Mccoy"
+      "MMC"
     ],
     "author": "Ed Yong",
     "year": 2022,
@@ -9348,7 +9361,7 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "director": "Johan Renck",
     "year": 2019,
@@ -9360,7 +9373,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "PhilLarochelle"
+      "PL"
     ],
     "author": "Neal Stephenson",
     "year": 2003,
@@ -9372,7 +9385,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "Gerald"
+      "GS"
     ],
     "director": "Cord Jefferson",
     "year": 2023,
@@ -9384,7 +9397,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Chowdah"
+      "CHH"
     ],
     "author": "Sam Walker",
     "year": 2017,
@@ -9396,7 +9409,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Chowdah"
+      "CHH"
     ],
     "author": "The Arbinger Institute",
     "year": 2000,
@@ -9408,7 +9421,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Chowdah"
+      "CHH"
     ],
     "author": "The Arbinger Institute",
     "year": 2016,
@@ -9420,7 +9433,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Chowdah"
+      "CHH"
     ],
     "author": "Steve Magness",
     "year": 2022,
@@ -9432,7 +9445,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Chowdah"
+      "CHH"
     ],
     "author": "Plutarch",
     "url": "https://en.wikipedia.org/wiki/Plutarch",
@@ -9443,9 +9456,9 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "CaseyTwitter",
-      "Mccoy",
-      "Naval"
+      "CA",
+      "MMC",
+      "NR"
     ],
     "author": "Vyasa",
     "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
@@ -9457,9 +9470,9 @@
     "status": "queued",
     "recommended_by": [
       "AMC",
-      "AlexFeerst",
-      "Anselm",
-      "Matt Faulkner"
+      "AF",
+      "ALV",
+      "MF"
     ],
     "notes": "Ask Anselem for which translation",
     "author": "Herodotus",
@@ -9483,7 +9496,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Radu"
+      "RAD"
     ],
     "author": "David Barrie",
     "year": 2014,
@@ -9495,7 +9508,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Shae"
+      "ST"
     ],
     "author": "John C. Maxwell",
     "year": 2005,
@@ -9507,7 +9520,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Shae"
+      "ST"
     ],
     "author": "Stephen M. R. Covey",
     "year": 2006,
@@ -9520,7 +9533,7 @@
     "status": "queued",
     "author": "Adam Grant",
     "recommended_by": [
-      "Shae"
+      "ST"
     ],
     "year": 2018,
     "url": "https://www.ted.com/podcasts/worklife",
@@ -9531,7 +9544,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "MajSeanAllen"
+      "MSA"
     ],
     "author": "H. Keith Melton and Robert Wallace",
     "year": 2009,
@@ -9543,7 +9556,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Jurvetson"
+      "SJ"
     ],
     "author": "Kelly Weinersmith and Zach Weinersmith",
     "year": 2023,
@@ -9575,7 +9588,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "AnthonyArroyo"
+      "AA"
     ],
     "author": "Christian Brose",
     "year": 2020,
@@ -9623,7 +9636,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "DavidBlumen"
+      "DBL"
     ],
     "author": "Larry Niven",
     "year": 1970,
@@ -9635,7 +9648,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "EmmetShear"
+      "ES"
     ],
     "url": "https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind",
     "author": "Thomas Parr, Giovanni Pezzulo, Karl J. Friston",
@@ -9647,7 +9660,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "MitchA"
+      "MIA"
     ],
     "checked": true,
     "author": "Arthur Herman",
@@ -9659,7 +9672,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "HenryValence"
+      "HV"
     ],
     "url": "https://mitpress.mit.edu/9780262631471/inventing-accuracy/",
     "author": "Donald MacKenzie",
@@ -9671,7 +9684,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "HenryValence"
+      "HV"
     ],
     "url": "https://www.upress.umn.edu/book-division/books/the-eye-of-war",
     "author": "Antoine Bousquet",
@@ -9683,7 +9696,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "author": "Sabine Hossenfelder",
     "year": 2018,
@@ -9695,7 +9708,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "AbeM"
+      "AM"
     ],
     "author": "Marian L. Tupy, Gale L. Pooley",
     "year": 2022,
@@ -9707,7 +9720,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "LizFarber"
+      "LF"
     ],
     "author": "Liz W. Faber",
     "year": 2020,
@@ -9719,7 +9732,7 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "author": "Christopher Ruocchio",
     "year": 2018,
@@ -9741,7 +9754,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Nehal"
+      "NE"
     ],
     "author": "Liam Drew",
     "year": 2017,
@@ -9753,7 +9766,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Anselm"
+      "ALV"
     ],
     "notes": "(Re decarbonization)",
     "author": "Vaclav Smil",
@@ -9776,7 +9789,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Twitter"
+      "TW"
     ],
     "author": "Neale Donald Walsch",
     "year": 1995,
@@ -9788,7 +9801,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "director": "Luca Guadagnino",
     "year": 2024,
@@ -9800,7 +9813,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Shae"
+      "ST"
     ],
     "author": "Brene Brown",
     "year": 2021,
@@ -9812,7 +9825,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Shae"
+      "ST"
     ],
     "author": "Brene Brown",
     "year": 2017,
@@ -9824,8 +9837,8 @@
     "category": "book",
     "status": "done",
     "recommended_by": [
-      "MeganA",
-      "Nathalie"
+      "MEA",
+      "NH"
     ],
     "author": "Amal El-Mohtar and Max Gladstone",
     "year": 2019,
@@ -9860,7 +9873,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "MalcomH"
+      "MAH"
     ],
     "author": "Ian Fletcher",
     "year": 2010,
@@ -9872,7 +9885,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "AlexFeerst",
+      "AF",
       "GTC"
     ],
     "director": "J. C. Chandor",
@@ -9885,7 +9898,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "year": 2023,
     "url": "https://en.wikipedia.org/wiki/Chants_of_Sennaar",
@@ -9915,7 +9928,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Balaji"
+      "BS"
     ],
     "author": "Daniel Carpenter",
     "year": 2010,
@@ -9927,7 +9940,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "rating": 3,
     "author": "Max Tegmark",
@@ -9940,7 +9953,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Grinich"
+      "MGR"
     ],
     "author": "John Sandford and Ctein",
     "year": 2015,
@@ -9952,7 +9965,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "author": "Ada Palmer",
     "year": 2016,
@@ -9964,8 +9977,8 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "John Welsh",
-      "MeganA"
+      "JWE",
+      "MEA"
     ],
     "year": 2022,
     "url": "https://en.wikipedia.org/wiki/Muster_Dogs",
@@ -9976,7 +9989,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "John Welsh"
+      "JWE"
     ],
     "year": 2021,
     "url": "https://en.wikipedia.org/wiki/Dyson_Sphere_Program",
@@ -9987,7 +10000,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "GabeMartinDempesy"
+      "GMD"
     ],
     "year": 2023,
     "url": "https://en.wikipedia.org/wiki/Cocoon_(video_game)",
@@ -9998,8 +10011,8 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "JohnathanMohan",
-      "RobertHarris"
+      "JOM",
+      "RH"
     ],
     "year": 2022,
     "url": "https://en.wikipedia.org/wiki/Pantheon_(TV_series)",
@@ -10011,9 +10024,9 @@
     "status": "in-progress",
     "recommended_by": [
       "DFR",
-      "John Welsh",
-      "MeganA",
-      "RobertHarris"
+      "JWE",
+      "MEA",
+      "RH"
     ],
     "year": 2022,
     "url": "https://en.wikipedia.org/wiki/Slow_Horses",
@@ -10024,8 +10037,8 @@
     "category": "series",
     "status": "queued",
     "recommended_by": [
-      "Anselm",
-      "Neal S"
+      "ALV",
+      "NES"
     ],
     "year": 2010,
     "url": "https://en.wikipedia.org/wiki/Luther_(TV_series)",
@@ -10036,7 +10049,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "LizGoodman"
+      "LG"
     ],
     "author": "Martha Wells",
     "year": 2017,
@@ -10048,7 +10061,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Sean K"
+      "SK"
     ],
     "author": "Emily Tesh",
     "year": 2023,
@@ -10060,7 +10073,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Alanna"
+      "ASL"
     ],
     "url": "https://en.wikipedia.org/wiki/Tristan_Needham",
     "checked": true,
@@ -10072,7 +10085,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "Timberwind"
+      "JT"
     ],
     "checked": true,
     "author": "Matthew B. Crawford",
@@ -10094,7 +10107,7 @@
     "category": "game",
     "status": "queued",
     "recommended_by": [
-      "Maus"
+      "MP"
     ],
     "checked": true,
     "year": 2024,
@@ -10105,7 +10118,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "RobertHarris"
+      "RH"
     ],
     "checked": true,
     "director": "Mel Brooks",
@@ -10117,7 +10130,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "John Welsh"
+      "JWE"
     ],
     "checked": true,
     "author": "Philipp Dettmer",
@@ -10129,7 +10142,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "ChristianKyle"
+      "CK"
     ],
     "checked": true,
     "author": "Vaclav Smil",
@@ -10141,7 +10154,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "LaurenTan"
+      "LT"
     ],
     "status": "queued",
     "title": "High Weirdness: Drugs, Esoterica, and Visionary Experience in the Seventies",
@@ -10153,7 +10166,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Elenor"
+      "EP"
     ],
     "status": "queued",
     "title": "Fourth Wing",
@@ -10177,8 +10190,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "DavidBrandman",
-      "SarahMiller"
+      "DBR",
+      "SMI"
     ],
     "status": "queued",
     "title": "Moonwalking with Einstein",
@@ -10190,7 +10203,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "RyanSinger"
+      "RSI"
     ],
     "status": "queued",
     "title": "Engines of Creation",
@@ -10223,7 +10236,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "AaronT"
+      "AT"
     ],
     "status": "queued",
     "title": "Dragon's Egg",
@@ -10235,8 +10248,8 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "DanAinge",
-      "Lack"
+      "DA",
+      "LA"
     ],
     "status": "queued",
     "title": "Playground",
@@ -10248,7 +10261,7 @@
     "checked": true,
     "director": "Jérémie Périn",
     "recommended_by": [
-      "DanAinge"
+      "DA"
     ],
     "status": "queued",
     "title": "Mars Express",
@@ -10272,8 +10285,8 @@
     "checked": true,
     "director": "Gideon Raff",
     "recommended_by": [
-      "AaronT",
-      "EmilyClifton"
+      "AT",
+      "ECL"
     ],
     "status": "queued",
     "title": "The Spy",
@@ -10285,9 +10298,9 @@
     "checked": true,
     "director": "Rory Kennedy",
     "recommended_by": [
-      "Creon",
-      "JimmySastra",
-      "PeterWang"
+      "CL",
+      "JS",
+      "PW"
     ],
     "status": "queued",
     "title": "Downfall: The Case Against Boeing",
@@ -10299,7 +10312,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "RichTurion"
+      "RT"
     ],
     "status": "queued",
     "title": "Barbarian Days: A Surfing Life",
@@ -10311,7 +10324,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "Matt Faulkner"
+      "MF"
     ],
     "status": "queued",
     "title": "Fifteen Dogs",
@@ -10323,8 +10336,8 @@
     "checked": true,
     "director": "Sam Cullman, Jennifer Grausman",
     "recommended_by": [
-      "Matt Faulkner",
-      "Jane Wang"
+      "MF",
+      "JW"
     ],
     "status": "queued",
     "title": "Art and Craft",
@@ -10337,7 +10350,7 @@
     "checked": true,
     "notes": "Audiobooks",
     "recommended_by": [
-      "Paulina"
+      "BP"
     ],
     "status": "queued",
     "title": "Meditation on Midlife"
@@ -10347,7 +10360,7 @@
     "checked": true,
     "director": "Skye Borgman",
     "recommended_by": [
-      "MarkRoberts"
+      "MRO"
     ],
     "status": "queued",
     "title": "Evil Influencer: The Jodi Hildebrandt Story",
@@ -10359,7 +10372,7 @@
     "category": "book",
     "checked": true,
     "recommended_by": [
-      "MeganA"
+      "MEA"
     ],
     "status": "queued",
     "title": "Closer",
@@ -10374,7 +10387,7 @@
     "year": 1989,
     "url": "https://en.wikipedia.org/wiki/The_Last_Legends_of_Earth",
     "recommended_by": [
-      "LydiaL"
+      "LL"
     ],
     "checked": true
   },
@@ -10386,7 +10399,7 @@
     "year": 2004,
     "url": "https://en.wikipedia.org/wiki/Metallica:_Some_Kind_of_Monster",
     "recommended_by": [
-      "AlexFeerst"
+      "AF"
     ],
     "checked": true
   },
@@ -10398,7 +10411,7 @@
     "year": 2019,
     "url": "https://en.wikipedia.org/wiki/Jojo_Rabbit",
     "recommended_by": [
-      "AaronT"
+      "AT"
     ],
     "checked": true
   },
@@ -10410,7 +10423,7 @@
     "year": 1962,
     "url": "https://en.wikipedia.org/wiki/Lonely_Are_the_Brave",
     "recommended_by": [
-      "AaronT"
+      "AT"
     ],
     "checked": true
   },
@@ -10422,7 +10435,7 @@
     "year": 2023,
     "url": "https://www.goodreads.com/book/show/151908910-how-it-unfolds",
     "recommended_by": [
-      "GuidoMeggie"
+      "G+M"
     ],
     "checked": true
   },
@@ -10434,7 +10447,7 @@
     "year": 2020,
     "url": "https://en.wikipedia.org/wiki/Limbo_(2020_film)",
     "recommended_by": [
-      "DazeBeast1gmail.com"
+      "DB1"
     ],
     "checked": true
   },
@@ -10445,7 +10458,7 @@
     "year": 2019,
     "url": "https://en.wikipedia.org/wiki/Undone_(TV_series)",
     "recommended_by": [
-      "Shary"
+      "SH"
     ],
     "checked": true
   },
@@ -10457,9 +10470,9 @@
     "year": 2019,
     "url": "https://en.wikipedia.org/wiki/Uncut_Gems",
     "recommended_by": [
-      "BrianA",
-      "Ethan",
-      "Sqrl"
+      "BRA",
+      "EC",
+      "IC"
     ],
     "checked": true
   },
@@ -10471,7 +10484,7 @@
     "year": 2016,
     "url": "https://www.penguinrandomhouse.com/books/315726/the-glass-universe-by-dava-sobel/",
     "recommended_by": [
-      "Jazz"
+      "JA"
     ],
     "checked": true
   },
@@ -10481,7 +10494,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Osho"
   },
@@ -10491,7 +10504,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Osho"
   },
@@ -10501,7 +10514,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Richard Feynman"
   },
@@ -10511,7 +10524,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Richard Feynman"
   },
@@ -10521,7 +10534,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Richard Feynman"
   },
@@ -10531,7 +10544,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Richard Feynman"
   },
@@ -10541,7 +10554,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Richard Feynman"
   },
@@ -10551,7 +10564,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Kamal Ravikant"
   },
@@ -10561,7 +10574,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Kamal Ravikant"
   },
@@ -10571,7 +10584,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Carlo Rovelli"
   },
@@ -10581,7 +10594,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Carlo Rovelli"
   },
@@ -10591,7 +10604,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Carlo Rovelli"
   },
@@ -10601,7 +10614,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "David Deutsch"
   },
@@ -10611,7 +10624,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "David Deutsch"
   },
@@ -10621,7 +10634,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Karl Popper"
   },
@@ -10631,7 +10644,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Karl Popper"
   },
@@ -10641,7 +10654,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Will Durant and Ariel Durant"
   },
@@ -10651,7 +10664,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Will Durant"
   },
@@ -10661,7 +10674,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Will Durant"
   },
@@ -10671,7 +10684,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Scott Adams"
   },
@@ -10681,7 +10694,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Scott Adams"
   },
@@ -10691,7 +10704,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Douglas Adams"
   },
@@ -10701,7 +10714,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Douglas Adams"
   },
@@ -10711,7 +10724,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Charlie Munger"
   },
@@ -10721,7 +10734,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Kahlil Gibran"
   },
@@ -10731,7 +10744,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Gary Taubes"
   },
@@ -10741,7 +10754,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Nisargadatta Maharaj"
   },
@@ -10751,7 +10764,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Benjamin Franklin"
   },
@@ -10761,7 +10774,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Bruce Lee"
   },
@@ -10771,7 +10784,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Lao Tzu"
   },
@@ -10781,7 +10794,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Yamamoto Tsunetomo"
   },
@@ -10791,7 +10804,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Arthur Schopenhauer"
   },
@@ -10801,7 +10814,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Takehiko Inoue"
   },
@@ -10811,7 +10824,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Robert Cialdini"
   },
@@ -10821,7 +10834,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Richard Bach"
   },
@@ -10831,7 +10844,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Seneca"
   },
@@ -10841,7 +10854,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Scott McCloud"
   },
@@ -10851,7 +10864,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "David Deida"
   },
@@ -10861,7 +10874,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Kurt Vonnegut"
   },
@@ -10871,7 +10884,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Michael A. Singer"
   },
@@ -10881,7 +10894,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Miyamoto Musashi"
   },
@@ -10891,7 +10904,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Guy Kawasaki"
   },
@@ -10901,7 +10914,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "James Gleick"
   },
@@ -10911,7 +10924,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Alan Watts"
   },
@@ -10921,7 +10934,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Charles Darwin"
   },
@@ -10931,7 +10944,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Tim Ferriss"
   },
@@ -10941,7 +10954,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Kalid Azad"
   },
@@ -10951,7 +10964,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Friedrich Nietzsche"
   },
@@ -10961,7 +10974,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Erwin Schrödinger"
   },
@@ -10971,7 +10984,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Swami Venkatesananda"
   },
@@ -10981,7 +10994,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Henri Poincaré"
   },
@@ -10991,7 +11004,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Adam Smith"
   },
@@ -11001,7 +11014,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Christopher Alexander"
   },
@@ -11011,7 +11024,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Henry Hazlitt"
   },
@@ -11021,7 +11034,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Douglas R. Hofstadter"
   },
@@ -11031,7 +11044,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Neal Stephenson"
   },
@@ -11041,7 +11054,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Roger Zelazny"
   },
@@ -11051,7 +11064,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Roger Zelazny"
   },
@@ -11061,7 +11074,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Greg Egan"
   },
@@ -11071,7 +11084,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Ted Chiang"
   },
@@ -11081,7 +11094,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Mark Helprin"
   },
@@ -11091,7 +11104,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Hermann Hesse"
   },
@@ -11101,7 +11114,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "J.R.R. Tolkien"
   },
@@ -11111,7 +11124,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Lewis Carroll"
   },
@@ -11121,7 +11134,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Jorge Luis Borges"
   },
@@ -11131,7 +11144,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Jorge Luis Borges"
   },
@@ -11141,7 +11154,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Alan Moore"
   },
@@ -11151,7 +11164,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Warren Ellis"
   },
@@ -11161,7 +11174,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Mike Carey"
   },
@@ -11171,7 +11184,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Bill Willingham"
   },
@@ -11181,7 +11194,7 @@
     "status": "queued",
     "checked": true,
     "recommended_by": [
-      "Naval"
+      "NR"
     ],
     "author": "Garth Ennis"
   },
@@ -11194,7 +11207,474 @@
     "url": "https://en.wikipedia.org/wiki/The_Will_of_the_Many",
     "checked": true,
     "recommended_by": [
-      "MichaelAndregg"
+      "MAN"
     ]
+  },
+  {
+    "title": "Fight Right",
+    "author": "John Gottman",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Now It Can Be Told",
+    "author": "Leslie R. Groves",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Mating in Captivity",
+    "author": "Esther Perel",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Healing Back Pain",
+    "author": "John E. Sarno",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "The Greek Histories",
+    "author": "Mary Lefkowitz",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Hillbilly Elegy",
+    "author": "J. D. Vance",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 2
+  },
+  {
+    "title": "Of Boys and Men",
+    "author": "Richard V. Reeves",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "NurtureShock",
+    "author": "Po Bronson",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Anxiously Attached",
+    "author": "Jessica Baum",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "The Enneagram Guide to Waking Up",
+    "author": "Beatrice Chesnut",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Creativity: A Short and Cheerful Guide",
+    "author": "John Cleese",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Children of Ash and Elm",
+    "author": "Neil Price",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5,
+    "recommended_by": [
+      "AMC",
+      "AF"
+    ]
+  },
+  {
+    "title": "Making Ideas Happen",
+    "author": "Scott Belsky",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Eating Glass",
+    "author": "Mark D. Jacobsen",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Connect",
+    "author": "David Bradford",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4,
+    "recommended_by": [
+      "WKZ"
+    ]
+  },
+  {
+    "title": "Consider Phlebas",
+    "author": "Iain M. Banks",
+    "category": "book",
+    "status": "done",
+    "rating": 5,
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Feet of Clay",
+    "author": "Jack Watts",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Dr Space Junk vs The Universe",
+    "author": "Alice Gorman",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Delta-v",
+    "author": "Daniel Suarez",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Ninefox Gambit",
+    "author": "Yoon Ha Lee",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5,
+    "recommended_by": [
+      "LLE"
+    ]
+  },
+  {
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "American Kingpin",
+    "author": "Nick Bilton",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Bad Blood",
+    "author": "John Carreyrou",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "A Dance with Dragons",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "A History of Western Philosophy",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Abundance",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Adulthood Rites",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "An Introduction to High Voltage Engineering",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Artificial Intelligence: Theory and Practice",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Dawn",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Dune Messiah",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Foundation",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Fundamentals of Astrodynamics and Applications",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Geometric Programming for Computer Aided Design",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Grounding and Shielding Techniques in Instrumentation",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "How Round Is Your Circle?",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Imago",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Into the Cool",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01",
+    "recommended_by": [
+      "PB"
+    ]
+  },
+  {
+    "title": "Introduction to Plasma Physics",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Loving Someone with Borderline Personality Disorder",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Managing Oneself",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Measure and Construction of the Japanese House",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Meeting the Universe Halfway",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Mind-Blowing Modular Origami",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Numerical Methods for Scientists and Engineers",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Oathbringer",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
+  },
+  {
+    "title": "Refactoring",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Rhythm of War",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Searching Beyond the Stars",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Self-Made Man",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Software Engineering Economics",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Starting Strength",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "Stop Walking on Eggshells for Parents",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 3
+  },
+  {
+    "title": "The Algebraist",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "The Art of Doing Science and Engineering",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "The Happy Sleeper",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "The High-Conflict Couple",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "The Invention of Nature",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "The Man Who Sold the Moon",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "The Sense of Being Stared At",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 1
+  },
+  {
+    "title": "Use of Weapons",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Way of Play for the 21st Century",
+    "category": "book",
+    "status": "queued",
+    "date_added": "2026-04-01"
+  },
+  {
+    "title": "Wind and Truth",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 5
+  },
+  {
+    "title": "Words of Radiance",
+    "category": "book",
+    "status": "done",
+    "date_added": "2026-04-01",
+    "rating": 4
   }
 ]
