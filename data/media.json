@@ -1,5 +1,15 @@
 [
   {
+    "author": "Brianna Wiest",
+    "category": "book",
+    "date_added": "2026-04-15",
+    "recommended_by": [
+      "BP"
+    ],
+    "status": "queued",
+    "title": "100 Essays That Will Change The Way You Think"
+  },
+  {
     "title": "Far from the tree",
     "category": "book",
     "status": "queued",
