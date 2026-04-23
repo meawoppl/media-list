@@ -161,41 +161,6 @@ nav a.filter:hover {
   min-width: 120px;
 }
 
-.dist {
-  display: flex;
-  flex-direction: column;
-  gap: 1px;
-  font-size: 0.7rem;
-}
-
-.dist-row {
-  display: flex;
-  align-items: center;
-  gap: 4px;
-}
-
-.dist-label {
-  width: 10px;
-  text-align: right;
-  color: #999;
-}
-
-.dist-bar-bg {
-  flex: 1;
-  height: 8px;
-  background: #eee;
-  border-radius: 2px;
-  overflow: hidden;
-}
-
-.dist-bar {
-  height: 100%;
-  background: #f5a623;
-  border-radius: 2px;
-}
-
-.dist-count {
-  width: 16px;
-  text-align: right;
-  color: #999;
+.dist-chart {
+  display: block;
 }
