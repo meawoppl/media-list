@@ -75,3 +75,10 @@ No additional properties allowed.
 - Python 3.10+, only external dep is `jsonschema`
 - Keep JSON files human-readable (pretty-printed, sorted keys)
 - Site is plain HTML/CSS/JS — no build toolchain
+
+## Adding entries
+
+When the user asks to add a single media entry or recommender, assume the full flow:
+commit on a branch, push, open a PR to `main`, and actively watch it until it
+merges (poll CI, merge when green, or surface failures). Don't stop at the file
+edit.
