@@ -101,7 +101,8 @@ function sortItems(items) {
     if (sortCol === "avg") {
       const aa = a.avg ?? -1;
       const bb = b.avg ?? -1;
-      return dir * (aa - bb);
+      if (aa !== bb) return dir * (aa - bb);
+      return b.total - a.total;
     }
     return 0;
   });
@@ -131,17 +132,36 @@ function ratingDistribution(ratings) {
   const counts = [0, 0, 0, 0, 0];
   for (const r of ratings) counts[r - 1]++;
   const max = Math.max(...counts);
-  let html = '<div class="dist">';
-  for (let i = 4; i >= 0; i--) {
-    const pct = max > 0 ? (counts[i] / max) * 100 : 0;
-    html += `<div class="dist-row">
-      <span class="dist-label">${i + 1}</span>
-      <div class="dist-bar-bg"><div class="dist-bar" style="width:${pct}%"></div></div>
-      <span class="dist-count">${counts[i]}</span>
-    </div>`;
+
+  const W = 120;
+  const H = 44;
+  const padL = 2;
+  const padR = 2;
+  const padT = 2;
+  const axisH = 10;
+  const chartH = H - padT - axisH;
+  const bw = (W - padL - padR) / 5;
+  const gap = 2;
+
+  let bars = "";
+  let labels = "";
+  for (let i = 0; i < 5; i++) {
+    const h = max > 0 ? (counts[i] / max) * chartH : 0;
+    const x = padL + i * bw + gap / 2;
+    const y = padT + (chartH - h);
+    const w = bw - gap;
+    bars += `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="1" fill="#f5a623"><title>${i + 1}★: ${counts[i]}</title></rect>`;
+    if (counts[i] > 0) {
+      bars += `<text x="${x + w / 2}" y="${y - 1}" text-anchor="middle" font-size="7" fill="#666">${counts[i]}</text>`;
+    }
+    labels += `<text x="${x + w / 2}" y="${H - 1}" text-anchor="middle" font-size="8" fill="#999">${i + 1}</text>`;
   }
-  html += "</div>";
-  return html;
+
+  return `<svg class="dist-chart" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="Rating distribution">
+    <line x1="${padL}" y1="${padT + chartH + 0.5}" x2="${W - padR}" y2="${padT + chartH + 0.5}" stroke="#ddd" stroke-width="1"/>
+    ${bars}
+    ${labels}
+  </svg>`;
 }
 
 function render() {
