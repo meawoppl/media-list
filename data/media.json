@@ -11676,5 +11676,24 @@
     "status": "done",
     "date_added": "2026-04-01",
     "rating": 4
+  },
+  {
+    "author": "Matt Dinniman",
+    "category": "book",
+    "date_added": "2026-04-18",
+    "recommended_by": [
+      "BJ"
+    ],
+    "status": "queued",
+    "title": "Dungeon Crawler Carl"
+  },
+  {
+    "category": "tv",
+    "date_added": "2026-04-23",
+    "recommended_by": [
+      "LBH"
+    ],
+    "status": "queued",
+    "title": "Heated Rivalries"
   }
 ]
