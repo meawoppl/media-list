@@ -3,7 +3,7 @@ const DATA_BASE = "data/";
 let allItems = [];
 let recommenders = {};
 let recColors = {};
-let currentStatus = "all";
+let currentFilter = "unconsumed";
 let sortCol = "title";
 let sortAsc = true;
 
@@ -99,9 +99,11 @@ function sortIndicator(col) {
 function render() {
   const content = document.getElementById("content");
   const filtered =
-    currentStatus === "all"
+    currentFilter === "all"
       ? allItems
-      : allItems.filter((item) => item.status === currentStatus);
+      : currentFilter === "consumed"
+      ? allItems.filter((item) => item.status === "done")
+      : allItems.filter((item) => item.status !== "done");
 
   const sorted = sortItems(filtered);
 
@@ -161,11 +163,11 @@ function esc(str) {
   return d.innerHTML;
 }
 
-document.querySelectorAll(".filter").forEach((btn) => {
+document.querySelectorAll(".filter[data-filter]").forEach((btn) => {
   btn.addEventListener("click", () => {
-    document.querySelectorAll(".filter").forEach((b) => b.classList.remove("active"));
+    document.querySelectorAll(".filter[data-filter]").forEach((b) => b.classList.remove("active"));
     btn.classList.add("active");
-    currentStatus = btn.dataset.status;
+    currentFilter = btn.dataset.filter;
     render();
   });
 });
