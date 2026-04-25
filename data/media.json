@@ -52,7 +52,9 @@
     "status": "done",
     "checked": true,
     "url": "https://en.wikipedia.org/wiki/Jonathan%27s_Space_Report",
-    "recommended_by": [],
+    "recommended_by": [
+      "SGA"
+    ],
     "rating": 5
   },
   {
@@ -244,7 +246,9 @@
     "author": "Kirk Wallace Johnson",
     "year": 2018,
     "url": "https://en.wikipedia.org/wiki/Kirk_Wallace_Johnson",
-    "recommended_by": []
+    "recommended_by": [
+      "SK"
+    ]
   },
   {
     "title": "Perfume: The Story of a Murderer",
@@ -348,7 +352,9 @@
     "author": "Delia Owens",
     "year": 2018,
     "url": "https://en.wikipedia.org/wiki/Where_the_Crawdads_Sing",
-    "recommended_by": []
+    "recommended_by": [
+      "LBO"
+    ]
   },
   {
     "title": "Sleeping Dogs Lie",
@@ -420,7 +426,9 @@
     "author": "Markus Zusak",
     "year": 2005,
     "url": "https://en.wikipedia.org/wiki/The_Book_Thief",
-    "recommended_by": []
+    "recommended_by": [
+      "LBO"
+    ]
   },
   {
     "title": "Mindless Eating",
@@ -522,7 +530,8 @@
       "ALV",
       "KE",
       "SB",
-      "BMB"
+      "BMB",
+      "ROB"
     ],
     "checked": true,
     "year": 2013,
@@ -844,7 +853,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "GS"
+      "GHS"
     ],
     "checked": true,
     "year": 2020,
@@ -1001,7 +1010,9 @@
     "author": "Michio Kaku",
     "year": 1997,
     "url": "https://en.wikipedia.org/wiki/Visions:_How_Science_Will_Revolutionize_the_21st_Century",
-    "recommended_by": []
+    "recommended_by": [
+      "FT"
+    ]
   },
   {
     "title": "The Genius Plague",
@@ -1230,7 +1241,8 @@
       "MS",
       "MKI",
       "AF",
-      "SB"
+      "SB",
+      "SVA"
     ],
     "checked": true,
     "author": "James C. Scott",
@@ -1314,7 +1326,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "EPE"
+      "EAI"
     ],
     "checked": true,
     "author": "Catherynne M. Valente",
@@ -1326,7 +1338,8 @@
     "status": "done",
     "rating": 3,
     "recommended_by": [
-      "JW"
+      "JW",
+      "LBO"
     ],
     "checked": true,
     "category": "book",
@@ -1397,7 +1410,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "UN"
+      "UN",
+      "MM"
     ],
     "checked": true,
     "author": "Penny Le Couteur, Jay Burreson",
@@ -1710,7 +1724,9 @@
     "checked": true,
     "author": "Ellen Meister",
     "year": 2011,
-    "recommended_by": []
+    "recommended_by": [
+      "CD"
+    ]
   },
   {
     "title": "The Feminine Mystique",
@@ -1778,7 +1794,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "GS"
+      "GHS"
     ],
     "checked": true
   },
@@ -4874,7 +4890,7 @@
     "rating": 5,
     "recommended_by": [
       "BA",
-      "GS",
+      "GHS",
       "LLE",
       "MMC"
     ],
@@ -6798,7 +6814,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "GS"
+      "GHS"
     ],
     "author": "Jessica Fern",
     "year": 2020,
@@ -9396,7 +9412,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "GS"
+      "GHS"
     ],
     "director": "Cord Jefferson",
     "year": 2023,
