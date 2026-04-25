@@ -97,7 +97,9 @@
     "author": "Arvi Teikari",
     "year": 2019,
     "url": "https://en.wikipedia.org/wiki/Baba_Is_You",
-    "recommended_by": []
+    "recommended_by": [
+      "ALV"
+    ]
   },
   {
     "title": "Island",
@@ -166,7 +168,9 @@
     "checked": true,
     "year": 2016,
     "url": "https://en.wikipedia.org/wiki/Hyper_Light_Drifter",
-    "recommended_by": []
+    "recommended_by": [
+      "ALV"
+    ]
   },
   {
     "title": "The Legend of Zelda: Breath of the Wild",
@@ -505,7 +509,9 @@
     "author": "Karl Popper",
     "year": 1945,
     "url": "https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies",
-    "recommended_by": []
+    "recommended_by": [
+      "ALV"
+    ]
   },
   {
     "title": "Ancillary Justice",
@@ -515,7 +521,8 @@
     "recommended_by": [
       "ALV",
       "KE",
-      "SB"
+      "SB",
+      "BMB"
     ],
     "checked": true,
     "year": 2013,
@@ -1349,7 +1356,8 @@
     "status": "queued",
     "recommended_by": [
       "AC",
-      "JPO"
+      "JPO",
+      "SB"
     ],
     "checked": true,
     "author": "Bessel van der Kolk",
@@ -1655,7 +1663,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "UN"
+      "UN",
+      "AC"
     ],
     "checked": true,
     "author": "Kass Morgan",
@@ -1680,7 +1689,9 @@
     "author": "Peter A. Levine",
     "year": 1997,
     "url": "https://en.wikipedia.org/wiki/Waking_the_Tiger",
-    "recommended_by": []
+    "recommended_by": [
+      "AC"
+    ]
   },
   {
     "title": "The West Wing",
