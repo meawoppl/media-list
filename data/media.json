@@ -68,9 +68,11 @@
     "recommended_by": []
   },
   {
-    "title": "History of western philosophy",
+    "title": "A History of Western Philosophy",
     "category": "book",
-    "status": "queued",
+    "status": "done",
+    "rating": 5,
+    "date_added": "2026-04-01",
     "recommended_by": [
       "ALV"
     ],
@@ -1091,7 +1093,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "MRM"
+      "MRM",
+      "MET"
     ],
     "checked": true,
     "director": "Saul Metzstein",
@@ -11426,13 +11429,6 @@
     "status": "done",
     "date_added": "2026-04-01",
     "rating": 4
-  },
-  {
-    "title": "A History of Western Philosophy",
-    "category": "book",
-    "status": "done",
-    "date_added": "2026-04-01",
-    "rating": 5
   },
   {
     "title": "Abundance",
