@@ -52,7 +52,9 @@
     "status": "done",
     "checked": true,
     "url": "https://en.wikipedia.org/wiki/Jonathan%27s_Space_Report",
-    "recommended_by": [],
+    "recommended_by": [
+      "SGA"
+    ],
     "rating": 5
   },
   {
@@ -66,9 +68,11 @@
     "recommended_by": []
   },
   {
-    "title": "History of western philosophy",
+    "title": "A History of Western Philosophy",
     "category": "book",
-    "status": "queued",
+    "status": "done",
+    "rating": 5,
+    "date_added": "2026-04-01",
     "recommended_by": [
       "ALV"
     ],
@@ -97,7 +101,9 @@
     "author": "Arvi Teikari",
     "year": 2019,
     "url": "https://en.wikipedia.org/wiki/Baba_Is_You",
-    "recommended_by": []
+    "recommended_by": [
+      "ALV"
+    ]
   },
   {
     "title": "Island",
@@ -166,7 +172,9 @@
     "checked": true,
     "year": 2016,
     "url": "https://en.wikipedia.org/wiki/Hyper_Light_Drifter",
-    "recommended_by": []
+    "recommended_by": [
+      "ALV"
+    ]
   },
   {
     "title": "The Legend of Zelda: Breath of the Wild",
@@ -240,7 +248,9 @@
     "author": "Kirk Wallace Johnson",
     "year": 2018,
     "url": "https://en.wikipedia.org/wiki/Kirk_Wallace_Johnson",
-    "recommended_by": []
+    "recommended_by": [
+      "SK"
+    ]
   },
   {
     "title": "Perfume: The Story of a Murderer",
@@ -344,7 +354,9 @@
     "author": "Delia Owens",
     "year": 2018,
     "url": "https://en.wikipedia.org/wiki/Where_the_Crawdads_Sing",
-    "recommended_by": []
+    "recommended_by": [
+      "LBO"
+    ]
   },
   {
     "title": "Sleeping Dogs Lie",
@@ -416,7 +428,9 @@
     "author": "Markus Zusak",
     "year": 2005,
     "url": "https://en.wikipedia.org/wiki/The_Book_Thief",
-    "recommended_by": []
+    "recommended_by": [
+      "LBO"
+    ]
   },
   {
     "title": "Mindless Eating",
@@ -505,7 +519,9 @@
     "author": "Karl Popper",
     "year": 1945,
     "url": "https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies",
-    "recommended_by": []
+    "recommended_by": [
+      "ALV"
+    ]
   },
   {
     "title": "Ancillary Justice",
@@ -515,7 +531,9 @@
     "recommended_by": [
       "ALV",
       "KE",
-      "SB"
+      "SB",
+      "BMB",
+      "ROB"
     ],
     "checked": true,
     "year": 2013,
@@ -837,7 +855,7 @@
     "status": "done",
     "rating": 4,
     "recommended_by": [
-      "GS"
+      "GHS"
     ],
     "checked": true,
     "year": 2020,
@@ -994,7 +1012,9 @@
     "author": "Michio Kaku",
     "year": 1997,
     "url": "https://en.wikipedia.org/wiki/Visions:_How_Science_Will_Revolutionize_the_21st_Century",
-    "recommended_by": []
+    "recommended_by": [
+      "FT"
+    ]
   },
   {
     "title": "The Genius Plague",
@@ -1073,7 +1093,8 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "MRM"
+      "MRM",
+      "MET"
     ],
     "checked": true,
     "director": "Saul Metzstein",
@@ -1114,7 +1135,9 @@
     "director": "Aaron Golbert",
     "year": 2012,
     "url": "https://en.wikipedia.org/wiki/Degenerate_Art:_The_Art_and_Culture_of_Glass_Pipes",
-    "recommended_by": []
+    "recommended_by": [
+      "DF"
+    ]
   },
   {
     "title": "Start with Why",
@@ -1223,7 +1246,8 @@
       "MS",
       "MKI",
       "AF",
-      "SB"
+      "SB",
+      "SVA"
     ],
     "checked": true,
     "author": "James C. Scott",
@@ -1307,7 +1331,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "EPE"
+      "EAI"
     ],
     "checked": true,
     "author": "Catherynne M. Valente",
@@ -1319,7 +1343,8 @@
     "status": "done",
     "rating": 3,
     "recommended_by": [
-      "JW"
+      "JW",
+      "LBO"
     ],
     "checked": true,
     "category": "book",
@@ -1349,7 +1374,8 @@
     "status": "queued",
     "recommended_by": [
       "AC",
-      "JPO"
+      "JPO",
+      "SB"
     ],
     "checked": true,
     "author": "Bessel van der Kolk",
@@ -1389,7 +1415,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "UN"
+      "UN",
+      "MM"
     ],
     "checked": true,
     "author": "Penny Le Couteur, Jay Burreson",
@@ -1467,7 +1494,9 @@
     "author": "Lauren Redniss",
     "year": 2010,
     "url": "https://en.wikipedia.org/wiki/Radioactive:_Marie_%26_Pierre_Curie:_A_Tale_of_Love_and_Fallout",
-    "recommended_by": []
+    "recommended_by": [
+      "DF"
+    ]
   },
   {
     "title": "Transpocalypse Now",
@@ -1655,7 +1684,8 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "UN"
+      "UN",
+      "AC"
     ],
     "checked": true,
     "author": "Kass Morgan",
@@ -1680,7 +1710,9 @@
     "author": "Peter A. Levine",
     "year": 1997,
     "url": "https://en.wikipedia.org/wiki/Waking_the_Tiger",
-    "recommended_by": []
+    "recommended_by": [
+      "AC"
+    ]
   },
   {
     "title": "The West Wing",
@@ -1699,7 +1731,9 @@
     "checked": true,
     "author": "Ellen Meister",
     "year": 2011,
-    "recommended_by": []
+    "recommended_by": [
+      "CD"
+    ]
   },
   {
     "title": "The Feminine Mystique",
@@ -1767,7 +1801,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "GS"
+      "GHS"
     ],
     "checked": true
   },
@@ -4863,7 +4897,7 @@
     "rating": 5,
     "recommended_by": [
       "BA",
-      "GS",
+      "GHS",
       "LLE",
       "MMC"
     ],
@@ -6787,7 +6821,7 @@
     "category": "book",
     "status": "queued",
     "recommended_by": [
-      "GS"
+      "GHS"
     ],
     "author": "Jessica Fern",
     "year": 2020,
@@ -9385,7 +9419,7 @@
     "category": "movie",
     "status": "queued",
     "recommended_by": [
-      "GS"
+      "GHS"
     ],
     "director": "Cord Jefferson",
     "year": 2023,
@@ -11401,13 +11435,6 @@
     "rating": 4
   },
   {
-    "title": "A History of Western Philosophy",
-    "category": "book",
-    "status": "done",
-    "date_added": "2026-04-01",
-    "rating": 5
-  },
-  {
     "title": "Abundance",
     "category": "book",
     "status": "done",
@@ -11695,5 +11722,24 @@
     ],
     "status": "queued",
     "title": "Heated Rivalries"
+  },
+  {
+    "author": "Chuck Klosterman",
+    "category": "book",
+    "date_added": "2026-04-25",
+    "recommended_by": [
+      "JO"
+    ],
+    "status": "queued",
+    "title": "Sex, Drugs, and Cocoa Puffs",
+    "year": 2003
+  },
+  {
+    "author": "Eric S. Raymond",
+    "category": "article",
+    "date_added": "2026-04-25",
+    "status": "queued",
+    "title": "How To Ask Questions The Smart Way",
+    "url": "http://www.catb.org/~esr/faqs/smart-questions.html"
   }
 ]
