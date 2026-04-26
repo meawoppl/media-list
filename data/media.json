@@ -1135,7 +1135,9 @@
     "director": "Aaron Golbert",
     "year": 2012,
     "url": "https://en.wikipedia.org/wiki/Degenerate_Art:_The_Art_and_Culture_of_Glass_Pipes",
-    "recommended_by": []
+    "recommended_by": [
+      "DF"
+    ]
   },
   {
     "title": "Start with Why",
@@ -1492,7 +1494,9 @@
     "author": "Lauren Redniss",
     "year": 2010,
     "url": "https://en.wikipedia.org/wiki/Radioactive:_Marie_%26_Pierre_Curie:_A_Tale_of_Love_and_Fallout",
-    "recommended_by": []
+    "recommended_by": [
+      "DF"
+    ]
   },
   {
     "title": "Transpocalypse Now",
@@ -11718,5 +11722,24 @@
     ],
     "status": "queued",
     "title": "Heated Rivalries"
+  },
+  {
+    "author": "Chuck Klosterman",
+    "category": "book",
+    "date_added": "2026-04-25",
+    "recommended_by": [
+      "JO"
+    ],
+    "status": "queued",
+    "title": "Sex, Drugs, and Cocoa Puffs",
+    "year": 2003
+  },
+  {
+    "author": "Eric S. Raymond",
+    "category": "article",
+    "date_added": "2026-04-25",
+    "status": "queued",
+    "title": "How To Ask Questions The Smart Way",
+    "url": "http://www.catb.org/~esr/faqs/smart-questions.html"
   }
 ]
