@@ -11741,5 +11741,32 @@
     "status": "queued",
     "title": "How To Ask Questions The Smart Way",
     "url": "http://www.catb.org/~esr/faqs/smart-questions.html"
+  },
+  {
+    "author": "Jim Collins",
+    "category": "book",
+    "date_added": "2026-04-30",
+    "rating": 4,
+    "status": "done",
+    "title": "Good to Great",
+    "year": 2001
+  },
+  {
+    "author": "Gene Kim, Kevin Behr, George Spafford",
+    "category": "book",
+    "date_added": "2026-04-30",
+    "rating": 5,
+    "status": "done",
+    "title": "The Phoenix Project",
+    "year": 2013
+  },
+  {
+    "author": "Andrew S. Grove",
+    "category": "book",
+    "date_added": "2026-04-30",
+    "rating": 4,
+    "status": "done",
+    "title": "High Output Management",
+    "year": 1983
   }
 ]
