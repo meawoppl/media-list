@@ -11768,5 +11768,14 @@
     "status": "done",
     "title": "High Output Management",
     "year": 1983
+  },
+  {
+    "category": "book",
+    "date_added": "2026-04-30",
+    "recommended_by": [
+      "AT"
+    ],
+    "status": "queued",
+    "title": "Mortal Passage Trilogy"
   }
 ]
